@@ -1,0 +1,172 @@
+"Resource/UI/HudPasstimeTeamScore.res"
+{
+	"HudTeamScore"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"HudPasstimeTeamScore"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+	}
+
+	"LeftSideBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"LeftSideBG"
+		"xpos"			"c-230"
+		"ypos"			"r30"
+		"zpos"			"0"
+		"wide"			"60"
+		"tall"			"35"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"Blue"
+		"PaintBackgroundType"	"2"
+	}
+
+	"RightSideBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"RightSideBG"
+		"xpos"			"c170"
+		"ypos"			"r30"
+		"zpos"			"0"
+		"wide"			"60"
+		"tall"			"35"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"Red"
+		"PaintBackgroundType"	"2"
+	}
+
+	"OutlineBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"OutlineBG"
+		"xpos"			"9999"
+	}
+
+	"BlueScore"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueScore"
+		"xpos"			"c-230"
+		"ypos"			"r30"
+		"zpos"			"8"
+		"wide"			"60"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"east"
+		"labelText"		"%bluescore%"
+		"font"			"Cerbetica40"
+		"fgcolor"		"TanLight"
+		"textinsetx"	"10"
+	}
+	"BlueScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueScoreShadow"
+		"xpos"			"-2"
+		"ypos"			"-2"
+		"zpos"			"7"
+		"wide"			"60"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"east"
+		"labelText"		"%bluescore%"
+		"font"			"Cerbetica40"
+		"fgcolor"		"TransparentBlack"
+		"textinsetx"	"10"
+		"pin_to_sibling"	"BlueScore"
+	}
+
+	"RedScore"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScore"
+		"xpos"			"c170"
+		"ypos"			"r30"
+		"zpos"			"8"
+		"wide"			"60"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"west"
+		"labelText"		"%redscore%"
+		"font"			"Cerbetica40"
+		"fgcolor"		"TanLight"
+		"textinsetx"	"10"
+	}
+
+	"RedScoreShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedScoreShadow"
+		"xpos"			"-2"
+		"ypos"			"-2"
+		"zpos"			"7"
+		"wide"			"60"
+		"tall"			"30"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"west"
+		"labelText"		"%redscore%"
+		"font"			"Cerbetica40"
+		"fgcolor"		"TransparentBlack"
+		"textinsetx"	"10"
+		"pin_to_sibling"	"RedScore"
+	}
+
+	"PlayingToCluster"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"PlayingToCluster"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"10"
+		"wide"				"f0"
+		"tall"				"480"
+		"visible"			"1"
+		"enabled"			"1"
+
+		"PlayingTo"
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"PlayingTo"
+			"xpos"			"c-70"
+			"ypos"			"r54"
+			"zpos"			"4"
+			"wide"			"140"
+			"tall"			"30"
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		"#TF_PlayingTo"
+			"textAlignment"	"center"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"font"			"HudFontSmall"
+			"fgcolor"		"TanLight"
+		}
+
+		"PlayingToBG"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"PlayingToBG"
+			"xpos"			"c-60"
+			"ypos"			"r50"
+			"zpos"			"0"
+			"wide"			"120"
+			"tall"			"20"
+			"visible"		"1"
+			"enabled"		"1"
+			"bgcolor_override"	"Transparent"
+			"PaintBackgroundType"	"2"
+		}
+	}
+}
