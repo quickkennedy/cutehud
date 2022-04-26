@@ -111,7 +111,7 @@ Scheme
 		"HUDRedTeamSolid"						"255 111 111 255" //"180 92 77 255"
 		"HUDDeathWarning"						"255 0 0 255"
 		"HudWhite"								"255 255 255 255"
-		"HudOffWhite"							"White" //"200 187 161 255"
+		"HudOffWhite"							"255 255 255 255" //"200 187 161 255"
 		"HudBlack"								"16 16 16 230"
 		"ProgressBarBlue"						"91 122 142 255"
 		"CreditsGreen"							"94 150 49 255"
@@ -139,7 +139,7 @@ Scheme
 		"HudTrainingHint"						"212 160 23 255"
 
 		"TanDark"								"117 107 94 255"
-		"TanLight"								"White" //"235 226 202 255"
+		"TanLight"								"255 255 255 255" //"235 226 202 255"
 		"TanDarker"								"46 43 42 255"
 
 		"StoreDarkTan"							"131 121 104 255"
@@ -147,7 +147,7 @@ Scheme
 
 		// Building HUD Specific
 		"LowHealthRed"							"255 0 0 255"
-		"ProgressOffWhite"						"White" //"251 235 202 255"
+		"ProgressOffWhite"						"255 255 255 255" //"251 235 202 255"
 		"ProgressBackground"					"250 234 201 51"
 		"HealthBgGrey"							"72 71 69 255"
 
