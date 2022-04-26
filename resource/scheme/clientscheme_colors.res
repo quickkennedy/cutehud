@@ -88,7 +88,7 @@ Scheme
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 
-		"White"								"242 242 242 255"
+		"White"								"255 255 255 255" //242 242 242 255
 		"Red"									"255 111 111 150" //"205 50 50 150"
 		"RedSolid"								"255 111 111 255" //"205 50 50 255"
 		"Blue"								"111 146 255 150" //"70 130 180 150"
@@ -111,7 +111,7 @@ Scheme
 		"HUDRedTeamSolid"						"255 111 111 255" //"180 92 77 255"
 		"HUDDeathWarning"						"255 0 0 255"
 		"HudWhite"								"255 255 255 255"
-		"HudOffWhite"							"200 187 161 255"
+		"HudOffWhite"							"White" //"200 187 161 255"
 		"HudBlack"								"16 16 16 230"
 		"ProgressBarBlue"						"91 122 142 255"
 		"CreditsGreen"							"94 150 49 255"
@@ -139,7 +139,7 @@ Scheme
 		"HudTrainingHint"						"212 160 23 255"
 
 		"TanDark"								"117 107 94 255"
-		"TanLight"								"235 226 202 255"
+		"TanLight"								"White" //"235 226 202 255"
 		"TanDarker"								"46 43 42 255"
 
 		"StoreDarkTan"							"131 121 104 255"
@@ -147,7 +147,7 @@ Scheme
 
 		// Building HUD Specific
 		"LowHealthRed"							"255 0 0 255"
-		"ProgressOffWhite"						"251 235 202 255"
+		"ProgressOffWhite"						"White" //"251 235 202 255"
 		"ProgressBackground"					"250 234 201 51"
 		"HealthBgGrey"							"72 71 69 255"
 
@@ -159,7 +159,7 @@ Scheme
 		"DisguiseMenuIconRed"					"192 56 63 255"
 		"DisguiseMenuIconBlue"					"92 128 166 255"
 
-		"ProgressOffWhiteTransparent"			"251 235 202 128"
+		"ProgressOffWhiteTransparent"			"255 255 255 128" //"251 235 202 128"
  		"MatchmakingDialogTitleColor"			"200 184 151 255"
  		"MatchmakingMenuItemBackground"			"46 43 42 255"
  		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"
