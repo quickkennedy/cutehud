@@ -339,7 +339,7 @@
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"cs-0.5+45" //30
-		"ypos"			"205-100+10"
+		"ypos"			"115"
 		"zpos"			"0"
 		"wide"			"170"
 		"tall"			"50"
@@ -355,10 +355,10 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"NoGCMessage"
-		"xpos"				"30"
-		"ypos"				"200"
+		"xpos"				"cs-0.5"
+		"ypos"				"110"
 		"zpos"				"99"
-		"wide"				"260"
+		"wide"				"200"
 		"tall"				"70"
 		"visible"			"1"
 		"wrap"				"1"
