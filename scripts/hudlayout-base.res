@@ -109,7 +109,7 @@
 		"wide"				"f0"
 		"tall"				"500"
 		"MeterFG"			"White"
-		"MeterBG"			"Gray"
+		"MeterBG"			"0 0 0 140"
 	}
 
 	"HudBowCharge"
