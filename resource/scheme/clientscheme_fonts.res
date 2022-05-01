@@ -10,17 +10,28 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
+			}
+		}
+		"Cerbetica56Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"56"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		"Cerbetica40"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -30,27 +41,49 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
+			}
+		}
+		"Cerbetica32Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		"Cerbetica28"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
+			}
+		}
+		"Cerbetica28Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		"Cerbetica24"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -60,18 +93,19 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
 				"outline"		"1"
+				
 			}
 		}
 		"Cerbetica24Dropshadow"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -82,7 +116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -92,7 +126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -102,40 +136,44 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"16"
 				"additive"		"0"
 				"antialias"		"1"
+				
 			}
 		}
 		"Cerbetica14"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
+				
 			}
 		}
 		"Cerbetica12"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
+				
 			}
 		}
 		"Cerbetica10"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
+				
 			}
 		}
 		
@@ -144,14 +182,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"range"			"0x0000 0x00FF"
 				"weight"		"800"
@@ -161,7 +199,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
@@ -172,7 +210,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"underline"		"1"
@@ -180,7 +218,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -190,50 +228,50 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"13"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"22"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -243,45 +281,45 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 		}
@@ -289,60 +327,63 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"21"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"yres"			"600 767"
+				"antialias"		"1"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"22"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"28"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"30"
 				"weight"		"900"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
+				"antialias"		"1"
 			}
 			"7"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
+				"antialias"		"1"
 			}
 		}
 
@@ -350,7 +391,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"name"			"Helvetica" [$OSX]
 				"tall"			"18"
 				"weight"		"900"
@@ -363,7 +404,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -375,38 +416,38 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"700"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 			}
 			"4"
 			{
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"700"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 			}
 			"5"
 			{
 				"name"			"Verdana"
 				"tall"			"24"
 				"weight"		"700"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 			}
 		}
 
@@ -414,57 +455,57 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"32"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"44"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"48"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"52"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 			}
 		}
 		"HudFontGiantBold"
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"44"
-				"weight"		"500"
+				"weight"		"1000"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
@@ -473,7 +514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"44"
 				"weight"		"1000"
 				"additive"		"0"
@@ -484,7 +525,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
@@ -495,7 +536,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"35"
 				"weight"		"500"
 				"additive"		"0"
@@ -506,7 +547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -517,7 +558,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"30"
 				"weight"		"500"
 				"additive"		"0"
@@ -528,7 +569,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -539,7 +580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"weight"		"500"
 				"additive"		"0"
@@ -550,7 +591,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -561,7 +602,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -572,7 +613,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -583,7 +624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -594,7 +635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -605,7 +646,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -616,7 +657,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -627,7 +668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -639,7 +680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -650,7 +691,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -662,7 +703,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -674,7 +715,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"6"
 				"weight"		"500"
 				"additive"		"0"
@@ -686,7 +727,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -697,7 +738,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"16"
 				//"weight"		"500"
 				"additive"		"0"
@@ -708,7 +749,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"0"
@@ -719,7 +760,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -730,7 +771,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"9"
 				"weight"		"0"
 				"additive"		"0"
@@ -741,7 +782,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"400"
 				"additive"		"0"
@@ -753,7 +794,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -825,7 +866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -837,7 +878,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"16"
 				"weight"		"500"
 				"additive"		"0"
@@ -895,49 +936,49 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
-				"yres"			"1 599"
+				//"yres"			"1 599"
 				"range"			"0x0000 0x017F"
 				"additive"		"1"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"15"
 				"weight"		"700"
 				"antialias" 	"1"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 				"range"			"0x0000 0x017F"
 				"additive"		"1"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"900"
 				"antialias" 	"1"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"range"			"0x0000 0x017F"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"21"
 				"weight"		"900"
 				"antialias" 	"1"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"range"			"0x0000 0x017F"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"1000"
 				"antialias" 	"1"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 				"range"			"0x0000 0x017F"
 			}
 		}
@@ -1015,7 +1056,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1026,7 +1067,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1038,7 +1079,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1049,7 +1090,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1061,7 +1102,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"16"
 				"antialias" 	"1"
 				"weight"		"900"
@@ -1096,7 +1137,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1106,7 +1147,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1116,7 +1157,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"antialias" 	"1"
 				"weight"		"500"
@@ -1139,7 +1180,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"28"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1150,7 +1191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"40"
 				"antialias"		"1"
 				"custom"		"1" [$OSX]
@@ -1161,7 +1202,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"antialias" 	"1"
 				"custom"		"1" [$OSX]
@@ -1172,7 +1213,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"antialias"		"1"
@@ -1196,7 +1237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1207,7 +1248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1218,7 +1259,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1230,7 +1271,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1242,7 +1283,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1254,7 +1295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1266,7 +1307,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1278,7 +1319,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"34"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1301,47 +1342,47 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"52"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
-				"yres"			"1 599"
+				//"yres"			"1 599"
 				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"72"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 				"antialias" 	"1"
 			}
 			"3"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"100"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias" 	"1"
 			}
 			"4"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"140"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias" 	"1"
 			}
 			"5"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"180"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"400"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 				"antialias" 	"1"
 			}
 		}
@@ -1350,7 +1391,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"36"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -1362,7 +1403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1373,7 +1414,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"20"
 				"weight"		"400"
 				"additive"		"0"
@@ -1385,7 +1426,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
@@ -1397,7 +1438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1408,7 +1449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"7"
 				"weight"		"400"
 				"additive"		"0"
@@ -1420,7 +1461,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1435,7 +1476,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"700"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"dropshadow"	"0"
 			}
 			"2"
@@ -1443,7 +1484,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 				"dropshadow"	"0"
 			}
 			"3"
@@ -1451,7 +1492,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"dropshadow"	"0"
 			}
 			"4"
@@ -1459,7 +1500,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"700"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"dropshadow"	"0"
 			}
 			"5"
@@ -1467,7 +1508,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"24"
 				"weight"		"700"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 				"dropshadow"	"0"
 			}
 		}
@@ -1479,7 +1520,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"700"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"dropshadow"	"1"
 			}
 			"2"
@@ -1487,7 +1528,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 				"dropshadow"	"1"
 			}
 			"3"
@@ -1495,7 +1536,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"dropshadow"	"1"
 			}
 			"4"
@@ -1503,7 +1544,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"20"
 				"weight"		"700"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"dropshadow"	"1"
 			}
 			"5"
@@ -1511,7 +1552,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"24"
 				"weight"		"700"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 				"dropshadow"	"1"
 			}
 		}
@@ -1522,7 +1563,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"10"
 				"weight"		"700"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"dropshadow"	"1"
 			}
 			"2"
@@ -1530,7 +1571,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"10"
 				"weight"		"700"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 				"dropshadow"	"1"
 			}
 			"3"
@@ -1538,7 +1579,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"13"
 				"weight"		"700"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"dropshadow"	"1"
 			}
 			"4"
@@ -1546,7 +1587,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"dropshadow"	"1"
 			}
 			"5"
@@ -1554,7 +1595,7 @@ Scheme
 				"name"			"Verdana"
 				"tall"			"15"
 				"weight"		"700"
-				"yres"			"1200 10000"
+				//"yres"			"1200 10000"
 				"dropshadow"	"1"
 			}
 		}
@@ -1574,7 +1615,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"300"
@@ -1586,7 +1627,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1598,7 +1639,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"range"			"0x0000 0x017F"
@@ -1647,7 +1688,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"36"
 				"weight"		"500"
 			}
@@ -1656,7 +1697,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"30"
 				"weight"		"500"
 			}
@@ -1665,7 +1706,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"28"
 				"weight"		"500"
 			}
@@ -1674,7 +1715,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"22"
 				"weight"		"900"
 			}
@@ -1683,7 +1724,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"900"
 			}
@@ -1692,7 +1733,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"22"
 				"weight"		"500"
 			}
@@ -1701,7 +1742,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 			}
@@ -1739,7 +1780,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"36"
 				"weight"		"500"
 				"additive"		"0"
@@ -1750,7 +1791,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"600"
 				"additive"		"0"
@@ -1762,7 +1803,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
@@ -1774,7 +1815,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"900"
 				"antialias" 	"1"
@@ -1808,7 +1849,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -1825,7 +1866,7 @@ Scheme
 				"tall"			"10"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"antialias"		"1"
 			}
 			"2"
@@ -1834,7 +1875,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 1199"
+				//"yres"			"600 1199"
 				"antialias"		"1"
 			}
 			"3"
@@ -1843,7 +1884,7 @@ Scheme
 				"tall"			"15"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 		}
@@ -1852,7 +1893,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1863,7 +1904,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1874,7 +1915,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -1885,7 +1926,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -1896,7 +1937,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1907,7 +1948,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"antialias"		"1"
 				"weight"		"500"
@@ -1917,7 +1958,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1928,7 +1969,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -1939,7 +1980,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -1951,7 +1992,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"additive"		"0"
@@ -1962,7 +2003,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"500"
 				"blur"			"3"
@@ -1974,7 +2015,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"0"
 				"additive"		"1"
@@ -2034,7 +2075,7 @@ Scheme
 				"name"			"ocra"
 				"tall"			"10"
 				"weight"		"400"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2044,7 +2085,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"600 1023"
+				//"yres"			"600 1023"
 				"antialias"		"1"
 			}
 			"3"
@@ -2053,7 +2094,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"1024 6000"
+				//"yres"			"1024 6000"
 				"antialias"		"1"
 			}
 		}
@@ -2064,7 +2105,7 @@ Scheme
 				"name"			"ocra"
 				"tall"			"10"
 				"weight"		"800"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2074,7 +2115,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"800"
 				"additive"		"0"
-				"yres"			"600 1023"
+				//"yres"			"600 1023"
 				"antialias"		"1"
 			}
 			"3"
@@ -2083,7 +2124,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"800"
 				"additive"		"0"
-				"yres"			"1024 6000"
+				//"yres"			"1024 6000"
 				"antialias"		"1"
 			}
 		}
@@ -2116,7 +2157,7 @@ Scheme
 				"name"			"TF2 Secondary"
 				"tall"			"10"
 				"weight"		"400"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2126,7 +2167,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"600 1023"
+				//"yres"			"600 1023"
 				"antialias"		"1"
 			}
 			"3"
@@ -2135,7 +2176,7 @@ Scheme
 				"tall"			"22"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"1024 6000"
+				//"yres"			"1024 6000"
 				"antialias"		"1"
 			}
 		}
@@ -2146,7 +2187,7 @@ Scheme
 				"name"			"TF2 Secondary"
 				"tall"			"10"
 				"weight"		"400"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
 				"italic"		"1"
@@ -2157,7 +2198,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"600 1023"
+				//"yres"			"600 1023"
 				"antialias"		"1"
 				"italic"		"1"
 			}
@@ -2167,7 +2208,7 @@ Scheme
 				"tall"			"22"
 				"weight"		"400"
 				"additive"		"0"
-				"yres"			"1024 6000"
+				//"yres"			"1024 6000"
 				"antialias"		"1"
 				"italic"		"1"
 			}
@@ -2179,7 +2220,7 @@ Scheme
 				"name"			"TF2 Secondary"
 				"tall"			"10"
 				"weight"		"800"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 				"additive"		"0"
 				"antialias"		"1"
 			}
@@ -2189,7 +2230,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"800"
 				"additive"		"0"
-				"yres"			"600 1023"
+				//"yres"			"600 1023"
 				"antialias"		"1"
 			}
 			"3"
@@ -2198,7 +2239,7 @@ Scheme
 				"tall"			"18"
 				"weight"		"800"
 				"additive"		"0"
-				"yres"			"1024 6000"
+				//"yres"			"1024 6000"
 				"antialias"		"1"
 			}
 		}
@@ -2291,7 +2332,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
@@ -2299,7 +2340,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
@@ -2307,7 +2348,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
@@ -2316,7 +2357,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
@@ -2325,7 +2366,7 @@ Scheme
 				"tall"			"16"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 		}
@@ -2333,7 +2374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2348,7 +2389,7 @@ Scheme
 				"tall"			"12"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"480 599"
+				//"yres"			"480 599"
 			}
 			"2"
 			{
@@ -2356,7 +2397,7 @@ Scheme
 				"tall"			"13"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"600 767"
+				//"yres"			"600 767"
 			}
 			"3"
 			{
@@ -2364,7 +2405,7 @@ Scheme
 				"tall"			"14"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"768 1023"
+				//"yres"			"768 1023"
 				"antialias"		"1"
 			}
 			"4"
@@ -2373,7 +2414,7 @@ Scheme
 				"tall"			"20"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1024 1199"
+				//"yres"			"1024 1199"
 				"antialias"		"1"
 			}
 			"5"
@@ -2382,7 +2423,7 @@ Scheme
 				"tall"			"22"
 				"weight"		"0"
 				"range"			"0x0000 0x017F"
-				"yres"			"1200 6000"
+				//"yres"			"1200 6000"
 				"antialias"		"1"
 			}
 			"6"
@@ -2397,7 +2438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2408,7 +2449,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2419,7 +2460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2430,7 +2471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2441,7 +2482,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"18"
 				"weight"		"500"
 				"additive"		"0"
@@ -2454,7 +2495,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"14"
 				"weight"		"500"
 				"additive"		"0"
@@ -2465,7 +2506,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -2477,7 +2518,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"15"
 				"weight"		"500"
 				"range"			"0x0000 0x007F"
@@ -2490,7 +2531,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"10"
 				"weight"		"400"
 				"additive"		"0"
@@ -2502,7 +2543,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"antialias" 	"1"
@@ -2513,7 +2554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"blur"			"3"
@@ -2526,7 +2567,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Bahnschrift"//"Cerbetica"
+				"name"			"VAG Rounded BT"//"Cerbetica"
 				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
@@ -2728,13 +2769,13 @@ Scheme
 		}
 		"8"
 		{
-			//"font" 	"resource/fonts/Cerbetica.ttf"
-			//"name" 	"Bahnschrift"//"Cerbetica"
+			"font" 	"resource/fonts/Montserrat Bold.otf"
+			"name" 	"Montserrat Bold"
 		}
 		"9"
 		{
-			//"font" 	"resource/fonts/Cerbetica-Bold.ttf"
-			//"name" 	"Bahnschrift"//"Cerbetica-Bold"
+			"font" 	"resource/fonts/VAG Rounded BT.otf"
+			"name" 	"VAG Rounded BT"
 		}
 		"10"
 		{

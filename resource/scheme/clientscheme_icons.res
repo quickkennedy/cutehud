@@ -74,6 +74,20 @@ Scheme
 			}
 		}
 
+		"Skull18Blur"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"18" [$POSIX]
+				"tall"			"26" [$WINDOWS]
+				"weight"		"400"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
+			}
+		}
+
 		"Circle"
 		{
 			"1"
