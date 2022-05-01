@@ -90,7 +90,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica24"
+			"font"				"Cerbetica24Blur"
 			"fgcolor"			"TransparentBlack"
 			"pin_to_sibling"	"NumPipesLabel"
 		}

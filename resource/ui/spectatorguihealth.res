@@ -59,7 +59,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TargetHealthShadow"
 		"xpos"			"-1"
-		"ypos"			"-2"
+		"ypos"			"-1"
 		"zpos"			"5"
 		"wide"			"40"
 		"tall"			"15"

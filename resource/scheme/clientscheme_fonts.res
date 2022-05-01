@@ -89,7 +89,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"Cerbetica24Outline"
+		"Cerbetica24Blur"
 		{
 			"1"
 			{
@@ -97,7 +97,7 @@ Scheme
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
-				"outline"		"1"
+				"Blur"			"1"
 				
 			}
 		}
@@ -130,6 +130,17 @@ Scheme
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
+			}
+		}
+		"Cerbetica18Blur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		"Cerbetica16"
