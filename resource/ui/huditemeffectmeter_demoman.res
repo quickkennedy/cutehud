@@ -71,7 +71,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Cerbetica28"
-		"fgcolor"				"cute2"
+		"fgcolor"				"Health Normal"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -91,7 +91,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28"
+		"font"					"Cerbetica28Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}
@@ -101,10 +101,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterIcon"
 		"xpos"					"-2"
-		"ypos"					"10"
+		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"
+		"tall"					"40"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -114,7 +114,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Skull18"
-		"fgcolor"				"cute1"
+		"fgcolor"				"Health Normal"
 	}
 
 	"ItemEffectMeterIconShadow"
@@ -125,7 +125,7 @@
 		"ypos"					"-2"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"
+		"tall"					"40"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -134,7 +134,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Skull18"
+		"font"					"Skull18Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterIcon"
 	}
