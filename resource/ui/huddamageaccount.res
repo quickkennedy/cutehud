@@ -43,7 +43,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Cerbetica28"
+		"font"					"Cerbetica28Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"DamageAccountValue"
 	}

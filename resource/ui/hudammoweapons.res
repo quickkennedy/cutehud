@@ -38,7 +38,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClipShadow"
-		"font"				"Cerbetica56"
+		"font"				"Cerbetica56Blur"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -73,7 +73,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserveShadow"
-		"font"				"Cerbetica32"
+		"font"				"Cerbetica32Blur"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"

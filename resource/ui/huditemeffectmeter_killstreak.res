@@ -71,7 +71,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Cerbetica28"
-		"fgcolor"				"cute2"
+		"fgcolor"				"Ammo In Reserve"
 	}
 
 	"ItemEffectMeterCountShadow"
@@ -91,7 +91,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28"
+		"font"					"Cerbetica28Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}
@@ -114,7 +114,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Skull18"
-		"fgcolor"				"cute1"
+		"fgcolor"				"Ammo In Clip"
 	}
 
 	"ItemEffectMeterIconShadow"
@@ -134,7 +134,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Skull18"
+		"font"					"Skull18Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterIcon"
 	}

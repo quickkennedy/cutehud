@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica56"
+		"font"			"Cerbetica56Blur"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"PlayerHealthValue"
