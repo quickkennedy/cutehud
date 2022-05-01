@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\replay\thumbnails\hp\health_color_bg3"
+	//"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$ignorez" 1
+}
