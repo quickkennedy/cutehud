@@ -23,22 +23,25 @@ Scheme
 		"TextColor"					"117 107 94 255"
 		//---------------------------------------------
 		// Gameplay
-		"Ammo In Clip"				"255 173 255 255" //"48 255 48 255"
-		"Ammo In Reserve"			"255 111 255 255" //"72 255 255 255"
-		"Ammo In Clip Low"			"175 42 71 255" //"255 42 130 255"
-		"Ammo In Reserve Low"		"175 42 71 255" //"255 128 28 255"
-		"Health Normal"				"255 173 255 255"	 //"235 226 202 255"
-		"Health Buff"				"149 189 227 255" //"48 255 48 255"
-		"Health Hurt"				"175 42 71 255" //"255 153 0 255"
+		"Ammo In Clip"				"255 255 255 255" 	//"48 255 48 255"
+		"Ammo In Reserve"			"255 255 255 255" 	//"72 255 255 255"
+		"Ammo In Clip Low"			"207 191 255 255"	//"175 42 71 255" 		//"255 42 130 255"
+		"Ammo In Reserve Low"		"207 191 255 255"	//"175 42 71 255" 		//"255 128 28 255"
+		"Health Normal"				"255 255 255 255"	//"235 226 202 255"
+		"Health Buff"				"191 223 255 255"	//"149 189 227 255" 	//"48 255 48 255"
+		"Health Hurt"				"207 191 255 255"	//"175 42 71 255"		//"255 153 0 255"
 		"Heal Numbers"				"48 255 48 255"
-		"Damage Numbers"			"175 42 71 255" //"72 255 255 255"
+		"Damage Numbers"			"207 191 255 255"	//"175 42 71 255" 		//"72 255 255 255"
 		"ItemPanelBG"				"50 50 50 255"
-		"Button Color"				"255 173 255 255" //"72 255 255 255"
+		"Button Color"				"255 173 255 255" 	//"72 255 255 255"
 
-		"cute1"						"255 173 255 255" //	//light pink
-		"cute2"						"255 111 255 255" //	//dark pink
+		"cute1"						"cute3" 			//"255 173 255 255"		//light pink
+		"cute2"						"cute3" 			//"255 111 255 255"		//dark pink
 
-		"cute3"						"171 174 255 255" //	//baby blue
+		"cute3"						"171 174 255 255" 	//baby blue
+		
+		"TransparentBlack"			"0 0 0 140" 		//0 0 0 230
+		
 		//---------------------------------------------
 		// Crosshair Colors
 		"Crosshair"					"242 242 242 255"
@@ -100,7 +103,6 @@ Scheme
 
 		"Black"									"29 29 29 255"
 		"Transparent"							"0 0 0 0"
-		"TransparentBlack"						"0 0 0 230"
 		"TransparentLightBlack"					"0 0 0 90"
 		"FooterBGBlack"							"52 48 55 255"
 
