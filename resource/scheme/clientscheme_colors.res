@@ -21,7 +21,9 @@ Scheme
 		"DarkGrey"					"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
 		"TextColor"					"117 107 94 255"
-		//---------------------------------------------
+
+		"Lavender"				"207 191 255 255"
+
 		// Gameplay
 		"Ammo In Clip"				"255 255 255 255" 	//"48 255 48 255"
 		"Ammo In Reserve"			"255 255 255 255" 	//"72 255 255 255"
@@ -35,8 +37,8 @@ Scheme
 		"ItemPanelBG"				"50 50 50 255"
 		"Button Color"				"255 173 255 255" 	//"72 255 255 255"
 
-		"cute1"						"cute3" 			//"255 173 255 255"		//light pink
-		"cute2"						"cute3" 			//"255 111 255 255"		//dark pink
+		"cute1"						"207 191 255 255" 			//"255 173 255 255"		//light pink
+		"cute2"						"207 191 255 255" 			//"255 111 255 255"		//dark pink
 
 		"cute3"						"171 174 255 255" 	//baby blue
 		

@@ -5,23 +5,24 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
+		"Lavender"		"207 191 255 255"
+
 		// base colors
-		"White"				"255 255 255 255"
+		"White"			"255 255 255 255"
 		"OffWhite"			"216 216 216 255"
 		"DullWhite"			"142 142 142 255"
-		"Orange"			"156 82 33 255"
 		"TransparentBlack"	"0 0 0 128"
-		"Black"				"0 0 0 255"
-		"Green"				"63 185 73 255"
+		"Black"			"0 0 0 255"
+		"Green"			"63 185 73 255"
 		"Blank"				"0 0 0 0"
 		
-		"DarkBrown"			"60 56 53 255"
-		"TanBright"			"236 227 203 150"
-		"TanLight"			"201 188 162 150"
-		"TanDark"			"96 90 78 90"
-		"TextBright"		"251 236 203 150"
-		"TextBlack"			"42 39 37 255"
-		"TextDull"			"131 121 104 255"
+		"DarkBrown"			"53 56 60 255"
+		"TanBright"			"203 227 236 150"
+		"TanLight"			"162 188 201 150"
+		"TanDark"			"78 90 96 90"
+		"TextBright"		"255 255 255 255"	//"203 236 251 150"
+		"TextBlack"			"37 39 42 255"
+		"TextDull"			"104 121 131 255"
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -76,9 +77,9 @@ Scheme
 		FrameSystemButton.BgColor			"Blank"
 		FrameSystemButton.Icon				""
 		FrameSystemButton.DisabledIcon		""
-		FrameTitleBar.TextColor				"Orange"
+		FrameTitleBar.TextColor				"Lavender"
 		FrameTitleBar.BgColor				"Blank"
-		FrameTitleBar.DisabledTextColor		"Orange"
+		FrameTitleBar.DisabledTextColor		"Lavender"
 		FrameTitleBar.DisabledBgColor		"Blank"
 
 		GraphPanel.FgColor					"White"
@@ -100,7 +101,7 @@ Scheme
 		Menu.TextColor						"White"
 		Menu.BgColor						"TransparentBlack"
 		Menu.ArmedTextColor					"TextBlack"
-		Menu.ArmedBgColor					"Orange"
+		Menu.ArmedBgColor					"Lavender"
 		Menu.TextInset						"6"
 
 		Panel.FgColor						"Blank"
@@ -118,7 +119,7 @@ Scheme
 		RichText.TextColor					"White"
 		RichText.BgColor					"TransparentBlack"
 		RichText.SelectedTextColor			"White"
-		RichText.SelectedBgColor			"Orange"
+		RichText.SelectedBgColor			"Lavender"
 
 		ScrollBar.Wide						"0"
 		ScrollBarButton.FgColor				"Blank"
@@ -137,7 +138,7 @@ Scheme
 		SectionedListPanel.BrightTextColor	"White"
 		SectionedListPanel.BgColor			"TransparentBlack"
 		SectionedListPanel.SelectedTextColor			"Black"
-		SectionedListPanel.SelectedBgColor				"Orange"
+		SectionedListPanel.SelectedBgColor				"Lavender"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 155 0 128"
 
@@ -153,14 +154,14 @@ Scheme
 		TextEntry.DisabledTextColor			"DullWhite"
 		TextEntry.DisabledBgColor			"Blank"
 		TextEntry.SelectedTextColor			"White"
-		TextEntry.SelectedBgColor			"Orange"
+		TextEntry.SelectedBgColor			"Lavender"
 		TextEntry.OutOfFocusSelectedBgColor	"255 155 0 128"
 		TextEntry.FocusEdgeColor			"0 0 0 196"
 
-		ToggleButton.SelectedTextColor		"Orange"
+		ToggleButton.SelectedTextColor		"Lavender"
 
 		Tooltip.TextColor					"0 0 0 196"
-		Tooltip.BgColor						"Orange"
+		Tooltip.BgColor						"Lavender"
 
 		TreeView.BgColor					"TransparentBlack"
 
@@ -179,12 +180,12 @@ Scheme
 
 		NewGame.TextColor					"White"
 		NewGame.FillColor					"0 0 0 255"
-		NewGame.SelectionColor				"Orange"
+		NewGame.SelectionColor				"Lavender"
 		NewGame.DisabledColor				"128 128 128 196"
 
-		TFColors.ChatTextYellow				"251 235 202 255"
-		TFColors.ChatTextTeamBlue			"153 204 255 255"
-		TFColors.ChatTextTeamRed			"255 63 53 255"
+		TFColors.ChatTextYellow				"White"
+		TFColors.ChatTextTeamBlue			"BlueSolid"
+		TFColors.ChatTextTeamRed			"RedSolid"
 	}
 
 	//////////////////////// BITMAP FONT FILES /////////////////////////////

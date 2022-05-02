@@ -159,12 +159,12 @@ Scheme
 		Slider.DisabledTextColor1				"117 117 117 255"
 		Slider.DisabledTextColor2				"30 30 30 255"
 
-		TextEntry.TextColor						"Gray"
+		TextEntry.TextColor						"White" //"Gray"
 		TextEntry.BgColor						"Blank"
 		TextEntry.CursorColor					"Gray"
 		TextEntry.DisabledTextColor				"Gray"
 		TextEntry.DisabledBgColor				"Blank"
-		TextEntry.SelectedTextColor				"TanLight"
+		TextEntry.SelectedTextColor				"White" //"TanLight"
 		TextEntry.SelectedBgColor				"Gray"
 		TextEntry.OutOfFocusSelectedBgColor		"Blank"
 		TextEntry.FocusEdgeColor				"Blank"
@@ -200,8 +200,8 @@ Scheme
 
 		"ViewportBG"							"Blank"
 		"TeamSpec"								"204 204 204 255"
-		"TeamRed"								"255 64 64 255"
-		"TeamBlue"								"153 204 255 255"
+		"TeamRed"								"RedSolid" //"255 64 64 255"
+		"TeamBlue"								"BlueSolid" //"153 204 255 255"
 
 		"MapDescriptionText"					"Gray" // the text used in the map description window
 		"HudIcon_Green"							"0 160 0 255"
