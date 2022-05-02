@@ -1970,7 +1970,7 @@ Scheme
 			"1"
 			{
 				"name"			"VAG Rounded BT"//"Cerbetica"
-				"tall"			"10"
+				"tall"			"12"
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
