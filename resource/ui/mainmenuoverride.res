@@ -27,7 +27,7 @@
 		"ypos"			"cs-0.5"
 		"zpos"			"12"
 		"wide"			"240"
-		"tall"			"60"
+		"tall"			"80"
 		"visible"		"1"
 
 		"SubButton"
@@ -37,7 +37,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"240"
-			"tall"			"60"
+			"tall"			"80"
 			"autoResize"	"0"
 			//"pinCorner"		"3"
 			"visible"		"1"
@@ -152,8 +152,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"rs1-10"
-		"ypos"			"65"
+		"xpos"			"99999"//"rs1-10"
+		"ypos"			"35" //65
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"

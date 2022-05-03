@@ -218,36 +218,6 @@
 		}
 	}
 
-	"HudName"
-	{
-		"ControlName"	"CExImageButton"
-		"fieldName"		"HudName"
-		"xpos"			"cs-0.5" //40
-		"ypos"			"22"
-		"zpos"			"11"
-		"wide"			"120"
-		"tall"			"60"
-		"autoResize"	"0"
-		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"labelText"		"cutehud"
-		"font"			"HudFontGiant" //"HudFontMediumSecondary"
-		"textAlignment"	"center"
-		"textinsetx"	"0"
-		"use_proportional_insets" "0"
-		"dulltext"		"0"
-		"brighttext"	"0"
-		"default"		"1"
-		"paintbackground""0"
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"defaultFgColor_override" "White" //"TanLight"
-		"armedFgColor_override" "Lavender"
-	}
-
 	"TFLogoImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -350,8 +320,8 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"NoGCMessage"
-		"xpos"				"cs-0.5"
-		"ypos"				"110"
+		"xpos"				"-10" //cs-0.5
+		"ypos"				"25"
 		"zpos"				"99"
 		"wide"				"200"
 		"tall"				"70"
@@ -360,7 +330,7 @@
 		"textinsetx"		"15"
 		"textinsety"		"5"
 		"font"				"HudFontSmall"
-		"fgcolor_override"	"ColorCyan"
+		"fgcolor_override"	"White"
 		"labelText"			"#TF_MM_NoGC_Rank"
 		"textAlignment"		"north-west"
 		"bgcolor_override"	"Transparent"
@@ -559,10 +529,10 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"ServersButton"
 		"xpos"			"cs-0.5" //30
-		"ypos"			"r63" //c-50 //102
+		"ypos"			"r53" //c-50 //102
 		"zpos"			"11"
-		"wide"			"200"
-		"tall"			"60"//"18"
+		"wide"			"130"
+		"tall"			"40"//"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labeltext"		"servers" //"#StoreTitle"
@@ -588,10 +558,10 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingButton"
 		"xpos"			"cs-0.5+130" //30
-		"ypos"			"rs1"	//"c+50" //c-50 //200 //142
+		"ypos"			"r50"	//rs1 //"c+50" //c-50 //200 //142
 		"zpos"			"11"
 		"wide"			"120"
-		"tall"			"60" //"18"
+		"tall"			"40" //"18"
 		"visible"		"1"
 		"enabled"		"1"
 		//"AllCaps"		"1"
@@ -618,10 +588,10 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AdvSettingsButton"
 		"xpos"			"cs-0.5-130" //30
-		"ypos"			"rs1" //"c+50" //c+50 //162
+		"ypos"			"r50" //"c+50" //c+50 //162
 		"zpos"			"11"
 		"wide"			"120"
-		"tall"			"60" //"18"
+		"tall"			"40" //"18"
 		"visible"		"1"
 		"enabled"		"1"
 		//"AllCaps"		"1"
@@ -905,16 +875,16 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
-		"xpos"			"0"
-		"ypos"			"-20"
+		"xpos"			"cs-0.5+130"
+		"ypos"			"r65"
 		"zpos"			"12"
-		"wide"			"20"
+		"wide"			"120"
 		"tall"			"20"
 		"visible"		"1"
 
-		"pin_to_sibling"			"RequestCoachButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
+		//"pin_to_sibling"			"RequestCoachButton"
+		//"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
+		//"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
 
 		"SubButton"
 		{
@@ -922,15 +892,15 @@
 			"fieldName"		"SubButton"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"20"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
+			"font"			"HudFontGiant"
+			//"use_proportional_insets" "1"
 			"textAlignment"	"center"
 			"default"		"1"
 			"actionsignallevel" "2"
@@ -939,8 +909,81 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"defaultFgColor_override"	"White"
+			"armedFgColor_override"		"Lavender"
+		}
+	}
+
+	"HudName"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"HudName"
+		"xpos"			"r100" //40
+		"ypos"			"30"//"r65"
+		"zpos"			"99999"
+		"wide"			"120"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"cutehud"
+		"font"			"HudFontGiant" //"HudFontMediumSecondary"
+		"textAlignment"	"center"
+		"textinsetx"	"0"
+		"use_proportional_insets" "0"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"paintbackground""0"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override" "White" //"TanLight"
+		"armedFgColor_override" "Lavender"
+	}
+
+	"DisconnectButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"DisconnectButton"
+		"xpos"			"cs-0.5"
+		"ypos"			"r65"
+		"zpos"			"12"
+		"wide"			"120"
+		"tall"			"20"
+		"visible"		"1"
+
+		//"pin_to_sibling"			"RequestCoachButton"
+		//"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
+		//"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"120"
+			"tall"			"20"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"HudFontGiant"
+			//"use_proportional_insets" "1"
+			"textAlignment"	"center"
+			"default"		"1"
+			"actionsignallevel" "2"
+			"paintbackground"	"0"
+			"paintborder"		"0"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override"	"White"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -948,16 +991,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
-		"xpos"			"0"
-		"ypos"			"-20"
+		"xpos"			"cs-0.5-130"
+		"ypos"			"r65"
 		"zpos"			"12"
-		"wide"			"20"
+		"wide"			"120"
 		"tall"			"20"
 		"visible"		"1"
-
-		"pin_to_sibling"			"CallVoteButton"
-		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
 
 		"SubButton"
 		{
@@ -965,25 +1004,25 @@
 			"fieldName"		"SubButton"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"20"
+			"wide"			"120"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
-			"tabPosition"	"0"
-			"font"			"CustomIcons"
-			"use_proportional_insets" "1"
+			//"tabPosition"	"0"
+			"font"			"HudFontGiant"
+			//"use_proportional_insets" "1"
 			"textAlignment"	"center"
-			"default"		"1"
+			//"default"		"1"
 			"actionsignallevel" "2"
 			"paintbackground"	"0"
 			"paintborder"		"0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"defaultFgColor_override"	"White"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -998,7 +1037,7 @@
 		"tall"			"20"
 		"visible"		"1"
 
-		"pin_to_sibling"			"MutePlayersButton"
+		"pin_to_sibling"			"RequestCoachButton"
 		"pin_corner_to_sibling" 	"PIN_TOPRIGHT"
 		"pin_to_sibling_corner" 	"PIN_TOPRIGHT"
 
