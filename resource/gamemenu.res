@@ -45,18 +45,35 @@
 	}
 	"CallVoteButton"
 	{
-		"label"			"i"
+		"label"			"vote" //i
 		"command"		"callvote"
 		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_CallVote"
+		//"tooltip"		"#MMenu_CallVote"
 	}
+
+	"DisconnectButton"
+	{
+		"label"			"disconnect" //i
+		"command"		"disconnect"
+		"OnlyInGame"	"1"
+		//"tooltip"		"#MMenu_CallVote"
+	}
+
 	"MutePlayersButton"
 	{
-		"label"			"j"
+		"label"			"mute"//"j"
 		"command"		"OpenMutePlayerDialog"
 		"OnlyInGame"	"1"
-		"tooltip"		"#MMenu_MutePlayers"
+		//"tooltip"		"#MMenu_MutePlayers"
 	}
+
+	"ResumeGameButton"
+	{
+		"label"			"click to resume game"
+		"command"		"engine cancelselect"
+		"OnlyInGame"	"1"
+	}
+
 	"ReportPlayerButton"
 	{
 		"label"			"k"

@@ -1,6 +1,6 @@
 "#base" "../../resource/preload.res"
 "#base" "mainmenuoverride-base.res"
-"#base" "mainmenuoverride-outlines.res"
+//"#base" "mainmenuoverride-outlines.res"
 #base "../../resource/tools.res"
 
 "Resource/UI/MainMenuOverride.res"
@@ -17,6 +17,45 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"
+	}
+
+	"ResumeGameButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"ResumeGameButton"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"zpos"			"12"
+		"wide"			"240"
+		"tall"			"80"
+		"visible"		"1"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"240"
+			"tall"			"80"
+			"autoResize"	"0"
+			//"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			//"tabPosition"	"0"
+			"font"			"HudFontGiant"
+			"textAlignment"	"center"
+			//"default"		"1"
+			"actionsignallevel" "2"
+			"paintbackground"	"0"
+			"paintborder"		"0"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override"	"White"
+			"armedFgColor_override"		"Lavender"
+		}
 	}
 
 	"Notifications_Panel"
@@ -113,8 +152,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"rs1-10"
-		"ypos"			"65"
+		"xpos"			"99999"//"rs1-10"
+		"ypos"			"35" //65
 		"zpos"			"1"
 		"wide"			"20"
 		"tall"			"20"
