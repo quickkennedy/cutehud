@@ -223,20 +223,20 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"HudName"
 		"xpos"			"cs-0.5" //40
-		"ypos"			"40"
+		"ypos"			"22"
 		"zpos"			"11"
-		"wide"			"400"
-		"tall"			"50"
+		"wide"			"120"
+		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"cutehud"
-		"font"			"HudFontGiantBold" //"HudFontMediumSecondary"
+		"font"			"HudFontGiant" //"HudFontMediumSecondary"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
-		"use_proportional_insets" "1"
+		"use_proportional_insets" "0"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"1"
@@ -244,12 +244,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" "cute3" //"TanLight"
-		"armedFgColor_override" "ColorCyan"
-		"depressedFgColor_override" "ColorCyan"
-
-		"image_drawcolor"	"cute3" //"TanLight"
-		"image_armedcolor"	"ColorCyan"
+		"defaultFgColor_override" "White" //"TanLight"
+		"armedFgColor_override" "Lavender"
 	}
 
 	"TFLogoImage"
@@ -271,24 +267,17 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"cs-0.5-55" //140
-		"ypos"			"cs-0.5-100"
-		"zpos"			"0"
-		"wide"			"170"
-		"tall"			"800"
+		"xpos"			"99999"
+		"ypos"			"99999"
 		"visible"		"0"
-		"proportionaltoparent"	"1"
-		"mouseinputenabled"	"1"
-		"matchgroup"	"MatchGroup_Casual_12v12"
-		"show_progress"	"0"
 	}
 
 	"CycleRankTypeButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"-170" //"270"
-		"ypos"			"10" //"cs-0.5-33"
+		"xpos"			"-160" //"270"
+		"ypos"			"-21" //"cs-0.5-33"
 		"wide"			"30"
 		"tall"			"30"
 		"autoResize"	"0"
@@ -309,9 +298,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
-		"depressedFgColor_override" "TanLight"
+		"defaultFgColor_override" 	"White"
+		"armedFgColor_override" 	"Lavender"
 
 		"pin_to_sibling"	"RankPanel"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -338,13 +326,13 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"cs-0.5+45" //30
-		"ypos"			"115"
+		"xpos"			"-30"//"cs-0.5+45" //30
+		"ypos"			"30"
 		"zpos"			"0"
-		"wide"			"170"
+		"wide"			"200" //170
 		"tall"			"50"
 		"visible"		"1"
-		"proportionaltoparent"	"1"
+		"proportionaltoparent"	"0"
 		"mouseinputenabled"	"0"
 		"matchgroup"	"MatchGroup_Casual_12v12"
 		"xp_source_notification_center_x"	"350"
@@ -497,135 +485,24 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FriendsContainer"
-		"xpos"			"c-250"
-		"ypos"			"370"
-		"zpos"			"5"
-		"wide"			"498"
-		"tall"			"100"
-		"visible"		"1"
-		"border"		"FriendsBorder"
-		"bgcolor_override"	"0 0 0 140"
-
-		"TitleLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"TitleLabel"
-			"font"			"HudFontSmall"
-			"labelText"		"#TF_Competitive_Friends"
-			"textAlignment"	"center"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"260"
-			"tall"			"20"
-			"visible"		"0"
-			"enabled"		"0"
-			"fgcolor_override"	"TanLight"
-		}
-
-		"InnerShadow"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"InnerShadow"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"501"
-			"wide"			"f20"
-			"tall"			"150"
-			"visible"		"0"
-			"PaintBackgroundType"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"0"
-			"paintborder"	"1"
-			"border"		"InnerShadowBorder"
-		}
-
-		"SteamFriendsList"
-		{
-			"ControlName"	"CSteamFriendsListPanel"
-			"fieldName"		"SteamFriendsList"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"500"
-			"wide"			"498"
-			"tall"			"160"
-			"visible"		"1"
-			"proportionaltoparent"	"1"
-			"columns_count"	"5"
-			"inset_x"		"5"
-			"inset_y"		"5"
-			"row_gap"		"5"
-			"column_gap"	"5"
-			"restrict_width"	"0"
-			"friendpanel_kv"
-			{
-				"wide"			"94"
-				"tall"			"20"
-			}
-
-			"ScrollBar"
-			{
-				"ControlName"	"ScrollBar"
-				"FieldName"		"ScrollBar"
-				"xpos"			"rs1-1"
-				"ypos"			"0"
-				"tall"			"f0"
-				"wide"			"5"
-				"zpos"			"1000"
-				"nobuttons"		"1"
-				"proportionaltoparent"	"1"
-
-				"Slider"
-				{
-					"fgcolor_override"	"TanLight"
-				}
-
-				"UpButton"
-				{
-					"ControlName"	"Button"
-					"FieldName"		"UpButton"
-					"visible"		"0"
-				}
-
-				"DownButton"
-				{
-					"ControlName"	"Button"
-					"FieldName"		"DownButton"
-					"visible"		"0"
-				}
-			}
-		}
-
-		"BelowDarken"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"BelowDarken"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"499"
-			"wide"			"f20"
-			"tall"			"150"
-			"visible"		"0"
-			"PaintBackgroundType"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"0"
-			"bgcolor_override"	"0 0 0 100"
-		}
+		"xpos"			"99999"
+		"ypos"			"99999"
 	}
 
 	"CharacterSetupButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CharacterSetupButton"
-		"xpos"			"cs-0.5-130" //"30"
-		"ypos"			"c-50" //c+50 //"82"
+		"xpos"			"cs-0.5+230" //"30"
+		"ypos"			"rs1" //c+50 //"82"
 		"zpos"			"11"
-		"wide"			"250"
+		"wide"			"120"
 		"tall"			"60" //"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"labeltext"		"backpack" //"#MMenu_CharacterSetup"
+		"labeltext"		"items" //"#MMenu_CharacterSetup"
 		"command"		"engine open_charinfo"
-		"font"			"HudFontGiantBold" //"HudFontSmallishBold"
+		"font"			"HudFontGiant" //"HudFontSmallishBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0" //25
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -634,8 +511,8 @@
 		"border_default"	""
 		"border_armed"		""
 
-		"defaultFgColor_override" 	"cute3" //"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"Transparent"
@@ -645,15 +522,44 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"GeneralStoreButton"
-		"xpos"			"cs-0.5+130" //30
-		"ypos"			"c-50" //c-50 //102
+		"xpos"			"cs-0.5-230" //30
+		"ypos"			"rs1" //c-50 //102
 		"zpos"			"11"
-		"wide"			"250"
+		"wide"			"120"
 		"tall"			"60"//"18"
 		"visible"		"1"
 		"enabled"		"1"
 		"labeltext"		"store" //"#StoreTitle"
 		"command" 		"engine open_store"
+		"font"			"HudFontGiant" //"HudFontSmallishBold"
+		"textAlignment"	"center"
+		"textinsetx"	"0" //25
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"border_default"	""
+		"border_armed"		""
+
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
+
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override" 	"Transparent"
+	}
+
+	"ServersButton"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"ServersButton"
+		"xpos"			"cs-0.5" //30
+		"ypos"			"r63" //c-50 //102
+		"zpos"			"11"
+		"wide"			"200"
+		"tall"			"60"//"18"
+		"visible"		"1"
+		"enabled"		"1"
+		"labeltext"		"servers" //"#StoreTitle"
+		"command" 		"OpenServerBrowser"
 		"font"			"HudFontGiantBold" //"HudFontSmallishBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0" //25
@@ -663,8 +569,8 @@
 		"border_default"	""
 		"border_armed"		""
 
-		"defaultFgColor_override" 	"cute3" //"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"Transparent"
@@ -674,17 +580,17 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"SettingButton"
-		"xpos"			"cs-0.5-130" //30
-		"ypos"			"c+50" //c-50 //200 //142
+		"xpos"			"cs-0.5+130" //30
+		"ypos"			"rs1"	//"c+50" //c-50 //200 //142
 		"zpos"			"11"
-		"wide"			"250"
+		"wide"			"120"
 		"tall"			"60" //"18"
 		"visible"		"1"
 		"enabled"		"1"
 		//"AllCaps"		"1"
 		"labeltext"		"options" //"#MMenu_Tooltip_Options"
 		"command"		"OpenOptionsDialog"
-		"font"			"HudFontGiantBold" //"HudFontSmallishBold"
+		"font"			"HudFontGiant" //"HudFontSmallishBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -693,8 +599,8 @@
 		"border_default"	""
 		"border_armed"		""
 
-		"defaultFgColor_override" 	"cute3" //"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"Transparent"
@@ -704,17 +610,17 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"AdvSettingsButton"
-		"xpos"			"cs-0.5+130" //30
-		"ypos"			"c+50" //c+50 //162
+		"xpos"			"cs-0.5-130" //30
+		"ypos"			"rs1" //"c+50" //c+50 //162
 		"zpos"			"11"
-		"wide"			"250"
+		"wide"			"120"
 		"tall"			"60" //"18"
 		"visible"		"1"
 		"enabled"		"1"
 		//"AllCaps"		"1"
-		"labeltext"		"adv. options" //"#MMenu_Tooltip_AdvOptions"
+		"labeltext"		"advanced" //"#MMenu_Tooltip_AdvOptions"
 		"command"		"OpenTF2Options"
-		"font"			"HudFontGiantBold" //"HudFontSmallishBold"
+		"font"			"HudFontGiant" //"HudFontSmallishBold"
 		"textAlignment"	"center"
 		"textinsetx"	"0" //25
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -723,8 +629,8 @@
 		"border_default"	""
 		"border_armed"		""
 
-		"defaultFgColor_override" 	"cute3" //"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"Transparent"

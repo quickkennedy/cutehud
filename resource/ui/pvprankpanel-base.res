@@ -205,7 +205,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"NameLabel"
-			"xpos"			"0"
+			"xpos"			"35"
 			"ypos"			"0"
 			"wide"			"170"
 			"zpos"			"100"
@@ -214,7 +214,7 @@
 			"enabled"		"1"
 			"font"			"HudFontSmallishBold"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"	"center"
+			"textAlignment"	"Left"
 			"labelText"		"%name%"
 			"proportionaltoparent"	"1"
 
@@ -228,7 +228,7 @@
 		{
 			"ControlName"	"CAutoFittingLabel"
 			"fieldName"		"DescLine1"
-			"xpos"			"0"
+			"xpos"			"35"
 			"ypos"			"13"
 			"wide"			"170"
 			"zpos"			"100"
@@ -237,7 +237,7 @@
 			"enabled"		"1"
 			"font"			"HudFontSmallest"
 			"fgcolor_override"	"TanLight"
-			"textAlignment"	"center"
+			"textAlignment"	"Left"
 			"labelText"		"%desc1%"
 			"proportionaltoparent"	"1"
 
@@ -389,7 +389,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"20 20 20 0"
 						"bgcolor_override"	"Transparent"
 					}
 
@@ -404,7 +404,8 @@
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"CreditsGreen"
+						"fgcolor_override"	"White"
+						"bgcolor_override"	"15 15 15 255" //CreditsGreen
 					}
 
 					"Frame"
