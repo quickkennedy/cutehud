@@ -19,6 +19,45 @@
 		"scaleImage"		"1"
 	}
 
+	"ResumeGameButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"ResumeGameButton"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"zpos"			"12"
+		"wide"			"240"
+		"tall"			"60"
+		"visible"		"1"
+
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"240"
+			"tall"			"60"
+			"autoResize"	"0"
+			//"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			//"tabPosition"	"0"
+			"font"			"HudFontGiant"
+			"textAlignment"	"center"
+			//"default"		"1"
+			"actionsignallevel" "2"
+			"paintbackground"	"0"
+			"paintborder"		"0"
+
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override"	"White"
+			"armedFgColor_override"		"Lavender"
+		}
+	}
+
 	"Notifications_Panel"
 	{
 		"ControlName"	"EditablePanel"

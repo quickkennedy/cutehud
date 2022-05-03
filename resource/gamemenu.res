@@ -57,6 +57,14 @@
 		"OnlyInGame"	"1"
 		"tooltip"		"#MMenu_MutePlayers"
 	}
+
+	"ResumeGameButton"
+	{
+		"label"			"click to resume game"
+		"command"		"engine cancelselect"
+		"OnlyInGame"	"1"
+	}
+
 	"ReportPlayerButton"
 	{
 		"label"			"k"
