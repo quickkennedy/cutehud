@@ -267,9 +267,16 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"99999"
+		"xpos"			"99999" //140
 		"ypos"			"99999"
+		"zpos"			"0"
+		"wide"			"170"
+		"tall"			"800"
 		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"1"
+		"matchgroup"	"MatchGroup_Casual_12v12"
+		"show_progress"	"0"
 	}
 
 	"CycleRankTypeButton"
