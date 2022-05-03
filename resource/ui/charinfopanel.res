@@ -90,6 +90,7 @@
 
 	"Sheet"
 	{
+		"xpos"				"99999"
 		"ControlName"		"EditablePanel"
 		"fieldName"			"Sheet"
 		"tabxindent"		"80"
@@ -145,7 +146,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"Back (&Q)"
+		"labelText"			"back"
 		"font"				"HudFontMediumSmall"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -171,7 +172,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
-		"labelText"			"Close (&E)"
+		"labelText"			"close"
 		"font"				"HudFontMediumSmall"
 		"textAlignment"		"center"
 		"dulltext"			"0"
@@ -181,6 +182,30 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+
+	"backkey"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"backkey"
+		"xpos"				"99999"
+		"ypos"				"99999"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&Q"
+		"Command"			"back"
+	}
+
+	"closekey"
+	{
+		"ControlName"		"CExButton"
+		"fieldName"			"closekey"
+		"xpos"				"99999"
+		"ypos"				"99999"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&E"
+		"Command"			"close"
 	}
 
 	"NotificationsPresentPanel"
