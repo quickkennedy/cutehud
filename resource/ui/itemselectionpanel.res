@@ -87,24 +87,6 @@
 		}
 	}
 
-	"CaratLabel"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"CaratLabel"
-		"font"			"HudFontMediumSmall"
-		"labelText"		">>"
-		"textAlignment"	"west"
-		"xpos"			"c-290"
-		"ypos"			"26"
-		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"16"
-		"autoResize"	"1"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor_override" "ColorPurple"
-	}
 	"ClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -112,7 +94,7 @@
 		"font"			"HudFontMedium"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"west"
-		"xpos"			"c-270"
+		"xpos"			"c-290"
 		"ypos"			"15"
 		"zpos"			"1"
 		"wide"			"350"
