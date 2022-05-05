@@ -276,13 +276,13 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"RedButton"
 		"xpos"				"c-27"
-		"ypos"				"r150"
-		"zpos"				"12"
+		"ypos"				"r150" //r150
+		"zpos"				"99999"
 		"wide"				"25"
 		"tall"				"25"
 		"autoResize"		"0"
 		"pinCorner"			"0"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"v" //R
@@ -307,13 +307,13 @@
 		"ControlName"		"CExImageButton"
 		"fieldName"			"BlueButton"
 		"xpos"				"c"
-		"ypos"				"r150"
-		"zpos"				"12"
+		"ypos"				"r100" //r150
+		"zpos"				"99999"
 		"wide"				"25"
 		"tall"				"25"
 		"autoResize"		"0"
 		"pinCorner"			"0"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"v" //B

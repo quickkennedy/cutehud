@@ -73,24 +73,9 @@
 		"tileImage"			"1"
 	}
 
-	"FooterLine"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"FooterLine"
-		"xpos"				"0"
-		"ypos"				"420"
-		"zpos"				"2"
-		"wide"				"f0"
-		"tall"				"2"
-		"visible"			"1"
-		"enabled"			"1"
-		"PaintBackgroundType"	"2"
-		"bgcolor_override"		"ColorCyan"
-	}
-
 	"Sheet"
 	{
-		"xpos"				"99999"
+		//"xpos"				"99999"
 		"ControlName"		"EditablePanel"
 		"fieldName"			"Sheet"
 		"tabxindent"		"80"
@@ -98,37 +83,27 @@
 		"tabwidth"			"240"
 		"tabheight"			"20"
 		"transition_time" 	"0"
-		"yoffset"			"14"
-
-		"HeaderLine"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"HeaderLine"
-			"xpos"			"0"
-			"ypos"			"32"
-			"zpos"			"5"
-			"wide"			"f0"
-			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
-			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorCyan"
-		}
+		//"yoffset"			"14"
 
 		"tabskv"
 		{
-			"textinsetx"				"25"
-			"textinsety"				"5"
+			"visible"					"0"
+			"enabled"					"0"
+			"xpos"						"99999"
+			"wide"						"0"
+			"tall"						"0"
+			"textinsetx"				"99999" //"25"
+			"textinsety"				"99999" //"5"
 			"textAlignment"				"north"
-			"font"						"HudFontSmall"
-			"selectedcolor"				"TanLight"
-			"unselectedcolor"			"TanDark"
-			"defaultBgColor_override"	"DarkGrey"
+			"font"						"" //HudFontSmall
+			"selectedcolor"				"Lavender"
+			"unselectedcolor"			"White"
+			//"defaultBgColor_override"	"DarkGrey"
 			"paintbackground"			"1"
-			"activeborder_override"		"CyanBorderTabs"
-			"normalborder_override"		"CyanBorderTabsInactive"
-			"armedBgColor_override"		"10 10 10 255"
-			"selectedBgColor_override"	"10 10 10 255"
+			//"activeborder_override"		"CyanBorderTabs"
+			//"normalborder_override"		"CyanBorderTabsInactive"
+			"armedBgColor_override"		"Transparent"
+			"selectedBgColor_override"	"Transparent"
 		}
 	}
 
@@ -136,18 +111,18 @@
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"BackButton"
-		"xpos"				"c-295"
-		"ypos"				"437"
+		"xpos"				"cs-0.5-235"
+		"ypos"				"427"
 		"zpos"				"2"
-		"wide"				"100"
-		"tall"				"20"
+		"wide"				"200"
+		"tall"				"40"
 		"autoResize"		"0"
 		"pinCorner"			"3"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"back"
-		"font"				"HudFontMediumSmall"
+		"font"				"HudFontGiantBold"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
@@ -156,24 +131,30 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
+
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override" 	"Transparent"
 	}
 
 	"CloseButton"
 	{
 		"ControlName"		"CExButton"
 		"fieldName"			"CloseButton"
-		"xpos"				"c+195"
-		"ypos"				"437"
+		"xpos"				"cs-0.5+235"
+		"ypos"				"427"
 		"zpos"				"2"
-		"wide"				"100"
-		"tall"				"20"
+		"wide"				"200"
+		"tall"				"40"
 		"autoResize"		"0"
 		"pinCorner"			"3"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"close"
-		"font"				"HudFontMediumSmall"
+		"font"				"HudFontGiantBold"
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
@@ -182,6 +163,12 @@
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"defaultFgColor_override" 	"White" //"TanLight"
+		"armedFgColor_override" 	"Lavender"
+
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override" 	"Transparent"
 	}
 
 	"backkey"
