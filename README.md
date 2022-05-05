@@ -1,3 +1,3 @@
 # cutehud
  
-based off candyhud, takes inspiration from reizu's krunker css
+based off candyhud, takes heavy inspiration from reizu's krunker css
