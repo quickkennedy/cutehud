@@ -1,5 +1,18 @@
 "Resource/UI/ControlPointIcon.res"
 {
+	"ControlPointIcon"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"	  								"ControlPointIcon"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"2"
+		"wide"										"22" //23
+		"tall"										"22" //23
+		"visible"	   						 		"1"
+		"enabled"									"1"
+	}
+
 	// black border
 	
 	"ImageBack"
@@ -36,7 +49,7 @@
 	{
 		"ControlName"	 							"ImagePanel"		   
 		"fieldName"	   								"ImageBorderRight"
-		"xpos"										"21"
+		"xpos"										"20"
 		"ypos"										"0"
 		"zpos"		  								"3"
 		"wide"		  								"3"
@@ -67,7 +80,7 @@
 		"ControlName"   							"ImagePanel"		   
 		"fieldName"	  								"ImageBorderBottom"
 		"xpos"		  								"0"
-		"ypos"		  								"21"
+		"ypos"		  								"20"
 		"zpos"		  								"3"
 		"wide"		  								"32"
 		"tall"		   								"3"
