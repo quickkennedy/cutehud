@@ -23,9 +23,9 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs-1.0"
+			"xpos"					"cs-0.5"
 			"ypos"					"0"
-			"wide"					"26"
+			"wide"					"80"
 			"delta_item_x"			"10"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
@@ -54,13 +54,12 @@
 			if_match
 			{
 				"proportionaltoparent"	"1"
-				"xpos"			"0"
-				"ypos"			"0"
-				"wide"			"26"
+				"xpos"			"-17+1"
+				"ypos"			"-2"
+				"wide"			"80"
 				"tall"			"25"
-				"textAlignment"	"south"
-				"textinsety"	"-2"
-				"font"			"HudFontSmallest"
+				"textAlignment"	"center"
+				"font"			"HudFontMediumSmall"
 			}
 		}
 	}
@@ -80,9 +79,9 @@
 		if_match
 		{
 			"proportionaltoparent"	"1"
-			"xpos"					"cs0"
+			"xpos"					"cs-0.5"
 			"ypos"					"0"
-			"wide"					"26"
+			"wide"					"80"
 			"delta_item_x"			"50"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
@@ -111,13 +110,12 @@
 			if_match
 			{
 				"proportionaltoparent"	"1"
-				"xpos"			"0"
-				"ypos"			"0"
-				"wide"			"26"
+				"xpos"			"17+2"
+				"ypos"			"-2"
+				"wide"			"80"
 				"tall"			"25"
-				"textAlignment"	"south"
-				"textinsety"	"-2"
-				"font"			"HudFontSmallest"
+				"textAlignment"	"center"
+				"font"			"HudFontMediumSmall"
 			}
 		}
 	}
