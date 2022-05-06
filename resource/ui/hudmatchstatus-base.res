@@ -227,7 +227,7 @@
 
 		if_match
 		{
-			"font"				"HudFontSmall"
+			"font"				"HudFontMedium"
 		}
 
 		"TimePanelValue"
@@ -248,9 +248,9 @@
 
 			if_match
 			{
-				"ypos"			"10"
-				"tall"			"15"
-				"font"			"HudFontSmall"
+				"ypos"			"-2"
+				"tall"			"20"
+				"font"			"HudFontMedium"
 			}
 		}
 	}
@@ -267,16 +267,16 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"max_size"		"20"
-		"6v6_gap"		"2"
-		"12v12_gap"		"2"
+		"max_size"		"30"
+		"6v6_gap"		"1"
+		"12v12_gap"		"1"
 
 		"team1_grow_dir" 	"west"
-		"team1_base_x"		"c-30"
+		"team1_base_x"		"c-35" //c-30
 		"team1_max_expand"	"220"
 
 		"team2_grow_dir"	"east"
-		"team2_base_x"		"c31"
+		"team2_base_x"		"c35" //c31
 		"team2_max_expand"	"220"
 
 		"playerpanels_kv"
