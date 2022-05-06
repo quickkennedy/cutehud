@@ -88,7 +88,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
 		"xpos"			"cs-0.5-20"
-		"ypos"			"r30"
+		"ypos"			"r33"
 		"zpos"			"8"
 		"wide"			"60"
 		"tall"			"30"
@@ -154,7 +154,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
 		"xpos"			"cs-0.5+20"
-		"ypos"			"r30"
+		"ypos"			"r33"
 		"zpos"			"8"
 		"wide"			"60"
 		"tall"			"30"
@@ -236,7 +236,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CarriedImage"
 		"xpos"			"cs-0.5"
-		"ypos"			"r82"
+		"ypos"			"r34"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
@@ -247,7 +247,7 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r82"
+			"ypos"		"r10" //r82
 		}
 	}
 
@@ -256,7 +256,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayingTo"
 		"xpos"			"c-70"
-		"ypos"			"r54"
+		"ypos"			"12" //r54
 		"zpos"			"4"
 		"wide"			"140"
 		"tall"			"30"
@@ -341,7 +341,7 @@
 		"if_hybrid_single"
 		{
 			"xpos"		"c-80"
-			"ypos"		"r113"
+			"ypos"		"r65" //r113
 		}
 
 		"if_hybrid_double"
@@ -405,7 +405,7 @@
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"CaptureFlag"
 		"xpos"			"cs-0.5"
-		"ypos"			"r100"
+		"ypos"			"r46"
 		"zpos"			"5"
 		"wide"			"56"
 		"tall"			"56"
