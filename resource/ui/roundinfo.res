@@ -90,12 +90,18 @@
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"HudFontMedium"
+		"font"			"HudFontGiantBold" //"HudFontMedium"
 		"paintbackground"	"0"
 
-		"defaultFgColor_override" 	"TanDark"
-		"armedFgColor_override"		"TanLight"
-		"depressedFgColor_override" "TanDark"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"Transparent"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"Transparent"
+
+		"defaultFgColor_override" 	"White"
+		"armedFgColor_override"		"Lavender"
+		"depressedFgColor_override" "White"
+		"selectedFgColor_override" 	"Lavender"
 	}
 
 	"MapImage"
