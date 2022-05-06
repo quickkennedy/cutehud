@@ -1,10 +1,31 @@
 "Resource/UI/MvMScoreboard.res"
 {
-    "BGPanel"
-    {
+	"BGPanel"
+	{
 		"NameLabel"
 		{
-			"labelText"			"STREAMER MODE"
+			"labelText"				"streamer mode"
 		}
-    }
+
+		"DescLine1"
+		{
+			"labelText"				"Level: 69"
+		}
+
+		"StatsContainer"
+		{
+			"XPBar"
+			{
+				"CurrentXPLabel"
+				{
+					"labelText"		"69 xp"
+				}
+
+				"NextLevelXPLabel"
+				{
+					"labelText"		"420 xp"
+				}
+			}
+		}
+	}
 }
