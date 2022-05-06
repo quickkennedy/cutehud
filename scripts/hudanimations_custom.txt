@@ -182,6 +182,42 @@ event TeamStatus_PlayerAlive
 
 //==================================================================================
 
+// Active Timer BG Pulse
+event ActiveTimerBGPulse
+{
+	Animate	ActiveTimerBG 	Alpha		"0"			Linear 0.1 0.1
+	Animate	ActiveTimerBG 	Alpha		"255"		Linear 0.3 0.1
+
+	Animate	ActiveTimerBG 	Alpha		"0"			Linear 0.5 0.1
+	Animate	ActiveTimerBG 	Alpha		"255"		Linear 0.7 0.1
+
+	Animate	ActiveTimerBG 	Alpha		"0"			Linear 0.9 0.1
+	Animate	ActiveTimerBG 	Alpha		"255"		Linear 1.1 0.1
+}
+
+event ActiveTimerHighlight
+{
+	Animate TimePanelValue FgColor	"White"			Linear 0.1 0.1
+	Animate TimePanelValue FgColor	"Lavender"		Linear 0.3 0.1
+
+	Animate TimePanelValue FgColor	"White"			Linear 0.5 0.1
+	Animate TimePanelValue FgColor	"Lavender"		Linear 0.7 0.1
+
+	Animate TimePanelValue FgColor	"White"			Linear 0.9 0.1
+	Animate TimePanelValue FgColor	"Lavender"		Linear 1.1 0.1
+
+	Animate TimePanelValue FgColor	"White"			Linear 1.3 0.3
+
+}
+
+event ActiveTimerDim
+{
+	// Slow fade out
+	Animate TimePanelValue FgColor	"Lavender"		Linear 0.0 0.4
+}
+
+//==================================================================================
+
 event CompetitiveGame_LowerChatWindow { }
 event CompetitiveGame_RestoreChatWindow { }
 event HudTournament_MoveChatWindow { }
