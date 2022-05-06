@@ -62,46 +62,4 @@
 		"backgroundtype"		"2"
 		"proportionaltoparent"	"1"
 	}
-
-	"BlueTeamBackground"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"BlueTeamBackground"
-		"xpos"			"c-25"
-		"ypos"			"0"
-		"wide"			"25"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"Blue"
-		"proportionaltoparent"	"1"
-	}
-
-	"RedTeamBackground"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"RedTeamBackground"
-		"xpos"			"c0"
-		"ypos"			"0"
-		"wide"			"25"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"Red"
-		"proportionaltoparent"	"1"
-	}
-	
-	"TimerBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"TimerBG"
-		"xpos"			"c-25"
-		"ypos"			"10"
-		"wide"			"50"
-		"tall"			"15"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"TransparentBlack"
-		"proportionaltoparent"	"1"
-	}
 }
