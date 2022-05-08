@@ -11,7 +11,7 @@
 		"PositiveColor"			"Heal Numbers"
 		"NegativeColor"			"Damage Numbers"
 		"delta_lifetime"		"2"
-		"delta_item_font"		"Cerbetica24Dropshadow"
-		"delta_item_font_big"	"Cerbetica24Dropshadow"
+		"delta_item_font"		"DamageFont"
+		"delta_item_font_big"	"DamageFont"
 	}
 }

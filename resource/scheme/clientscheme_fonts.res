@@ -123,6 +123,17 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		"DamageFont"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
 		"Cerbetica20"
 		{
 			"1"
