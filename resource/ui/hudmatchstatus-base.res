@@ -272,11 +272,11 @@
 		"12v12_gap"		"1"
 
 		"team1_grow_dir" 	"west"
-		"team1_base_x"		"c-35" //c-30
+		"team1_base_x"		"c-37" //c-30
 		"team1_max_expand"	"220"
 
 		"team2_grow_dir"	"east"
-		"team2_base_x"		"c35" //c31
+		"team2_base_x"		"c37" //c31
 		"team2_max_expand"	"220"
 
 		"playerpanels_kv"
