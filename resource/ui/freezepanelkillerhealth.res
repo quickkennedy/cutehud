@@ -68,7 +68,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"
-		"font"			"HudFontMediumSmall"
+		"font"			"HudFontMediumSmallBlur"
 		"fgcolor"		"TransparentBlack"
 		"labeltext"		"%Health%"
 	}
