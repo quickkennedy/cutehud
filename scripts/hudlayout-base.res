@@ -192,11 +192,11 @@
 	"CHudAccountPanel"
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c200"
-		"ypos"					"c130"
+		"xpos"					"0"
+		"ypos"					"0"
 		"zpos"					"0"
-		"wide"					"55"
-		"tall"  				"70"
+		"wide"					"f0"
+		"tall"  				"f0"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -269,7 +269,7 @@
 		"visible" 				"0"
 		"enabled" 				"1"
 		"xpos"					"c-100"
-		"ypos"					"c+20" //c145
+		"ypos"					"c135" //c20
 		"wide"					"600"
 		"tall"					"50"
 		"priority"				"35"

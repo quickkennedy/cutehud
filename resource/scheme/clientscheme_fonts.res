@@ -598,6 +598,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"HudFontMediumBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"24"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"Blur"			"1"
+			}
+		}
 		"HudFontMediumSecondary"
 		{
 			"1"
@@ -662,6 +674,18 @@ Scheme
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
+			}
+		}
+		"HudFontSmallShadow"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"14"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias" 	"1"
+				"dropshadow"	"1"
 			}
 		}
 		"HudFontSmallishBold"
@@ -905,6 +929,19 @@ Scheme
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
+			}
+		}
+
+		"HudClassHealthBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"16"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias" 	"1"
+				"blur"			"1"
 			}
 		}
 

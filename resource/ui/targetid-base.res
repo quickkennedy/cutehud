@@ -9,7 +9,7 @@
 		"zpos"				"0"
 		"wide"				"640"
 		"tall"				"20"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
 		"fillcolor"			"TransparentBlack"
 	}
@@ -48,7 +48,7 @@
 		"tall"	 			"35"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"BlueSolid"
+		//"fillcolor"			"BlueSolid"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
@@ -67,7 +67,7 @@
 		"tall"	 			"35"
 		"visible"			"0"
 		"enabled"			"1"
-		"fillcolor"			"RedSolid"
+		//"fillcolor"			"RedSolid"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
@@ -95,7 +95,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"TargetNameLabelShadow"
-		"font"				"HudClassHealth"
+		"font"				"HudClassHealthBlur"
 		"xpos"				"-1"
 		"ypos"				"-1"
 		"zpos"				"1"
@@ -113,7 +113,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"			"TargetDataLabel"
-		"font"				"HudFontSmall"
+		"font"				"HudFontSmallShadow"
 		"xpos"				"0"
 		"ypos"				"10"
 		"zpos"				"1"

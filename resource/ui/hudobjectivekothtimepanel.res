@@ -55,7 +55,7 @@
 			{
 				"proportionaltoparent"	"1"
 				"xpos"			"-17+1"
-				"ypos"			"-2"
+				"ypos"			"-4"
 				"wide"			"80"
 				"tall"			"25"
 				"textAlignment"	"center"
@@ -111,7 +111,7 @@
 			{
 				"proportionaltoparent"	"1"
 				"xpos"			"17+2"
-				"ypos"			"-2"
+				"ypos"			"-4"
 				"wide"			"80"
 				"tall"			"25"
 				"textAlignment"	"center"
