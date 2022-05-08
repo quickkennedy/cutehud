@@ -1,3 +1,5 @@
+#base	"../../customizations/enabled/damage account.res"
+
 "Resource/UI/HudDamageAccount.res"
 {
 	"CDamageAccountPanel"
@@ -11,40 +13,5 @@
 		"delta_lifetime"		"2"
 		"delta_item_font"		"Cerbetica24Dropshadow"
 		"delta_item_font_big"	"Cerbetica24Dropshadow"
-	}
-
-	"DamageAccountValue"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"DamageAccountValue"
-		"xpos"					"cs-0.5" //c108
-		"ypos"					"c175" //365
-		"zpos"					"2"
-		"wide"					"100"
-		"tall"					"26"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"				"%metal%"
-		"textAlignment"			"center"
-		"font"					"Cerbetica28"
-		"fgcolor"				"Damage Numbers"
-	}
-
-	"DamageAccountValueShadow"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"DamageAccountValueShadow"
-		"xpos"					"-2"
-		"ypos"					"-2"
-		"zpos"					"1"
-		"wide"					"100"
-		"tall"					"26"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"				"%metal%"
-		"textAlignment"			"center"
-		"font"					"Cerbetica28Blur"
-		"fgcolor"				"TransparentBlack"
-		"pin_to_sibling"		"DamageAccountValue"
 	}
 }
