@@ -67,7 +67,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica18"
+		"font"			"Cerbetica18Blur"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"TargetHealthValue"

@@ -20,45 +20,12 @@
 		"enabled"				"0"
 	}
 
-	"MetalIcon"
-	{
-		"ControlName"			"CIconPanel"
-		"fieldName"				"MetalIcon"
-		"xpos"					"0"
-		"ypos"					"5"
-		"zpos"					"1"
-		"wide"					"10"
-		"tall"					"10"
-		"visible"				"1"
-		"enabled"				"1"
-		"scaleImage"			"1"
-		"icon"					"ico_metal"
-		"iconColor"				"TanLight"
-	}
-
-	"MetalIconShadow"
-	{
-		"ControlName"			"CIconPanel"
-		"fieldName"				"MetalIconShadow"
-		"xpos"					"-2"
-		"ypos"					"-2"
-		"zpos"					"1"
-		"wide"					"10"
-		"tall"					"10"
-		"visible"				"1"
-		"enabled"				"1"
-		"scaleImage"			"1"
-		"icon"					"ico_metal"
-		"iconColor"				"TransparentBlack"
-		"pin_to_sibling"		"MetalIcon"
-	}
-
 	"AccountValue"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"AccountValue"
-		"xpos"					"5"
-		"ypos"					"0"
+		"xpos"					"cs-0.5"
+		"ypos"					"c105"
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"20"
@@ -92,7 +59,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"HudFontMediumBlur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"AccountValue"
 	}

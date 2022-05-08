@@ -289,8 +289,8 @@
 
 			"color_portrait_bg_red"				"Red"
 			"color_portrait_bg_blue"			"Blue"
-			"color_portrait_bg_red_dead"		"79 54 52 255"
-			"color_portrait_bg_blue_dead"		"44 49 51 255"
+			"color_portrait_bg_red_dead"		"29 29 29 255"	//"79 54 52 255"
+			"color_portrait_bg_blue_dead"		"29 29 29 255"	//"44 49 51 255"
 			"color_bar_health_high"				"111 255 111 255"
 			"color_bar_health_med"				"255 255 111 255"
 			"percentage_health_med"				"0.6"
