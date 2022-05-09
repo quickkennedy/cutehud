@@ -81,7 +81,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"BlueTeamScoreShadow"
-			"font"				"Cerbetica40"
+			"font"				"Cerbetica40Blur"
 			"fgcolor"			"TransparentBlack"
 			"labelText"			"%blueteamscore%"
 			"textAlignment"		"east"
@@ -152,7 +152,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"RedTeamScoreShadow"
-			"font"				"Cerbetica40"
+			"font"				"Cerbetica40Blur"
 			"fgcolor"			"TransparentBlack"
 			"labelText"			"%redteamscore%"
 			"textAlignment"		"west"
