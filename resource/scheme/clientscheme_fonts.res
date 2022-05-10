@@ -621,6 +621,29 @@ Scheme
 				"Blur"			"1"
 			}
 		}
+		"HudFontMedium2"
+		{
+			"1"
+			{
+				"name"			"Montserrat"//"Cerbetica"
+				"tall"			"24"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"HudFontMedium2Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat"//"Cerbetica"
+				"tall"			"24"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"Blur"			"1"
+			}
+		}
 		"HudFontMediumSecondary"
 		{
 			"1"
