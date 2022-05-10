@@ -667,6 +667,18 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		"HudFontMediumSecondaryBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"20"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
 		"HudFontMediumBold"
 		{
 			"1"
