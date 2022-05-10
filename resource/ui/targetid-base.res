@@ -1,88 +1,13 @@
 "Resource/UI/TargetID.res"
 {
-	"TargetBG"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TargetBG"
-		"xpos"				"0"
-		"ypos"				"25"
-		"zpos"				"0"
-		"wide"				"640"
-		"tall"				"20"
-		"visible"			"0"
-		"enabled"			"1"
-		"fillcolor"			"TransparentBlack"
-	}
-
-	"TargetIDBG"
-	{
-		"ControlName"		"CTFImagePanel"
-		"fieldName"			"TargetIDBG"
-		"xpos"				"0"
-		"ypos"				"48"
-		"zpos"				"1"
-		"wide"				"f0"
-		"tall"	 			"35"
-		"visible"			"0"
-		"enabled"			"1"
-		"image"				"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"			"../hud/color_panel_brown"
-		"teambg_2"			"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
-
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
-	}
-
-	"TargetIDBG_Spec_Blue"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TargetIDBG_Spec_Blue"
-		"xpos"				"0"
-		"ypos"				"45"
-		"zpos"				"1"
-		"wide"				"f0"
-		"tall"	 			"35"
-		"visible"			"0"
-		"enabled"			"1"
-		//"fillcolor"			"BlueSolid"
-
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
-	}
-
-	"TargetIDBG_Spec_Red"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"TargetIDBG_Spec_Red"
-		"xpos"				"0"
-		"ypos"				"45"
-		"zpos"				"1"
-		"wide"				"f0"
-		"tall"	 			"35"
-		"visible"			"0"
-		"enabled"			"1"
-		//"fillcolor"			"RedSolid"
-
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
-	}
-
 	"TargetNameLabel"
 	{
 		"ControlName"		"Label"
 		"fieldName"			"TargetNameLabel"
 		"font"				"HudClassHealth"
-		"xpos"				"45"
+		"xpos"				"40" //45
 		"ypos"				"25"
-		"zpos"				"1"
+		"zpos"				"2"
 		"wide"				"640"
 		"tall"				"20"
 		"visible"			"1"
@@ -101,12 +26,13 @@
 		"zpos"				"1"
 		"wide"				"640"
 		"tall"				"20"
-		"visible"			"0"
-		"enabled"			"0"
+		"visible"			"1"
+		"enabled"			"1"
 		"labelText"			"%targetname%"
 		"textAlignment"		"west"
 		"fgcolor_override"	"TransparentBlack"
 		"pin_to_sibling"	"TargetNameLabel"
+		"alpha"				"255"
 	}
 
 	"TargetDataLabel"
