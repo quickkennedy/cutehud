@@ -30,14 +30,7 @@
 		"fieldName"		"BlueScoreBG"
 		"xpos"			"c-265"
 		"ypos"			"78" //144
-<<<<<<< Updated upstream
-		"zpos"			"1"
-=======
-<<<<<<< Updated upstream
-=======
 		"zpos"			"0"
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 		"wide"			"270"
 		"tall"			"25"
 		"visible"		"1"
@@ -55,14 +48,7 @@
 		"fieldName"		"RedScoreBG"
 		"xpos"			"0"
 		"ypos"			"0"
-<<<<<<< Updated upstream
-		"zpos"			"1"
-=======
-<<<<<<< Updated upstream
-=======
 		"zpos"			"0"
->>>>>>> Stashed changes
->>>>>>> Stashed changes
 		"wide"			"270"
 		"tall"			"25"
 		"visible"		"1"
@@ -83,17 +69,8 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MainBG"
 		"xpos"			"0"
-<<<<<<< Updated upstream
-		"ypos"			"-10"
-=======
-<<<<<<< Updated upstream
-		"ypos"			"0"
->>>>>>> Stashed changes
-		"zpos"			"0"
-=======
 		"ypos"			"-10"
 		"zpos"			"-1"
->>>>>>> Stashed changes
 		"wide"			"540"
 		"tall"			"325" //315
 		"visible"		"1"
