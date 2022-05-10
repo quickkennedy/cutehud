@@ -5,7 +5,7 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MainBackground"
 		"xpos"			"0"
-		"ypos"			"15"
+		"ypos"			"30"
 		"zpos"			"0"
 		"wide"			"470"
 		"tall"			"170"
@@ -42,7 +42,7 @@
 		"tall"			"22"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"west"
@@ -64,7 +64,7 @@
 		"tall"			"22"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"#Hud_Menu_Taunt_Title"
 		"textAlignment"	"west"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -289,7 +289,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -387,7 +387,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -485,7 +485,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel4Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -583,7 +583,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel5Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -681,7 +681,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel6Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -779,7 +779,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel7Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"ypos"			"-2"
 		"xpos"			"-2"
@@ -877,7 +877,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel8Shadow"
-		"font"			"Cerbetica20"
+		"font"			"Cerbetica20Blur"
 		"fgcolor"		"TransparentBlack"
 		"xpos"			"-2"
 		"ypos"			"-2"
@@ -906,10 +906,10 @@
 		"ypos"			"22"
 		"zpos"			"1"
 		"wide"			"470"
-		"tall"			"100"
+		"tall"			"85"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"HudBlack"
+		"bgcolor_override"	"TransparentBlack"
 		"PaintBackgroundType"	"2"
 	}
 }

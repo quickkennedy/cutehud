@@ -205,8 +205,8 @@
 	"CHealthAccountPanel"
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"0"//"c-280"
-		"ypos"					"r24" //"c45"
+		"xpos"					"0"
+		"ypos"					"r24"
 		"wide"					"250"
 		"tall"  				"100"
 		"visible" 				"1"
@@ -242,7 +242,7 @@
 		"fieldName" 			"CMainTargetID"
 		"visible" 				"0"
 		"enabled" 				"1"
-		"xpos"					"c-100"
+		"xpos"					"c-100" //this does not change despite everything?
 		"ypos"					"c55"
 		"wide"					"600"
 		"tall"					"50"
@@ -1311,7 +1311,7 @@
 		"visible" 			"1"
 		"enabled" 			"1"
 		"xpos"				"c-235"
-		"ypos"				"c135"
+		"ypos"				"c128"
 		"zpos"				"0"
 		"wide"				"470"
 		"tall"				"200"
