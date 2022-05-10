@@ -60,6 +60,26 @@
 			"enabled"			"1"
 		}
 
+		"BlueTeamLabelShadow"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"BlueTeamLabelShadow"
+			"font"				"HudFontMediumBlur"
+			"fgcolor"			"TransparentBlack"
+			"labelText"			"%blueteamname%"
+			"textAlignment"		"west"
+			"xpos"				"-2"
+			"ypos"				"-2"
+			"zpos"				"3"
+			"wide"				"75"
+			"tall"				"28"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"pin_to_sibling"	"BlueTeamLabel"
+		}
+
 		"BlueTeamScore"
 		{
 			"ControlName"		"CExLabel"
@@ -129,6 +149,25 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
+		}
+		"RedTeamLabelShadow"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"RedTeamLabelShadow"
+			"font"				"HudFontMediumBlur"
+			"fgcolor"			"TransparentBlack"
+			"labelText"			"%redteamname%"
+			"textAlignment"		"east"
+			"xpos"				"-2"
+			"ypos"				"-2"
+			"zpos"				"3"
+			"wide"				"75"
+			"tall"				"28"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"1"
+			"pin_to_sibling"	"RedTeamLabel"
 		}
 
 		"RedTeamScore"
