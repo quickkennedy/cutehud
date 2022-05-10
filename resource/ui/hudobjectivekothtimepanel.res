@@ -60,6 +60,7 @@
 				"tall"			"25"
 				"textAlignment"	"center"
 				"font"			"HudFontMediumSmall"
+				"fgcolor"		"White"
 			}
 		}
 	}
@@ -116,6 +117,7 @@
 				"tall"			"25"
 				"textAlignment"	"center"
 				"font"			"HudFontMediumSmall"
+				"fgcolor"		"White"
 			}
 		}
 	}
