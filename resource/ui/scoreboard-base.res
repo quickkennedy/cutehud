@@ -94,6 +94,7 @@
 		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"25"
 		"autoResize"	"0"
@@ -112,6 +113,35 @@
 		}
 	}
 
+	"BlueTeamNameShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueTeamNameShadow"
+		"font"			"HudFontMediumBigBlur"
+		"labelText"		"%blueteamname%"
+		"textAlignment"	"west"
+		"xpos"			"-2"
+		"ypos"			"-2"
+		"zpos"			"1"
+		"wide"			"270"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"TextInsetX"	"5"
+
+		"fgcolor_override"	"TransparentBlack"
+		"pin_to_sibling"	"BlueTeamName"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+
 	"BlueTeamScore"
 	{
 		"ControlName"	"CExLabel"
@@ -120,7 +150,7 @@
 		"labelText"		"%blueteamscore%"
 		"textAlignment"	"east"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"1"
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"25"
@@ -128,7 +158,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"TextInsetX"	"20"
+		"TextInsetX"	"5"
 
 		"pin_to_sibling"		"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
@@ -157,7 +187,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"TransparentBlack"
-		"TextInsetX"	"20"
+		"TextInsetX"	"5"
 
 		"pin_to_sibling"		"BlueTeamScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -178,12 +208,41 @@
 		"textAlignment"	"west"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		"pin_to_sibling"		"BlueScoreBG"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+
+	"BlueTeamPlayerCountShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"BlueTeamPlayerCountShadow"
+		"font"			"HudFontSmallBlur"
+		"labelText"		"%blueteamplayercount%"
+		"textAlignment"	"west"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"1"
+		"wide"			"270"
+		"tall"			"15"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -204,6 +263,7 @@
 		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"25"
 		"autoResize"	"0"
@@ -222,6 +282,35 @@
 		}
 	}
 
+	"RedTeamNameShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedTeamNameShadow"
+		"font"			"HudFontMediumBigBlur"
+		"labelText"		"%redteamname%"
+		"textAlignment"	"east"
+		"xpos"			"-2"
+		"ypos"			"-2"
+		"zpos"			"1"
+		"wide"			"270"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"TextInsetX"	"5"
+
+		"fgcolor_override"	"TransparentBlack"
+		"pin_to_sibling"	"RedTeamName"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+
 	"RedTeamScore"
 	{
 		"ControlName"	"CExLabel"
@@ -230,7 +319,7 @@
 		"labelText"		"%redteamscore%"
 		"textAlignment"	"west"
 		"xpos"			"0"
-		"ypos"			"0"
+		"ypos"			"1"
 		"zpos"			"4"
 		"wide"			"100"
 		"tall"			"25"
@@ -238,7 +327,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"TextInsetX"	"20"
+		"TextInsetX"	"5"
 
 		"pin_to_sibling"		"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -267,7 +356,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"fgcolor"		"TransparentBlack"
-		"TextInsetX"	"20"
+		"TextInsetX"	"5"
 
 		"pin_to_sibling"		"RedTeamScore"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -288,12 +377,41 @@
 		"textAlignment"	"east"
 		"xpos"			"0"
 		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+
+		"pin_to_sibling"		"RedScoreBG"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+
+	"RedTeamPlayerCountShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"RedTeamPlayerCountShadow"
+		"font"			"HudFontSmallBlur"
+		"labelText"		"%redteamplayercount%"
+		"textAlignment"	"east"
+		"xpos"			"-1"
+		"ypos"			"-1"
+		"zpos"			"1"
+		"wide"			"270"
+		"tall"			"15"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"RedScoreBG"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"

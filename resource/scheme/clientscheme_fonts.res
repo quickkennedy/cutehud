@@ -587,6 +587,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"HudFontMediumBigBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"30"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
 		"HudFontMediumBigBold"
 		{
 			"1"
@@ -720,6 +732,18 @@ Scheme
 				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
+			}
+		}
+		"HudFontSmallBlur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica"
+				"tall"			"14"
+				"weight"		"500"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
 			}
 		}
 		"HudFontSmallShadow"
