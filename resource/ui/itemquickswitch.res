@@ -15,7 +15,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"2"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"TransparentBlack"
 
 		"itempanel_xpos"		"0"
 		"itempanel_ydelta"		"0"
