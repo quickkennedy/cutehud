@@ -2,13 +2,13 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"8"
-		"delta_item_start_y"	"13"
-		"delta_item_end_y"		"30"
-		"PositiveColor"			"Heal Numbers"
-		"NegativeColor"			"Damage Numbers"
-		"delta_lifetime"		"1.25"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_x"			"99999"
+		"delta_item_start_y"	"99999"
+		"delta_item_end_y"		"99999"
+		"PositiveColor"			"Transparent"
+		"NegativeColor"			"Transparent"
+		"delta_lifetime"		"0"
+		"delta_item_font"		"null"
 	}
 
 	"AccountBG"
@@ -38,7 +38,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
+		"font"					"HudFontMedium2"
 	}
 
 	"AccountValueShadow"
@@ -59,7 +59,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMediumBlur"
+		"font"					"HudFontMedium2Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"AccountValue"
 	}
