@@ -625,7 +625,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat"//"Cerbetica"
+				"name"			"Montserrat Bold"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
@@ -636,7 +636,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat"//"Cerbetica"
+				"name"			"Montserrat Bold"//"Cerbetica"
 				"tall"			"24"
 				"weight"		"500"
 				"additive"		"0"
