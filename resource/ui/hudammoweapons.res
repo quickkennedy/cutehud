@@ -93,7 +93,7 @@
 		"fieldName"			"AmmoNoClip"
 		"font"				"Cerbetica56"
 		"fgcolor"			"Ammo In Clip"
-		"xpos"				"4"
+		"xpos"				"24"
 		"ypos"				"0"
 		"zpos"				"5"
 		"wide"				"120"
