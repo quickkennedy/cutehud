@@ -118,7 +118,7 @@ Scheme
 		"HudOffWhite"							"255 255 255 255" //"200 187 161 255"
 		"HudBlack"								"16 16 16 230"
 		"ProgressBarBlue"						"91 122 142 255"
-		"CreditsGreen"							"94 150 49 255"
+		"CreditsGreen"							"111 255 111 255" //"94 150 49 255"
 
 		"Gray"									"178 178 178 255"
 		"Blank"									"0 0 0 0"

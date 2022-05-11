@@ -17,6 +17,23 @@
 		"labelText"		"%currency%"
 	}
 
+	"CurrencyShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyShadow"
+		"font"			"HudFontSmallBlur"
+		"fgcolor"		"TransparentBlack"
+		"xpos"			"46"
+		"ypos"			"1"
+		"zpos"			"2"
+		"wide"			"50"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"east"
+		"labelText"		"%currency%"
+	}
+
 	"CurrencyBG"
 	{
 		"ControlName"	"EditablePanel"
@@ -28,7 +45,7 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"bgcolor_override"	"TransparentBlack"
 		"PaintBackgroundType"	"2"
@@ -47,7 +64,25 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"allcaps"		"1"
+		"allcaps"		"0"
+		"textAlignment"	"west"
+		"labelText"		"#TF_PVE_Currency"
+	}
+
+	"CurrencyLabelShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"CurrencyLabelShadow"
+		"font"			"HudFontSmallBlur"
+		"fgcolor"		"TransparentBlack"
+		"xpos"			"5"
+		"ypos"			"1"
+		"zpos"			"2"
+		"wide"			"50"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"allcaps"		"0"
 		"textAlignment"	"west"
 		"labelText"		"#TF_PVE_Currency"
 	}
