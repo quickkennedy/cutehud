@@ -172,9 +172,9 @@ Scheme
 
 		"HTMLBackground"						"95 92 101 255"
 
-		"ItemAttribLevel"						"127 127 127 255"	//"117 107 94 255"
+		"ItemAttribLevel"						"140 140 140 255"	//"117 107 94 255"
 		"ItemAttribNeutral"						"255 255 255 255"	//"235 226 202 255"
-		"ItemAttribPositive"					"111 111 255 255"	//"153 204 255 255"
+		"ItemAttribPositive"					"140 200 255 255"	//"153 204 255 255"
 		"ItemAttribNegative"					"255 111 111 255"	//"255 64 64 255"
 
 		"ItemSetName"							"225 255 15 255"
