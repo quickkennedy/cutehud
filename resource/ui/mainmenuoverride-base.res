@@ -930,6 +930,7 @@
 		"tabPosition"	"0"
 		"labelText"		"cutehud"
 		"font"			"HudFontGiant" //"HudFontMediumSecondary"
+		"command"		"engine hud_reloadscheme; record fix; stop"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"use_proportional_insets" "0"
