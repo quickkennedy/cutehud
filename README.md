@@ -1,4 +1,5 @@
-# cutehud
+![# cutehud](https://raw.githubusercontent.com/quickkennedy/cutehud/main/logo.png)
+
  
 based off rayshud, takes heavy inspiration from reizu's krunker css <br>
 uses a ton of stuff from budhud and hypnotize hud, plz dont kill me <br>
