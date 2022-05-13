@@ -1290,7 +1290,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"StatBar9"
+			"fillcolor"		"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar9B"
@@ -1307,7 +1307,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"StatBar9"
+			"fillcolor"		"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel9A"
