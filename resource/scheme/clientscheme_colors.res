@@ -8,7 +8,6 @@ Scheme
 		"ColorRed"					"255 0 0 255"
 		"ColorYellow"				"255 255 0 255"
 		"ColorGreen"				"48 255 48 255"
-		"LavenderShadow"			"207 111 255 255" //"255 111 255 255" //"72 100 100 255"
 		"ColorBlue"					"0 0 255 255"
 		"ColorPurple"				"128 0 255 255"
 		"ColorMagenta"				"255 0 255 255"
@@ -16,32 +15,26 @@ Scheme
 		"ColorGreyMid"				"128 128 128 255"
 		"ColorWhite"				"255 255 255 255"
 		"DullWhite"					"132 132 132 255"
-		"Grey"						"51 47 46 255"
-		"DarkGrey"					"27 27 27 255"
+		"Grey"					"51 47 46 255"
+		"DarkGrey"				"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
 		"TextColor"					"117 107 94 255"
 
 		"Lavender"				"207 191 255 255"
+		"LavenderShadow"			"207 111 255 255"
 
 		// Gameplay
-		"Ammo In Clip"				"255 255 255 255" 	//"48 255 48 255"
-		"Ammo In Reserve"			"255 255 255 255" 	//"72 255 255 255"
-		"Ammo In Clip Low"			"207 191 255 255"	//"175 42 71 255" 		//"255 42 130 255"
-		"Ammo In Reserve Low"		"207 191 255 255"	//"175 42 71 255" 		//"255 128 28 255"
-		"Health Normal"				"255 255 255 255"	//"235 226 202 255"
-		"Health Buff"				"191 223 255 255"	//"149 189 227 255" 	//"48 255 48 255"
-		"Health Hurt"				"207 191 255 255"	//"175 42 71 255"		//"255 153 0 255"
+		"Ammo In Clip"				"255 255 255 255"
+		"Ammo In Reserve"			"255 255 255 255"
+		"Ammo In Clip Low"			"207 191 255 255"
+		"Ammo In Reserve Low"		"207 191 255 255"
+		"Health Normal"				"255 255 255 255"
+		"Health Buff"				"191 223 255 255"
+		"Health Hurt"				"207 191 255 255"
 		"Heal Numbers"				"48 255 48 255"
-		"Damage Numbers"			"207 191 255 255"	//"175 42 71 255" 		//"72 255 255 255"
+		"Damage Numbers"			"207 191 255 255"
 		"ItemPanelBG"				"50 50 50 255"
-		"Button Color"				"255 173 255 255" 	//"72 255 255 255"
-
-		//"Lavender"						"207 191 255 255" 			//"255 173 255 255"		//light pink
-		//"Lavender"						"207 191 255 255" 			//"255 111 255 255"		//dark pink
-
-		//"cute3"						"171 174 255 255" 	//baby blue
-		
-		"TransparentBlack"			"0 0 0 140" 		//0 0 0 230
+		"TransparentBlack"			"0 0 0 140"
 		
 		//---------------------------------------------
 		// Crosshair Colors
@@ -53,17 +46,6 @@ Scheme
 		"Solid Color Uber"			"255 50 25 255"
 		"Flashing Uber Color1"		"255 165 0 255"
 		"Flashing Uber Color2"		"255 69 0 255"
-		//---------------------------------------------
-		// Player Stats
-		"StatBar1"					"255 173 255 255"	//"15 255 255 128"
-		"StatBar2"					"255 153 225 255"	//"15 225 225 128"
-		"StatBar3"					"255 133 195 255"	//"15 195 195 128"
-		"StatBar4"					"255 113 165 255"	//"15 165 165 128"
-		"StatBar5"					"255 93 135 255"	//"15 135 135 128"
-		"StatBar6"					"255 73 105 255"	//"15 105 105 128"
-		"StatBar7"					"255 53 85 255"		//"15 85 85 128"
-		"StatBar8"					"255 23 65 255"		//"15 65 65 128"
-		"StatBar9"					"255 3 45 255"		//"15 45 45 128"
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
