@@ -13,7 +13,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -21,7 +21,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -29,7 +29,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -37,7 +37,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -122,17 +122,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 1"
 				}
 			}
@@ -162,34 +162,34 @@ Scheme
 			}
 		}
 
-		CyanBorderTabs
+		LavenderBorderTabs
 		{
 			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "4 1"
 				}
 			}
@@ -197,27 +197,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "4 1"
 				}
 			}
@@ -225,59 +225,59 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "4 1"
 				}
 			}
 		}
-		CyanBorderTabsInactive
+		LavenderBorderTabsInactive
 		{
 			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "4 1"
 				}
 			}
@@ -285,27 +285,27 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "4 1"
 				}
 			}
@@ -313,40 +313,40 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "0 1"
 				}
 				"2"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "1 1"
 				}
 				"3"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "2 1"
 				}
 				"4"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "3 1"
 				}
 				"5"
 				{
-					"color" "ColorCyanShadow"
+					"color" "LavenderShadow"
 					"offset" "4 1"
 				}
 			}
 		}
 
-		CyanBorder
+		LavenderBorder
 		{
 			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 4"
 				}
 			}
@@ -354,7 +354,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -362,7 +362,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -370,30 +370,30 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
 		}
 
-		CyanBorderThick
+		LavenderBorderThick
 		{
 			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 0"
 				}
 			}
@@ -401,17 +401,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 0"
 				}
 			}
@@ -419,17 +419,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 0"
 				}
 			}
@@ -437,17 +437,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 				"2"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "1 0"
 				}
 				"3"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "2 0"
 				}
 			}
@@ -952,7 +952,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -960,7 +960,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -968,7 +968,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -976,7 +976,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -989,7 +989,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -997,7 +997,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -1005,7 +1005,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}
@@ -1013,7 +1013,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "ColorCyan"
+					"color" "Lavender"
 					"offset" "0 0"
 				}
 			}

@@ -100,8 +100,8 @@
 			"unselectedcolor"			"White"
 			//"defaultBgColor_override"	"DarkGrey"
 			"paintbackground"			"1"
-			//"activeborder_override"		"CyanBorderTabs"
-			//"normalborder_override"		"CyanBorderTabsInactive"
+			//"activeborder_override"		"LavenderBorderTabs"
+			//"normalborder_override"		"LavenderBorderTabsInactive"
 			"armedBgColor_override"		"Transparent"
 			"selectedBgColor_override"	"Transparent"
 		}

@@ -33,7 +33,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"allcaps"				"1"
-		"fgcolor_override"		"ColorCyan"
+		"fgcolor_override"		"Lavender"
 	}
 
 	"ClassUsagePanel"

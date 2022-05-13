@@ -111,7 +111,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 
 			"armedBgColor_override"		"Transparent"
 			"defaultBgColor_override"	"Transparent"

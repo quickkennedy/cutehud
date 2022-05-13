@@ -54,8 +54,8 @@
 				"paintbackground"	"0"
 
 				"defaultFgColor_override"	"TanLight"
-				"armedFgColor_override"		"ColorCyan"
-				"depressedFgColor_override" "ColorCyan"
+				"armedFgColor_override"		"Lavender"
+				"depressedFgColor_override" "Lavender"
 			}
 		}
 
@@ -452,7 +452,7 @@
 		"border_armed"		"MainMenuTabs"
 
 		"defaultFgColor_override" 	"TanLight"
-		"armedFgColor_override" 	"ColorCyan"
+		"armedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override" 	"Transparent"
 		"armedBgColor_override" 	"25 25 25 148"
@@ -652,7 +652,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -695,7 +695,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -738,7 +738,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -781,7 +781,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -824,7 +824,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -867,7 +867,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -1066,7 +1066,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 }

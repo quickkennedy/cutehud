@@ -13,7 +13,7 @@
 		"enabled"		"1"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 	}
 
 	"WarningLabel"

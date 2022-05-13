@@ -84,7 +84,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemsFoundLabel"
 		"font"			"HudFontMediumBig"
-		"fgcolor"		"ColorCyan"
+		"fgcolor"		"Lavender"
 		"labelText"		"#NewItemsAcquired"
 		"textAlignment"	"center"
 		"xpos"			"0"
@@ -275,7 +275,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"ColorCyan"
+		"armedFgColor_override"		"Lavender"
 
 		"SubImage"
 		{

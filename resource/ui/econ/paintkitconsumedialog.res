@@ -26,7 +26,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"1"
-		"fgcolor_override" "ColorCyan"
+		"fgcolor_override" "Lavender"
 		"proportionaltoparent"	"1"
 	}
 
@@ -57,7 +57,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"proportionaltoparent"	"1"
-		"border"		"CyanBorderThick"
+		"border"		"LavenderBorderThick"
 		"bgcolor_override"	"DarkGrey"
 	}
 
@@ -87,7 +87,7 @@
 		"tall"			"150"
 		"proportionaltoparent"	"1"
 		"visible"		"0"
-		"border"		"CyanBorderThick"
+		"border"		"LavenderBorderThick"
 		"bgcolor_override"	"DarkGrey"
 
 		"CTFLogoPanel"
@@ -134,7 +134,7 @@
 		"tall"			"150"
 		"proportionaltoparent"	"1"
 		"visible"		"0"
-		"border"		"CyanBorderThick"
+		"border"		"LavenderBorderThick"
 		"bgcolor_override"	"DarkGrey"
 
 		"CTFLogoPanel"
@@ -181,7 +181,7 @@
 		"tall"			"150"
 		"proportionaltoparent"	"1"
 		"visible"		"0"
-		"border"		"CyanBorderThick"
+		"border"		"LavenderBorderThick"
 		"bgcolor_override"	"DarkGrey"
 
 		"CTFLogoPanel"

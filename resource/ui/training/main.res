@@ -31,7 +31,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"paintbackground"	"1"
-		"border"			"CyanBorderThick"
+		"border"			"LavenderBorderThick"
 
 		"GradientBgPanel"
 		{

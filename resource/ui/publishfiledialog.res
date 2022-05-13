@@ -14,7 +14,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 	}
 
 	"Background"

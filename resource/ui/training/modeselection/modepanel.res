@@ -10,7 +10,7 @@
 		"tall"				"205"
 		"visible"			"1"
 		"enabled"			"1"
-		"border"			"CyanBorder"
+		"border"			"LavenderBorder"
 
 		"ModeNameLabel"
 		{

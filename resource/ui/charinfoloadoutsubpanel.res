@@ -28,7 +28,7 @@
 		"class_tall_max"			"200"
 		"class_distance_min"		"7"
 		"class_distance_max"		"100"
-		"itemcountcolor"			"ColorCyan"
+		"itemcountcolor"			"Lavender"
 		"itemcountcolor_noitems"	"TextColor"
 	}
 
@@ -618,7 +618,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor_override"	"ColorCyan"
+		"fgcolor_override"	"Lavender"
 	}
 
 	"LoadoutChangesLabel"

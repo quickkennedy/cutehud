@@ -8,8 +8,7 @@ Scheme
 		"ColorRed"					"255 0 0 255"
 		"ColorYellow"				"255 255 0 255"
 		"ColorGreen"				"48 255 48 255"
-		"ColorCyan"					"207 191 255 255" //"255 173 255 255" //"72 255 255 255"
-		"ColorCyanShadow"			"207 111 255 255" //"255 111 255 255" //"72 100 100 255"
+		"LavenderShadow"			"207 111 255 255" //"255 111 255 255" //"72 100 100 255"
 		"ColorBlue"					"0 0 255 255"
 		"ColorPurple"				"128 0 255 255"
 		"ColorMagenta"				"255 0 255 255"
@@ -37,10 +36,10 @@ Scheme
 		"ItemPanelBG"				"50 50 50 255"
 		"Button Color"				"255 173 255 255" 	//"72 255 255 255"
 
-		"cute1"						"207 191 255 255" 			//"255 173 255 255"		//light pink
-		"cute2"						"207 191 255 255" 			//"255 111 255 255"		//dark pink
+		//"Lavender"						"207 191 255 255" 			//"255 173 255 255"		//light pink
+		//"Lavender"						"207 191 255 255" 			//"255 111 255 255"		//dark pink
 
-		"cute3"						"171 174 255 255" 	//baby blue
+		//"cute3"						"171 174 255 255" 	//baby blue
 		
 		"TransparentBlack"			"0 0 0 140" 		//0 0 0 230
 		
@@ -68,8 +67,8 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"ColorCyan"
-		"OrangeDim"								"ColorCyan"
+		"Orange"								"Lavender"
+		"OrangeDim"								"Lavender"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
 		"TFOrange"								"145 73 59 255"

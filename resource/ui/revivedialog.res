@@ -70,7 +70,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"centerwrap"		"1"
-			"fgcolor_override"	"ColorCyan"
+			"fgcolor_override"	"Lavender"
 		}
 
 		"ConfirmButton"

@@ -100,7 +100,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"ColorCyan"
+		"bgcolor_override"	"Lavender"
 		"PaintBackgroundType"	"2"
 	}
 
@@ -127,7 +127,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"PaintBackgroundType"	"2"
-			"bgcolor_override"		"ColorCyan"
+			"bgcolor_override"		"Lavender"
 		}
 
 		"tabskv"
@@ -139,8 +139,8 @@
 			"unselectedcolor"	"TanDark"
 			"defaultBgColor_override"	"25 25 25 255"
 			"paintbackground"			"1"
-			"activeborder_override"		"CyanBorderTabs"
-			"normalborder_override"		"CyanBorderTabsInactive"
+			"activeborder_override"		"LavenderBorderTabs"
+			"normalborder_override"		"LavenderBorderTabsInactive"
 			"armedBgColor_override"		"10 10 10 255"
 			"selectedBgColor_override"	"10 10 10 255"
 		}

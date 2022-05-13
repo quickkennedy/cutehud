@@ -60,7 +60,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "Lavender"
 		}
 
 		"SetStyleButton"

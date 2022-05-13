@@ -94,7 +94,7 @@
 			"paintbackground"	"0"
 
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 			"depressedFgColor_override"	"TanLight"
 		}
 	}
@@ -361,8 +361,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override" 	"White"
 
-		"defaultBgColor_override"		"ColorCyan"
-		"depressedBgColor_override" 	"ColorCyan"
+		"defaultBgColor_override"		"Lavender"
+		"depressedBgColor_override" 	"Lavender"
 	}
 
 	"TauntLoadoutButton"
@@ -393,8 +393,8 @@
 		"armedFgColor_override"			"White"
 		"depressedFgColor_override" 	"White"
 
-		"defaultBgColor_override"		"ColorCyan"
-		"depressedBgColor_override" 	"ColorCyan"
+		"defaultBgColor_override"		"Lavender"
+		"depressedBgColor_override" 	"Lavender"
 	}
 
 	"TauntsExplanation"

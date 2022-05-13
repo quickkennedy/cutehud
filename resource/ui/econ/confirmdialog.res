@@ -17,7 +17,7 @@
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
 		"paintborder"			"1"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 		"bgcolor_override"		"DarkGrey"
 	}
 

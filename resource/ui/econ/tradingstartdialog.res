@@ -12,7 +12,7 @@
 		"bgcolor_override"		"DarkerGrey"
 		"paintbackgroundtype"	"2"
 		"settitlebarvisible"	""
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 
 		"button_kv"
 		{
@@ -312,7 +312,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "Lavender"
 		}
 	}
 
@@ -344,7 +344,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "Lavender"
 		}
 
 		"URLHelpLabel"
@@ -386,7 +386,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "Lavender"
 		}
 		"URLSearchingLabel"
 		{
@@ -406,7 +406,7 @@
 			"enabled"		"1"
 			"wrap"			"1"
 			"centerwrap"	"1"
-			"fgcolor_override" "ColorCyan"
+			"fgcolor_override" "Lavender"
 		}
 
 		"URLEntry"

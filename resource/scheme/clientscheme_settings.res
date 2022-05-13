@@ -24,9 +24,9 @@ Scheme
 		Econ.Button.ArmedFgColor				"TanLight"
 		Econ.Button.DepressedBgColor			"TanDarker"
 		Econ.Button.DepressedFgColor			"TanDark"
-		Econ.Button.PresetDefaultColorFg		"cute1" //"15 255 255 255"
-		Econ.Button.PresetArmedColorFg			"cute1" //"15 255 255 255"
-		Econ.Button.PresetDepressedColorFg		"cute1" //"15 255 255 255"
+		Econ.Button.PresetDefaultColorFg		"Lavender" //"15 255 255 255"
+		Econ.Button.PresetArmedColorFg			"Lavender" //"15 255 255 255"
+		Econ.Button.PresetDepressedColorFg		"Lavender" //"15 255 255 255"
 		Econ.Button.PresetDefaultColorBg		"TanDarker"
 		Econ.Button.PresetArmedColorBg			"50 50 50 255"
 		Econ.Button.PresetDepressedColorBg		"TanDarker"
@@ -124,7 +124,7 @@ Scheme
 		PropertySheet.SelectedTextColor			"White"
 		PropertySheet.TransitionEffectTime		"0.25"		// time to change from one tab to another
 
-		RadioButton.TextColor					"ColorCyan"
+		RadioButton.TextColor					"Lavender"
 		RadioButton.SelectedTextColor			"Orange"
 
 		RichText.TextColor						"Gray"

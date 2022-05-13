@@ -31,7 +31,7 @@
 		"tabPosition"	"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 
 		"Background"
 		{
@@ -287,7 +287,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override" "ColorCyan"
+				"fgcolor_override" "Lavender"
 			}
 
 			"NextPageButton"

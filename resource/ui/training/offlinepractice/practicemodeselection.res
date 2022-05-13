@@ -27,7 +27,7 @@
 		"tileImage"			"0"
 		"scaleImage"		"1"
 		"image"				""
-		"border"			"CyanBorder"
+		"border"			"LavenderBorder"
 	}
 
 	"PrevButton"

@@ -18,7 +18,7 @@
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
 		"paintbackground"		"1"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 
 		"control_w"			"500"
 		"control_h"			"25"
@@ -42,7 +42,7 @@
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
-		"fgcolor_override"	"ColorCyan"
+		"fgcolor_override"	"Lavender"
 		"allcaps"			"1"
 	}
 

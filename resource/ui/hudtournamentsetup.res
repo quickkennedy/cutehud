@@ -14,7 +14,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"TransparentBlack"
-		"border"		"CyanBorder"
+		"border"		"LavenderBorder"
 	}
 
 	"TournamentSetupLabel"

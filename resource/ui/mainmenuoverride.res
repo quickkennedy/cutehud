@@ -119,7 +119,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"ColorCyan"
+			"fgcolor_override"	"Lavender"
 			"wrap"				"1"
 		}
 
@@ -182,7 +182,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -226,7 +226,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 
@@ -268,7 +268,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"armedFgColor_override"		"Lavender"
 		}
 	}
 }

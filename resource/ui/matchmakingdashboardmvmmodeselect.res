@@ -121,7 +121,7 @@
 			"textinsety"			"-5"
 			
 			"border_default"		"NoBorder"
-			"border_armed"			"CyanBorderThick"
+			"border_armed"			"LavenderBorderThick"
 
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
@@ -239,7 +239,7 @@
 			"textinsety"			"-5"
 			
 			"border_default"		"NoBorder"
-			"border_armed"			"CyanBorderThick"
+			"border_armed"			"LavenderBorderThick"
 
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"

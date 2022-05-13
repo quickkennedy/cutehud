@@ -12,7 +12,7 @@
 		"bgcolor_override"		"DarkGrey"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	"1"
-		"border"				"CyanBorderThick"
+		"border"				"LavenderBorderThick"
 	}
 
 	"TitleLabel"
