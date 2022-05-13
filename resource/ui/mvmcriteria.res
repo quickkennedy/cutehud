@@ -344,7 +344,7 @@
 		{
 			"ControlName"		"CMvMPlayerTicketStatusPanel"
 			"fieldName"			"Slot1"
-			"xpos"				"200+30"
+			"xpos"				"230"
 			"ypos"				"5"
 			"zpos"				"0"
 			"wide"				"28"
@@ -356,7 +356,7 @@
 		{
 			"ControlName"		"CMvMPlayerTicketStatusPanel"
 			"fieldName"			"Slot2"
-			"xpos"				"200+30+30"
+			"xpos"				"260"
 			"ypos"				"5"
 			"zpos"				"0"
 			"wide"				"28"
@@ -368,7 +368,7 @@
 		{
 			"ControlName"		"CMvMPlayerTicketStatusPanel"
 			"fieldName"			"Slot3"
-			"xpos"				"200+30+30+30"
+			"xpos"				"290"
 			"ypos"				"5"
 			"zpos"				"0"
 			"wide"				"28"
@@ -380,7 +380,7 @@
 		{
 			"ControlName"		"CMvMPlayerTicketStatusPanel"
 			"fieldName"			"Slot4"
-			"xpos"				"200+30+30+30+30"
+			"xpos"				"320"
 			"ypos"				"5"
 			"zpos"				"0"
 			"wide"				"28"
@@ -392,7 +392,7 @@
 		{
 			"ControlName"		"CMvMPlayerTicketStatusPanel"
 			"fieldName"			"Slot5"
-			"xpos"				"200+30+30+30+30+30"
+			"xpos"				"350"
 			"ypos"				"5"
 			"zpos"				"0"
 			"wide"				"28"
