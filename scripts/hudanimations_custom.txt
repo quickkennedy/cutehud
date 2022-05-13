@@ -66,46 +66,16 @@ event HudLowAmmoPulseStop
 // Ubercharge Meters
 event HudMedicCharged
 {
-	RunEvent HudMedicOrangePulseCharge 	0.0
-	//RunEvent HudMedicSolidColorCharge	0.0
-	//RunEvent HudMedicRainbowCharged 	0.0
+	RunEvent HudMedicLavenderPulseCharge 	0.0
 
 	RunEvent HudMedicChargedLoop		0.6
 }
 
-event HudMedicRainbowCharged
+event HudMedicLavenderPulseCharge
 {
-	Animate	ChargeLabel 				FgColor		"ColorGreen"		Linear 0.0 0.1
-	Animate	ChargeLabel 				FgColor		"Lavender"			Linear 0.1 0.1
-	Animate	ChargeLabel 				FgColor		"ColorBlue"			Linear 0.2 0.1
-	Animate	ChargeLabel 				FgColor		"ColorMagenta"		Linear 0.3 0.1
-	Animate	ChargeLabel 				FgColor		"ColorRed"			Linear 0.4 0.1
-	Animate	ChargeLabel 				FgColor		"ColorYellow"		Linear 0.5 0.1
+	Animate	ChargeLabel 				FgColor		"Health Buff"	Linear 0.0 0.0
 
-	Animate	ChargeMeter 				FgColor		"ColorGreen"		Linear 0.0 0.1
-	Animate	ChargeMeter 				FgColor		"Lavender"			Linear 0.1 0.1
-	Animate	ChargeMeter 				FgColor		"ColorBlue"			Linear 0.2 0.1
-	Animate	ChargeMeter 				FgColor		"ColorMagenta"		Linear 0.3 0.1
-	Animate	ChargeMeter 				FgColor		"ColorRed"			Linear 0.4 0.1
-	Animate	ChargeMeter 				FgColor		"ColorYellow"		Linear 0.5 0.1
-
-	RunEvent HudMedicChargedLoop		0.6
-}
-
-event HudMedicSolidColorCharge
-{
-	Animate ChargeLabel					FgColor		"Solid Color Uber"	Linear 0.0 0.0
-
-	Animate ChargeMeter					FgColor		"Solid Color Uber"	Linear 0.0 0.0
-
-	RunEvent HudMedicChargedLoop		0.6
-}
-
-event HudMedicOrangePulseCharge
-{
-	Animate	ChargeLabel 				FgColor		"Health Buff"	Linear 0.0 0.1
-
-	Animate	ChargeMeter 				FgColor		"Health Buff"	Linear 0.0 0.1
+	Animate	ChargeMeter 				FgColor		"Health Buff"	Linear 0.0 0.0
 
 	RunEvent HudMedicChargedLoop		0.6
 }
@@ -113,9 +83,7 @@ event HudMedicOrangePulseCharge
 event HudMedicChargedStop
 {
 	StopEvent HudMedicCharged			0.0
-	StopEvent HudMedicRainbowCharged	0.0
-	StopEvent HudMedicSolidColorCharge	0.0
-	StopEvent HudMedicOrangePulseCharge	0.0
+	StopEvent HudMedicLavenderPulseCharge	0.0
 	StopEvent HudMedicChargedLoop		0.0
 
 	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.0001
