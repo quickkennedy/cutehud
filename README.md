@@ -1,4 +1,4 @@
-![# cutehud](https://raw.githubusercontent.com/quickkennedy/cutehud/testing/logo_transparent.png)
+![# cutehud](https://raw.githubusercontent.com/quickkennedy/cutehud/main/logo.png)
 
  
 based off rayshud, takes heavy inspiration from reizu's krunker css <br>
