@@ -179,7 +179,7 @@
 		"xpos"				"cs-0.5" //"rs1-10"
 		"ypos"				"30" //45
 		"zpos"				"0"
-		"wide"				"20"
+		"wide"				"400"
 		"tall"				"20"
 		"autoResize"		"0"
 		"pinCorner"			"3"
@@ -194,17 +194,17 @@
 			"fieldName"			"Notifications_ShowButtonPanel_SB"
 			"xpos"				"0"
 			"ypos"				"0"
-			"wide"				"20"
+			"wide"				"400"
 			"tall"				"20"
 			"autoResize"		"0"
 			"pinCorner"			"3"
 			"visible"			"1"
 			"enabled"			"1"
 			"tabPosition"		"0"
-			"labelText"			"k"
-			"font"				"CustomIcons"
+			"labelText"		"notification"
+			"font"			"HudFontGiant"
 			"Command"			"noti_show"
-			"use_proportional_insets" "1"
+			//"use_proportional_insets" "1"
 			"textAlignment"		"center"
 			"default"			"1"
 			"actionsignallevel"	"2"
@@ -213,8 +213,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override"	"TanLight"
-			"armedFgColor_override"		"ColorCyan"
+			"defaultFgColor_override" "White" //"TanLight"
+			"armedFgColor_override" "Lavender"
 		}
 	}
 
