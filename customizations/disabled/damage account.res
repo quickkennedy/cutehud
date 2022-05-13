@@ -13,7 +13,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Cerbetica28"
+		"font"					"Volkswagen28"
 		"fgcolor"				"Damage Numbers"
 	}
 
@@ -30,7 +30,7 @@
 		"enabled"				"1"
 		"labelText"				"%metal%"
 		"textAlignment"			"center"
-		"font"					"Cerbetica28Blur"
+		"font"					"Volkswagen28Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"DamageAccountValue"
 	}

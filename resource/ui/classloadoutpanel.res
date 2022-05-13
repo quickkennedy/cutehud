@@ -287,7 +287,7 @@
 		"tabPosition"		"0"
 		"labelText"			"v" //R
 		"textAlignment"		"center"
-		"font"				"Circle" //Cerbetica28
+		"font"				"Circle" //Volkswagen28
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 		"paintbackground"	"1"
@@ -318,7 +318,7 @@
 		"tabPosition"		"0"
 		"labelText"			"v" //B
 		"textAlignment"		"center"
-		"font"				"Circle" //Cerbetica28
+		"font"				"Circle" //Volkswagen28
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 		"paintbackground"	"1"

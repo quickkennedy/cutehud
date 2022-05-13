@@ -70,7 +70,7 @@
 		"wide"			"255"
 		"tall"			"25"
 		"textAlignment"	"center"
-		"font"			"Cerbetica32"
+		"font"			"Volkswagen32"
 		"visible"		"1"
 		"enabled"		"1"
 		"allcaps"		"1"
@@ -96,7 +96,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"jointeam spectate"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		"allcaps"		"1"
 		
 		"defaultBgColor_override" 	"TransparentBlack"
@@ -136,7 +136,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"jointeam spectatearena"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		
 		"defaultBgColor_override" 	"TransparentBlack"
 		"armedBgColor_override"		"ColorWhite"

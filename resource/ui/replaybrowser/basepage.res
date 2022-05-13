@@ -38,7 +38,7 @@
 		"tabPosition"			"0"
 		"fgcolor_override"		"White"
 		"bgcolor_override"		"DarkerGrey"
-		"Font"					"Cerbetica14"
+		"Font"					"Volkswagen14"
 	}
 	
 	"ReplayList"

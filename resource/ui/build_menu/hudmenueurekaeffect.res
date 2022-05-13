@@ -26,7 +26,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabel"
-		"font"				"Cerbetica28"
+		"font"				"Volkswagen28"
 		"xpos"				"10"
 		"ypos"				"0"
 		"zpos"				"2"
@@ -46,7 +46,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"TitleLabelDropshadow"
-		"font"				"Cerbetica28"
+		"font"				"Volkswagen28"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"

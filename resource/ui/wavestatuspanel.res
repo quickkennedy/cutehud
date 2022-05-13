@@ -25,7 +25,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"WaveCountLabel"
-		"font"					"Cerbetica14"
+		"font"					"Volkswagen14"
 		"fgcolor"				"150 150 150 255"
 		"xpos"					"0"
 		"ypos"					"0"
@@ -64,7 +64,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SupportLabel"
-		"font"					"Cerbetica14"
+		"font"					"Volkswagen14"
 		"fgcolor"				"TanLight"
 		"xpos"					"55"
 		"ypos"					"6"

@@ -32,7 +32,7 @@
 		"wrap"				"1"
 		"labelText"			""
 		"textAlignment"		"North"
-		"font"				"Cerbetica10"
+		"font"				"Volkswagen10"
 		"textinsetx"		"2"
 		"textinsety"		"7"
 	}

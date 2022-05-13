@@ -30,7 +30,7 @@
 			{
 				"ControlName"			"Label"
 				"fieldName"				"HeaderLabel"
-				"font"					"Cerbetica18"
+				"font"					"Volkswagen18"
 				"textAlignment"			"center"
 				"xpos"					"0"
 				"ypos"					"0"

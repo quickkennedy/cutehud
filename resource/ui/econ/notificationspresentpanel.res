@@ -31,7 +31,7 @@
 		"wrap"			"0"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"
-		"font"			"Cerbetica10"
+		"font"			"Volkswagen10"
 		"proportionaltoparent"	"1"
 	}
 }

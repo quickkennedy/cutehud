@@ -51,7 +51,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica16"
+		"font"			"Volkswagen16"
 		"fgcolor"		"Spec Health Normal"
 	}
 
@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica16"
+		"font"			"Volkswagen16"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"SpecHealthValue"

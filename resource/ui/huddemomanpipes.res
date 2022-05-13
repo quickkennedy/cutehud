@@ -69,7 +69,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica24"
+			"font"				"Volkswagen24"
 			"fgcolor"			"white"
 		}
 		"NumPipesLabelDropshadow"
@@ -90,7 +90,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Cerbetica24Blur"
+			"font"				"Volkswagen24Blur"
 			"fgcolor"			"TransparentBlack"
 			"pin_to_sibling"	"NumPipesLabel"
 		}

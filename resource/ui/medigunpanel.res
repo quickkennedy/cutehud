@@ -163,7 +163,7 @@
         "textAlignment"	"center"
         "dulltext"		"0"
         "brighttext"	"0"
-        "font"			"Cerbetica16"
+        "font"			"Volkswagen16"
         "fgcolor"		"TanLight"
 
         "medigun-vaccinator" {
@@ -191,7 +191,7 @@
         "textAlignment"	"center"
         "dulltext"		"0"
         "brighttext"	"0"
-        "font"			"Cerbetica16"
+        "font"			"Volkswagen16"
 		"fgcolor_override"	"TransparentBlack"
 
 		"pin_to_sibling" 		"MedigunPanelChargeLabel"

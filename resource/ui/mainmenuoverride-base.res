@@ -41,7 +41,7 @@
 				"tabPosition"	"0"
 				"textinsetx"	"25"
 				"use_proportional_insets" "1"
-				"font"			"Cerbetica16"
+				"font"			"Volkswagen16"
 				"textAlignment"	"west"
 				"dulltext"		"0"
 				"brighttext"	"0"

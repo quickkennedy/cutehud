@@ -84,7 +84,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"BlueTeamScore"
-			"font"				"Cerbetica40"
+			"font"				"Volkswagen40"
 			"labelText"			"%blueteamscore%"
 			"textAlignment"		"east"
 			"xpos"				"15"
@@ -101,7 +101,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"BlueTeamScoreShadow"
-			"font"				"Cerbetica40Blur"
+			"font"				"Volkswagen40Blur"
 			"fgcolor"			"TransparentBlack"
 			"labelText"			"%blueteamscore%"
 			"textAlignment"		"east"
@@ -174,7 +174,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"RedTeamScore"
-			"font"				"Cerbetica40"
+			"font"				"Volkswagen40"
 			"labelText"			"%redteamscore%"
 			"textAlignment"		"west"
 			"xpos"				"105"
@@ -191,7 +191,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"RedTeamScoreShadow"
-			"font"				"Cerbetica40Blur"
+			"font"				"Volkswagen40Blur"
 			"fgcolor"			"TransparentBlack"
 			"labelText"			"%redteamscore%"
 			"textAlignment"		"west"
@@ -258,7 +258,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		"xpos"			"10"
 		"ypos"			"54"
 		"zpos"			"1"
@@ -277,7 +277,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		"xpos"			"10"
 		"ypos"			"59"
 		"zpos"			"1"

@@ -69,7 +69,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"BarChartLabelA"
-				"font"				"Cerbetica12"
+				"font"				"Volkswagen12"
 				"labelText"			"#StatSummary_StatTitle_MostPoints"
 				"textAlignment"		"east"
 				"xpos"				"c-282"
@@ -86,7 +86,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"BarChartLabelB"
-				"font"				"Cerbetica12"
+				"font"				"Volkswagen12"
 				"labelText"			"#StatSummary_StatTitle_TotalPlaytime"
 				"textAlignment"		"west"
 				"xpos"				"c-127"
@@ -103,7 +103,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"OverallRecordLabel"
-				"font"				"Cerbetica12"
+				"font"				"Volkswagen12"
 				"labelText"			"#StatSummary_Label_AsAnyClass"
 				"textAlignment"		"west"
 				"xpos"				"c130"
@@ -298,7 +298,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel1A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -315,7 +315,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel1B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -332,7 +332,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel1"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class1%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -425,7 +425,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel2A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -442,7 +442,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel2B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -459,7 +459,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel2"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class2%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -552,7 +552,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel3A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel3A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -569,7 +569,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel3B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel3B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -586,7 +586,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel3"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class3%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -679,7 +679,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel4A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel4A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -696,7 +696,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel4B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel4B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -713,7 +713,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel4"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class4%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -806,7 +806,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel5A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel5A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -823,7 +823,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel5B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel5B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -840,7 +840,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel5"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class5%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -933,7 +933,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel6A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel6A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -950,7 +950,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel6B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel6B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -967,7 +967,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel6"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class6%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1060,7 +1060,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel7A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel7A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1077,7 +1077,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel7B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel7B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1094,7 +1094,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel7"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class7%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1187,7 +1187,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel8A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel8A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1204,7 +1204,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel8B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel8B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1221,7 +1221,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel8"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class8%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1314,7 +1314,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel9A"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel9A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1331,7 +1331,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel9B"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%classbarlabel9B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1348,7 +1348,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel9"
-			"font"			"Cerbetica12"
+			"font"			"Volkswagen12"
 			"labelText"		"%class9%"
 			"textAlignment"	"center"
 			"xpos"			"0"

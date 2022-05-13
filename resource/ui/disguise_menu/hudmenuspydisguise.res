@@ -276,7 +276,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Volkswagen20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"40"
@@ -313,7 +313,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Volkswagen20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"85"
@@ -350,7 +350,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"NumberLabel"
-		"font"				"Cerbetica20"
+		"font"				"Volkswagen20"
 		"fgcolor"			"TanLight"
 		"xpos"				"10"
 		"ypos"				"130"

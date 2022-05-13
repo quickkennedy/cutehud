@@ -92,12 +92,12 @@
 	{
 		"xpos"			"-18"
 		"ypos"			"12"
-		"font"			"Cerbetica24"
+		"font"			"Volkswagen24"
 	}
 
 	"PlayerHealthValueShadow"
 	{
-		"font"			"Cerbetica24"
+		"font"			"Volkswagen24"
 	}
 
 	"PlayerStatusAnchor"

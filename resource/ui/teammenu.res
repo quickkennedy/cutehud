@@ -26,7 +26,7 @@
 		"tall"			"25"
 		"labelText"		"#TF_SelectATeam"
 		"textAlignment"	"center"
-		"font"			"Cerbetica32"
+		"font"			"Volkswagen32"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"TanLight"
@@ -52,7 +52,7 @@
 		"brighttext"	"0"
 		"command"		"jointeam blue"
 		"team"			"3"		// Blue Team
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 
 		"defaultBgColor_override" 	"Blue"
 		"armedBgColor_override"		"BlueSolid"
@@ -92,7 +92,7 @@
 		"brighttext"	"0"
 		"command"		"jointeam red"
 		"team"			"4"		// Red Team
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 
 		"defaultBgColor_override" 	"Red"
 		"armedBgColor_override"		"RedSolid"
@@ -132,7 +132,7 @@
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam auto"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 
 		"defaultBgColor_override" 	"TransparentBlack"
 		"armedBgColor_override"		"ColorWhite"
@@ -172,7 +172,7 @@
 		"brighttext"	"0"
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 
 		"defaultBgColor_override" 	"TransparentBlack"
 		"armedBgColor_override"		"ColorWhite"
@@ -210,7 +210,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		"fgcolor"		"255 255 255 128"
 
 		"pin_to_sibling"		"teambutton0"
@@ -235,7 +235,7 @@
 		"textAlignment"	"east"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"Cerbetica20"
+		"font"			"Volkswagen20"
 		"fgcolor"		"255 255 255 128"
 
 		"pin_to_sibling"		"teambutton1"
@@ -260,7 +260,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Cerbetica12"
+		"font"			"Volkswagen12"
 		"fgcolor"		"TanLight"
 		"centerwrap"	"1"
 	}
@@ -282,7 +282,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Cerbetica12"
+		"font"			"Volkswagen12"
 		"fgcolor"		"TransparentBlack"
 		"centerwrap"	"1"
 

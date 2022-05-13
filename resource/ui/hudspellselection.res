@@ -56,7 +56,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CountText"
-		"font"				"Cerbetica28"
+		"font"				"Volkswagen28"
 		"labelText"			"%counttext%"
 		"textAlignment"		"center"
 		"xpos"				"0"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CountTextShadow"
-		"font"				"Cerbetica28"
+		"font"				"Volkswagen28"
 		"labelText"			"%counttext%"
 		"textAlignment"		"center"
 		"xpos"				"-2"

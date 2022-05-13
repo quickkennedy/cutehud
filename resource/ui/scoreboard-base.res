@@ -149,7 +149,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamScore"
-		"font"			"Cerbetica32"
+		"font"			"Volkswagen32"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"	"east"
 		"xpos"			"0"
@@ -177,7 +177,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueTeamScoreShadow"
-		"font"			"Cerbetica32Blur"
+		"font"			"Volkswagen32Blur"
 		"labelText"		"%blueteamscore%"
 		"textAlignment"	"east"
 		"xpos"			"-2"
@@ -318,7 +318,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedTeamScore"
-		"font"			"Cerbetica32"
+		"font"			"Volkswagen32"
 		"labelText"		"%redteamscore%"
 		"textAlignment"	"west"
 		"xpos"			"0"
@@ -346,7 +346,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"RedTeamScoreShadow"
-		"font"				"Cerbetica32Blur"
+		"font"				"Volkswagen32Blur"
 		"labelText"			"%redteamscore%"
 		"textAlignment"		"west"
 		"xpos"				"-2"
