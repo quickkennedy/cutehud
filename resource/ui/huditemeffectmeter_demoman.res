@@ -70,7 +70,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28"
+		"font"					"Montserrat28"
 		"fgcolor"				"Health Normal"
 	}
 
@@ -91,7 +91,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Cerbetica28Blur"
+		"font"					"Montserrat28Blur"
 		"fgcolor"				"TransparentBlack"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}

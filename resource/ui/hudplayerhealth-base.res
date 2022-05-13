@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica56"
+		"font"			"Montserrat56"
 		"fgcolor"		"Health Normal"
 	}
 
@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
-		"font"			"Cerbetica56Blur"
+		"font"			"Montserrat56Blur"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"PlayerHealthValue"

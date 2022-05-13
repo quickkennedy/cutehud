@@ -6,7 +6,7 @@ Scheme
 	Fonts
 	{
 		// CUSTOM
-		"Cerbetica56"
+		"Montserrat56"
 		{
 			"1"
 			{
@@ -16,7 +16,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"Cerbetica56Blur"
+		"Montserrat56Blur"
 		{
 			"1"
 			{
@@ -52,13 +52,34 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		"Cerbetica32Blur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+		"Montserrat32"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"32"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Montserrat32Blur"
 		{
 			"1"
 			{
@@ -73,13 +94,34 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
 		"Cerbetica28Blur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"//"Cerbetica-Bold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+		"Montserrat28"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"//"Cerbetica-Bold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Montserrat28Blur"
 		{
 			"1"
 			{

@@ -22,7 +22,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClip"
-		"font"				"Cerbetica56"
+		"font"				"Montserrat56"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -38,7 +38,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInClipShadow"
-		"font"				"Cerbetica56Blur"
+		"font"				"Montserrat56Blur"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -56,7 +56,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserve"
-		"font"				"Cerbetica32"
+		"font"				"MontSerrat32"
 		"fgcolor"			"Ammo In Reserve"
 		"xpos"				"-65-30"
 		"ypos"				"0-5"
@@ -73,7 +73,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoInReserveShadow"
-		"font"				"Cerbetica32Blur"
+		"font"				"MontSerrat32Blur"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"
@@ -91,7 +91,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClip"
-		"font"				"Cerbetica56"
+		"font"				"Montserrat56"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"24"
 		"ypos"				"0"
@@ -107,7 +107,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"AmmoNoClipShadow"
-		"font"				"Cerbetica56Blur"
+		"font"				"Montserrat56Blur"
 		"fgcolor"			"TransparentBlack"
 		"xpos"				"-2"
 		"ypos"				"-2"

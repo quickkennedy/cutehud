@@ -35,7 +35,7 @@
 		"textAlignment"		"West"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"Cerbetica56"
+		"font"				"Montserrat56"
 		"fgcolor"			"Ammo In Clip"
 	}
 
@@ -57,7 +57,7 @@
 		"textAlignment"		"West"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"font"				"Cerbetica56Blur"
+		"font"				"Montserrat56Blur"
 		"fgcolor"			"TransparentBlack"
 
 		"pin_to_sibling"		"ChargeLabel"
