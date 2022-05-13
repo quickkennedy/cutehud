@@ -98,10 +98,10 @@ Scheme
 		"RedSolid"								"255 111 111 255" //"205 50 50 255"
 		"Blue"								"111 111 255 150" //"70 130 180 150"
 		"BlueSolid"								"111 111 255 255" //"70 130 180 255"
-		"Yellow"								"251 235 202 255"
-		"TransparentYellow"						"251 235 202 140"
-		"BrightYellow"							"251 235 0 255"
-		"GreenSolid"							"76 107 34 255"
+		"Yellow"								"255 255 111 255" //"251 235 202 255"
+		"TransparentYellow"						"255 255 111 140" //251 235 202 140"
+		"BrightYellow"							"255 255 111 255" //"251 235 0 255"
+		"GreenSolid"							"111 255 111 255" //"76 107 34 255"
 
 		"Black"									"29 29 29 255"
 		"Transparent"							"0 0 0 0"
@@ -172,10 +172,10 @@ Scheme
 
 		"HTMLBackground"						"95 92 101 255"
 
-		"ItemAttribLevel"						"117 107 94 255"
-		"ItemAttribNeutral"						"235 226 202 255"
-		"ItemAttribPositive"					"153 204 255 255"
-		"ItemAttribNegative"					"255 64 64 255"
+		"ItemAttribLevel"						"127 127 127 255"	//"117 107 94 255"
+		"ItemAttribNeutral"						"255 255 255 255"	//"235 226 202 255"
+		"ItemAttribPositive"					"191 223 255 255"	//"153 204 255 255"
+		"ItemAttribNegative"					"255 111 111 255"	//"255 64 64 255"
 
 		"ItemSetName"							"225 255 15 255"
 		"ItemSetItemEquipped"					"149 175 12 255"
@@ -261,7 +261,7 @@ Scheme
 		"QualityColorCollectors_GreyedOut"		"60 0 0 255"
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
 
-		"SaleGreen"								"76 107 34 255"
+		"SaleGreen"								"111 255 111 255"	//"76 107 34 255"
 		"LightRed"								"200 80 60 255"
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"59 54 48 255"
