@@ -247,15 +247,15 @@
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"is_unusual_icon"
-			"xpos"			"4"
-			"ypos"			"4"
-			"zpos"			"2"
+			"xpos"			"99999"
+			"ypos"			"99999"
+			"zpos"			"-99999"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"wide"			"16"
-			"tall"			"16"
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
-			"enabled"		"1"
+			"enabled"		"0"
 			"scaleImage"	"1"
 		}
 
