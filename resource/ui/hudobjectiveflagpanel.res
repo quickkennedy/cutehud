@@ -443,7 +443,7 @@
 		"textAlignment"	"center"
 		"labelText"		"%redscore%"
 		"font"			"HudFontMedium"
-		"fgcolor"		"cute3"
+		"fgcolor"		"White"
 	}
 
 	"SpecCarriedImage"
