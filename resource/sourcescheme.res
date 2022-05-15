@@ -16,7 +16,7 @@ Scheme
 		"Black"						"17 17 17 255"
 		"Blank"						"0 0 0 0"
 		"HudBlack"					"0 0 0 200"
-		"Lavender"						"207 191 255 255" //"255 173 255 255" //"72 255 255 255"
+		"Lavender"					"207 191 255 255"
 
 		// BASE COLORS
 		//---------------------------------------------
@@ -250,7 +250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -260,7 +260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Tahoma"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -268,7 +268,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Tahoma"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -276,7 +276,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Tahoma"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -285,7 +285,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Tahoma"
+				"name"		"Product Sans"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -294,7 +294,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Tahoma"
+				"name"		"Product Sans"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -307,8 +307,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [disabled]
+				"name"		"Product Sans" [!$OSX]
+				"name"		"Product Sans" [disabled]
 				"weight"	"1500"
 				"tall"		"16" [!$OSX]
 				"tall"		"18" [disabled]
@@ -320,8 +320,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [disabled]
+				"name"		"Product Sans" [!$OSX]
+				"name"		"Product Sans" [disabled]
 				"weight"	"1500"
 				"tall"		"18" [!$OSX]
 				"tall"		"19" [disabled]
@@ -333,8 +333,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
-				"name"		"Verdana" [disabled]
+				"name"		"Product Sans" [!$OSX]
+				"name"		"Product Sans"[disabled]
 				"weight"	"1000"
 				"tall"		"14" [!$OSX]
 				"tall"		"12" [disabled]
@@ -346,9 +346,9 @@ Scheme
 		{
             "1" //For screen heights between 480 and 599 (eg 4:3 aspect Width 640x480 High, Width 720x576 High. 16:10 aspect Width 720x480 High)
             {
-                "name"			"Arial" [$WINDOWS] 			// Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
-                "name"			"Lucida Console" [$X360]    //"Lucida Console"
-                "name"			"Georgia" [$POSIX] 			// Apple Mac OS "Verdana" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"			"Product Sans" [$WINDOWS] 			// Standard is "Product Sans" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"			"Product Sans" [$X360]    //"Product Sans"
+                "name"			"Georgia" [$POSIX] 			// Apple Mac OS "Product Sans"(default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"			"11" [$POSIX]	// "11"
                 "tall"			"10" 			//good positioning is ... "net_graphpos 183" and "net_graphheight 30" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
                 "weight"     	"0"  			//"0" // This is the thickness, like a bold setting max is about 700. Small fonts will look better as "0".
@@ -360,9 +360,9 @@ Scheme
             }
             "2" //For screen heights between 600 and 767 (eg 4:3 aspect Width 800X600 High, ... 16:9 aspect Width 1152x648 High.)
             {
-                "name"			"Arial" [$WINDOWS] 			// Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
-                "name"			"Lucida Console" [$X360]    //"Lucida Console"
-                "name"			"Georgia" [$POSIX] 			// Apple Mac OS "Verdana" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"			"Product Sans" [$WINDOWS] 			// Standard is "Product Sans" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"			"Product Sans" [$X360]    //"Product Sans"
+                "name"			"Georgia" [$POSIX] 			// Apple Mac OS "Product Sans"(default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"			"12" [$POSIX]  	// "11"
                 "tall"			"12" 			//good positioning is ... "net_graphpos 190" and "net_graphheight 45" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
                 "weight"     	"0"
@@ -374,9 +374,9 @@ Scheme
             }
             "3" //For screen heights between 768 and 1023 (eg 4:3 aspect Width 1024X768 High... 16:9 aspect Width 1360x768 High, 16:9 aspect Width 1776x1000 High... 16:10 aspect Width 1280x768 High, 16:10 aspect Width 1280x800 High, 16:10 aspect Width 1400x900 High.)
             {
-                "name"         	"Arial" [$WINDOWS] 			// Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
-				"name"         	"Lucida Console" [$X360]    	//"Lucida Console"
-                "name"         	"Verdana" [$POSIX] 			// Apple Mac OS "Verdana" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         	"Product Sans" [$WINDOWS] 			// Standard is "Product Sans" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+				"name"         	"Product Sans" [$X360]    	//"Product Sans"
+                "name"         	"Product Sans"[$POSIX] 			// Apple Mac OS "Product Sans"(default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         	"13" [$POSIX]  	// "11"
                 "tall"         	"13"  			//good positioning is ... "net_graphpos 203" and "net_graphheight 85" and ensure you select "outline" "1" with all others off with "Microsoft Sans Serif" font.
                 "weight"     	"0"
@@ -388,9 +388,9 @@ Scheme
             }
             "4" //For screen heights between 1024 and 1199 (eg 4:3 aspect Width 1280X1024 High, Width 1400X1050 High...    16:9 aspect Width 1920x1080 High... 16:10 aspect Width 1680x1050 High.)
             {
-                "name"         	"Arial" [$WINDOWS] 			// Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
-				"name"         	"Lucida Console" [$X360]    //"Lucida Console"
-				"name"         	"Arial" [$POSIX] 			// Apple Mac OS "Verdana" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         	"Product Sans" [$WINDOWS] 			// Standard is "Product Sans" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+				"name"         	"Product Sans" [$X360]    //"Product Sans"
+				"name"         	"Product Sans" [$POSIX] 			// Apple Mac OS "Product Sans"(default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         	"19" [$POSIX]  	// "11"
                 "tall"         	"19"  			// good positioning is ... net_graphheight 87 and net_graphpos 210 and ensure you select "outline" "1" with all others off with Ariel font.
                 "weight"     	"0"
@@ -402,9 +402,9 @@ Scheme
             }
             "5" //For screen heights between 1200 and 6000 (6000...wow that's freaking huge!) (eg 4:3 aspect Width 1600X1200 High... 16:10 aspect Width 1920x1200 High.... and beyond)
             {
-                "name"         	"Arial" [$WINDOWS] 			// Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
-                "name"         	"Lucida Console" [$X360]    //"Lucida Console"
-                "name"         	"Arial" [$POSIX] 			// Apple Mac OS "Verdana" (default) Best small font = "Georgia" and "Arial" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         	"Product Sans" [$WINDOWS] 			// Standard is "Product Sans" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Arial MT" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         	"Product Sans" [$X360]    //"Product Sans"
+                "name"         	"Product Sans" [$POSIX] 			// Apple Mac OS "Product Sans"(default) Best small font = "Georgia" and "Product Sans" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         	"19" [$POSIX]  	// "11"
                 "tall"         	"19" 			// good positioning is ... net_graphheight 95 and net_graphpos 225 and ensure you select "outline" "1" with all others off with Ariel font.
                 "weight"     	"0"

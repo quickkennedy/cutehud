@@ -10,7 +10,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -20,7 +20,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"56"
 				"additive"		"0"
 				"antialias"		"1"
@@ -31,7 +31,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -41,7 +41,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"40"
 				"additive"		"0"
 				"antialias"		"1"
@@ -52,7 +52,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -62,7 +62,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -73,7 +73,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -83,7 +83,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"32"
 				"additive"		"0"
 				"antialias"		"1"
@@ -94,7 +94,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -104,7 +104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -115,7 +115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -125,7 +125,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -136,7 +136,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -146,7 +146,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -158,7 +158,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -169,7 +169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"//"Volkswagen-Bold"
+				"name"			"Montserrat Bold"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -180,7 +180,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -190,7 +190,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"20"
 				"additive"		"0"
 				"antialias"		"1"
@@ -201,7 +201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -211,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -222,7 +222,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"16"
 				"additive"		"0"
 				"antialias"		"1"
@@ -233,7 +233,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
@@ -244,7 +244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"12"
 				"additive"		"0"
 				"antialias"		"1"
@@ -255,7 +255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"VAG Rounded BT"//"Volkswagen-Bold"
+				"name"			"VAG Rounded BT"
 				"tall"			"10"
 				"additive"		"0"
 				"antialias"		"1"
@@ -2985,8 +2985,8 @@ Scheme
 		}
 		"10"
 		{
-			"font" 	"resource/fonts/BAHNSCHRIFT.TTF"
-			"name" 	"Bahnschrift"
+			"font" 	"resource/fonts/product sans.ttf"
+			"name" 	"Product Sans"
 		}
 	}
 }
