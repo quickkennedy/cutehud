@@ -1,6 +1,8 @@
 #fun
 
 add minmode<br>
+arena team selection<br>
+arena countdown fix<br>
 
 #annoying
 
