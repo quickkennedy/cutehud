@@ -244,10 +244,10 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WinPanelBG2"
 		"xpos"			"0"
-		"ypos"			"55"
+		"ypos"			"45"
 		"zpos"			"-3"
 		"wide"			"200"
-		"tall"			"152"
+		"tall"			"162"
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
@@ -376,7 +376,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fillcolor"		"250 234 201 255"
+		"fillcolor"		"White"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -685,7 +685,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"fillcolor"		"250 234 201 255"
+		"fillcolor"		"White"
 		"PaintBackgroundType"	"0"
 	}
 	"KillStreakPlayer1Badge"
