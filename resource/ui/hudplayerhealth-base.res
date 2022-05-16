@@ -5,10 +5,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"0" //"c-288-20"
-		"ypos"			"0" //"c70"
-		"wide"			"f0" //"250"
-		"tall"			"f0" //"120"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
 		"HealthBonusPosAdj"			"35"
@@ -45,7 +45,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"999999" //116
+		"xpos"			"99999"
 		"ypos"			"18"
 		"zpos"			"2"
 		"wide"			"68"
@@ -108,12 +108,13 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"10"
-		"ypos"			"5"
+		"xpos"			"-8"
+		"ypos"			"-8"
 		"wide"			"23"
 		"tall"			"23"
 		"visible"		"1"
 		"enabled"		"1"
+		"pin_to_sibling" "PlayerHealthValue"
 	}
 
 	"PlayerStatusBleedImage"
