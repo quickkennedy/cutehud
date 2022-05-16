@@ -272,6 +272,17 @@ Scheme
 				
 			}
 		}
+		"Volkswagen12Blur"
+		{
+			"1"
+			{
+				"name"			"VAG Rounded BT"
+				"tall"			"12"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
 		"Volkswagen10"
 		{
 			"1"
