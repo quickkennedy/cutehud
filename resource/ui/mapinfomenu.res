@@ -45,8 +45,8 @@
 		"labelText"		"%mapname%"
 		"textAlignment"	"center"
 		"font"			"Volkswagen32"
-		"fgcolor"		"TanLight"
-		"allcaps"		"1"
+		"fgcolor"		"White"
+		"allcaps"		"0"
 	}
 
 	"MapInfoType"

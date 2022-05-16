@@ -45,8 +45,8 @@
 		"labelText"			"%mapname%"
 		"textAlignment"		"center"
 		"font"				"Volkswagen32"
-		"fgcolor"			"TanLight"
-		"allcaps"			"1"
+		"fgcolor"			"White"
+		"allcaps"			"0"
 	}
 
 	"TextMessage"
@@ -72,7 +72,7 @@
 		"enabled"			"1"
 		"paintborder"		"0"
 		"textAlignment"		"west"
-		"fgcolor"			"TanLight"
+		"fgcolor"			"White"
 		"paintbackground"	"0"
 	}
 
