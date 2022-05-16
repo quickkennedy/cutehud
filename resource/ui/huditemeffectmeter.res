@@ -6,11 +6,11 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"c-60"
-		"ypos"				"c180-50-2"
+		"ypos"				"c128"
 		"wide"				"120"
 		"tall"				"8"
 		"MeterFG"			"White"
-		"MeterBG"			"0 0 0 140" //Gray
+		"MeterBG"			"Gray"
 	}
 
 	"ItemEffectMeterLabel"
@@ -50,6 +50,6 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"bgcolor_override"	"0 0 0 140"
+		"bgcolor_override"	"TransparentBlack"
 	}
 }

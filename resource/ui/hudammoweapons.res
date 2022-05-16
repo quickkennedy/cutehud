@@ -58,7 +58,7 @@
 		"fieldName"			"AmmoInReserve"
 		"font"				"MontSerrat32"
 		"fgcolor"			"Ammo In Reserve"
-		"xpos"				"-65-30"
+		"xpos"				"-95"
 		"ypos"				"0-5"
 		"zpos"				"7"
 		"wide"				"f0"
