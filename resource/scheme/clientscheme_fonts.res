@@ -165,6 +165,27 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
+		"Montserrat24"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Montserrat24Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"
+				"tall"			"24"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
 		"DamageFont"
 		{
 			"1"
