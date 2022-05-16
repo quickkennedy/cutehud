@@ -4,11 +4,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ChargeLabel"
-		"xpos"				"c-60"
-		"ypos"				"c127"
+		"xpos"				"0" //"c-60"
+		"ypos"				"0" //"c127"
 		"zpos"				"3"
 		"wide"				"120"
-		"tall"				"9"
+		"tall"				"8"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
@@ -19,6 +19,7 @@
 		"brighttext"		"0"
 		"font"				"ItemFontAttribSmall"
 		"fgcolor_override"	"Black"
+		"pin_to_sibling"	"ChargeMeter"
 	}
 
 	"ChargeMeter"
@@ -37,7 +38,7 @@
 		"textAlignment"		"center"
 		"dulltext"			"0"
 		"brighttext"		"0"
-		"bgcolor_override"	"0 0 0 140"
+		"bgcolor_override"	"TransparentBlack"
 	}
 
 	"PipesPresentPanel"
