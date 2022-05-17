@@ -52,6 +52,8 @@
 		"maxchars"				"-1"
 	}
 
+
+	// this element ONLY displays on streamer mode. streamer mode sets its visible property to 1. it goes in place of the chat (streamer mode moves it away) and puts the text "streamer mode disables chat uwu" in its place.
 	"HudChatStreamerMode"
 	{
 		"ControlName"			"label"
