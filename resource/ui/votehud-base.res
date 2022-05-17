@@ -11,7 +11,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"LavenderBorder"
+		//"border"				"LavenderBorder"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
@@ -80,7 +80,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"LavenderBorder"
+		//"border"				"LavenderBorder"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
@@ -100,7 +100,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
 			"wrap"				"1"
-			"fgcolor_override"	"ColorGreyMid"
+			"fgcolor_override"	"White"
 		}
 
 		"Issue"
@@ -118,7 +118,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"White"
 			"wrap"				"1"
 			"noshortcutsyntax"	"1"
 		}
@@ -147,7 +147,7 @@
 			"ypos"				"50"
 			"wide"				"130"
 			"tall"				"1"
-			"fillcolor"			"DullWhite"
+			"fillcolor"			"White"
 			"zpos"				"0"
 		}
 
@@ -180,7 +180,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"255 255 255 140"
 			"visible"			"1"
 		}
 
@@ -231,7 +231,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"255 255 255 140"
 			"visible"			"1"
 		}
 
@@ -314,7 +314,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"255 255 255 140"
 			"visible"			"0"
 		}
 
@@ -346,7 +346,7 @@
 			"wide"				"130"
 			"tall"				"16"
 			"zpos"				"1"
-			"fillcolor"			"88 119 140 180"
+			"fillcolor"			"255 255 255 140"
 			"visible"			"0"
 		}
 
@@ -359,7 +359,7 @@
 			"ypos"				"100"
 			"wide"				"130"
 			"tall"				"1"
-			"fillcolor"			"DullWhite"
+			"fillcolor"			"White"
 			"zpos"				"0"
 		}
 
@@ -378,7 +378,7 @@
 			"dulltext"			"0"
 			"brighttext"		"0"
 			"font"				"ScoreboardVerySmall"
-			"fgcolor_override"	"DullWhite"
+			"fgcolor_override"	"White"
 		}
 
 		// Vote Bar
@@ -413,7 +413,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"LavenderBorder"
+		//"border"				"LavenderBorder"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
@@ -447,7 +447,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"White"
 		}
 
 		"FailedReason"
@@ -482,7 +482,7 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		"border"				"LavenderBorder"
+		//"border"				"LavenderBorder"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
@@ -516,7 +516,7 @@
 			"brighttext"		"0"
 			"font"				"ScoreboardSmall"
 			"wrap"				"1"
-			"fgcolor_override"	"200 30 30 255"
+			"fgcolor_override"	"White"
 		}
 
 		"FailedReason"
@@ -554,7 +554,7 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
-		"border"				"LavenderBorder"
+		//"border"				"LavenderBorder"
 		"bgcolor_override"		"DarkGrey"
 		"PaintBackground"		"1"
 		"PaintBackgroundType"	"2"
@@ -563,7 +563,7 @@
 		"header_fgcolor"			"Lavender"
 		"issue_width"				"180"
 		"issue_font"				"ItemFontNameSmall"
-		"issue_fgcolor"				"TanLight"
+		"issue_fgcolor"				"White"
 		"issue_fgcolor_disabled"	"TanDark"
 		"parameter_width"			"200"
 
@@ -660,12 +660,12 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 
-			"fgcolor_override"					"TanLight"
+			"fgcolor_override"					"White"
 			"bgcolor_override"					"LightRed"
-			"disabledFgColor_override"			"TanLight"
+			"disabledFgColor_override"			"White"
 			"disabledBgColor_override"			"LightRed"
 			"selectionColor_override"			"LightRed"
-			"selectionTextColor_override"		"TanLight"
+			"selectionTextColor_override"		"White"
 			"defaultSelectionBG2Color_override" "LightRed"
 		}
 
@@ -682,7 +682,7 @@
 			"visible"			"1"
 			"enabled"			"0"
 			"tabPosition"		"4"
-			"labelText"			"#TF_call_vote"
+			"labelText"			"call vote"
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
@@ -703,7 +703,7 @@
 			"visible"			"1"
 			"enabled"			"1"
 			"tabPosition"		"4"
-			"labelText"			"#GameUI_Close"
+			"labelText"			"close"
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
