@@ -67,6 +67,9 @@
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+
 		//"pin_to_sibling"			"teambutton0"
 		//"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		//"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
@@ -106,6 +109,9 @@
 
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
+
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
 
 		//"pin_to_sibling"			"teambutton0"
 		//"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -147,6 +153,9 @@
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
 
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+
 		//"pin_to_sibling"			"teambutton1"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
@@ -186,6 +195,9 @@
 
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"
+
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
 
 		//"pin_to_sibling"			"teambutton2"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
