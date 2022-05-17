@@ -2935,5 +2935,11 @@ Scheme
 				}
 			}
 		}
+
+		RoundedBorder
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "2"
+		}
 	}
 }
