@@ -9,4 +9,9 @@
 	{
 		"labeltext"			""
 	}
+
+	"SpectatorGUIHealth"
+	{
+		"xpos"				"s0.2"
+	}
 }
