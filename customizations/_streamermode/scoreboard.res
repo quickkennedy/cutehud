@@ -9,6 +9,16 @@
 			"ypos"		"9999"
         }
     }
+
+    "ServerLabelShadow"
+    {
+        "ypos"			"9999"
+
+        if_mvm
+        {
+			"ypos"		"9999"
+        }
+    }
 	
     "BluePlayerList"
     {
