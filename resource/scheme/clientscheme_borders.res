@@ -347,7 +347,7 @@ Scheme
 				"1"
 				{
 					"color" "Lavender"
-					"offset" "0 4"
+					"offset" "0 0"
 				}
 			}
 			Right
