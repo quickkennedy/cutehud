@@ -10,7 +10,6 @@
 		"ypos"					"24" //match hud is 19 tall, i want offsets 5 off the edge of the screen. 19+5=24, hence y is 24
 		"wide"					"210"
 		"tall"					"100"
-		"PaintBackgroundType"	"2" //rounded edges
 	}
 
 	ChatInputLine
