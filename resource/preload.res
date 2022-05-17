@@ -378,6 +378,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_a"
 	}
+
 	"CPIconB"
 	{
 		"ControlName"	"ImagePanel"
@@ -387,6 +388,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_b"
 	}
+
 	"CPIconC"
 	{
 		"ControlName"	"ImagePanel"
@@ -396,6 +398,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_c"
 	}
+
 	"CPIconD"
 	{
 		"ControlName"	"ImagePanel"
@@ -405,6 +408,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_d"
 	}
+
 	"CPIconE"
 	{
 		"ControlName"	"ImagePanel"
@@ -414,6 +418,7 @@
 		"enabled"		"1"
 		"image"			"../sprites/obj_icons/icon_obj_e"
 	}
+
 	"MenuThumbMissing"
 	{
 		"ControlName"	"ImagePanel"
@@ -422,5 +427,145 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../vgui/maps/menu_thumb_Missing"
+	}
+
+	"CTFCompassBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFCompassBlue"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_compass_blue"
+	}
+
+	"CTFCompassBlueNoarrow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFCompassBlueNoarrow"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_compass_blue_noarrow"
+	}
+
+	"CTFCompassGrey"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFCompassGrey"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_compass_grey"
+	}
+
+	"CTFCompassRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFCompassRed"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_compass_red"
+	}
+
+	"CTFCompassRedNoarrow"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFCompassRedNoarrow"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_compass_red_noarrow"
+	}
+
+	"CTFIconDropped"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFIconDropped"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_ico_flag_dropped"
+	}
+
+	"CTFIconHome"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFIconHome"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_ico_flag_home"
+	}
+
+	"CTFIconMoving"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"CTFIconMoving"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\objectives_flagpanel_ico_flag_moving"
+	}
+
+	"PLPointRedOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointRedOpaque"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_red_opaque"
+	}
+
+	"PLPointBlueOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointBlueOpaque"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_blue_opaque"
+	}
+
+	"PLPointNeutralOpaque"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointNeutralOpaque"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_neutral_opaque"
+	}
+
+	"PLPointRed"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointRed"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_red"
+	}
+
+	"PLPointBlue"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointBlue"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_blue"
+	}
+
+	"PLPointNeutral"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PLPointNeutral"
+		"ypos"			"9999"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"..\hud\cart_point_neutral"
 	}
 }
