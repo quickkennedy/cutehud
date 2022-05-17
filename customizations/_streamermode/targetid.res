@@ -1,7 +1,12 @@
 "Resource/UI/TargetID.res"
 {
-    "TargetNameLabel"
-    {
-        "labeltext"			""
-    }
+	"TargetNameLabel"
+	{
+		"labeltext"			""
+	}
+
+	"TargetNameLabelShadow"
+	{
+		"labeltext"			""
+	}
 }

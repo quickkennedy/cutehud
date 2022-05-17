@@ -1,7 +1,17 @@
 "Resource/UI/BaseChat.res"
 {
-    "HudChat"
-    {
-        "ypos"		"9999"
-    }
+	"HudChatHistory"
+	{
+		"ControlName"			"RichText"
+		"fieldName"				"HudChatHistory"
+		"xpos"					"99999"
+		"ypos"					"99999"
+		"visible"				"0"
+		"enabled"				"0"
+	}
+
+	"HudChatStreamerMode"
+	{
+		"visible"				"1"
+	}
 }
