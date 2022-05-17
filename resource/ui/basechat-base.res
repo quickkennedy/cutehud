@@ -53,7 +53,7 @@
 	}
 
 
-	// this element ONLY displays on streamer mode. streamer mode sets its visible property to 1. it goes in place of the chat (streamer mode moves it away) and puts the text "streamer mode disables chat uwu" in its place.
+	// this element ONLY displays on streamer mode. streamer mode sets its visible property to 1. it goes in place of the chat (streamer mode moves it away) and puts the text "streamer mode disables chat uwu" in its place. inspired by FUNKe's old hud that used to say "my hud disables chat" or something like that.
 	"HudChatStreamerMode"
 	{
 		"ControlName"			"label"
