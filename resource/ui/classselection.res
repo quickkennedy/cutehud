@@ -15,27 +15,6 @@
 		"tabPosition"	"0"
 	}
 
-	"SidePanelBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"SidePanelBG"
-		"xpos"			"99999"
-	}
-
-	"Background"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Background"
-		"xpos"			"99999"
-	}
-
-	"SysMenu"
-	{
-		"ControlName"	"Menu"
-		"fieldName"		"SysMenu"
-		"xpos"			"99999"
-	}
-
 	"SelectClassLabel"
 	{
 		"ControlName"	"CExLabel"
@@ -55,7 +34,7 @@
 
 	"scout"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"scout"
 		"xpos"			"c81"
 		"ypos"			"164"
@@ -72,9 +51,13 @@
 		"Command"			"joinclass scout"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
-		//"textinsetx"		"13"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -92,7 +75,7 @@
 
 	"soldier"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"soldier"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -109,8 +92,13 @@
 		"Command"			"joinclass soldier"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -132,7 +120,7 @@
 
 	"pyro"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"pyro"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -149,8 +137,13 @@
 		"Command"			"joinclass pyro"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -172,7 +165,7 @@
 
 	"demoman"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"demoman"
 		"xpos"				"0"
 		"ypos"				"5"
@@ -189,8 +182,13 @@
 		"Command"			"joinclass demoman"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -212,7 +210,7 @@
 
 	"heavyweapons"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"		"CExButton"
 		"fieldName"			"heavyweapons"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -229,8 +227,13 @@
 		"Command"			"joinclass heavyweapons"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -252,7 +255,7 @@
 
 	"engineer"
 	{
-		"ControlName"		"CExLabel"
+		"ControlName"		"CExButton"
 		"fieldName"			"engineer"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -269,8 +272,13 @@
 		"Command"			"joinclass engineer"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -292,7 +300,7 @@
 
 	"medic"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"medic"
 		"xpos"				"0"
 		"ypos"				"5"
@@ -309,8 +317,13 @@
 		"Command"			"joinclass medic"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -332,7 +345,7 @@
 
 	"sniper"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"sniper"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -349,8 +362,13 @@
 		"Command"			"joinclass sniper"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -372,7 +390,7 @@
 
 	"spy"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"spy"
 		"xpos"				"0"
 		"ypos"				"0"
@@ -389,8 +407,13 @@
 		"Command"			"joinclass spy"
 		"Default"			"0"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		//"allcaps"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override"	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -436,9 +459,13 @@
 		"textAlignment"		"west"
 		"Command"			"joinclass random"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		"allcaps"			"0"
-		"Default"			"1"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -448,6 +475,10 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"sound_armed"		"UI/buttonrollover.wav"
+
+		"stayselectedonclick"	"1"
+		"selectonhover"			"1"
+		"keyboardinputenabled"	"0"
 
 		"pin_to_sibling"			"spy"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -461,7 +492,7 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"6"
-		"wide"				"110"
+		"wide"				"100"
 		"tall"				"16"
 		"autoResize"		"0"
 		"pinCorner"			"2"
@@ -472,8 +503,13 @@
 		"textAlignment"		"west"
 		"Command"			"openloadout"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		"allcaps"			"0"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -483,6 +519,10 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"sound_armed"		"UI/buttonrollover.wav"
+
+		"stayselectedonclick"	"1"
+		"selectonhover"			"1"
+		"keyboardinputenabled"	"0"
 
 		"pin_to_sibling"			"random2"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -496,7 +536,7 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"6"
-		"wide"				"80"
+		"wide"				"100"
 		"tall"				"16"
 		"autoResize"		"0"
 		"pinCorner"			"2"
@@ -507,8 +547,13 @@
 		"textAlignment"		"west"
 		"Command"			"vguicancel"
 		"font"				"Volkswagen16"
-		"paintbackground"	"0"
-		"allcaps"			"0"
+		"paintbackground"	"1"
+		"border_default"			"RoundedBorder"
+		"border_armed"				"RoundedBorder"
+		"defaultBgColor_override" 	"Transparent"
+		"armedBgColor_override"		"TransparentBlack"
+		"depressedBgColor_override" "Transparent"
+		"selectedBgColor_override" 	"TransparentBlack"
 
 		"defaultFgColor_override" 	"TanLight"
 		"armedFgColor_override"		"Lavender"
@@ -518,6 +563,10 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"sound_armed"		"UI/buttonrollover.wav"
+
+		"stayselectedonclick"	"1"
+		"selectonhover"			"1"
+		"keyboardinputenabled"	"0"
 
 		"pin_to_sibling"			"EditLoadoutButton"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -569,6 +618,7 @@
 		"wide"			"20"
 		"tall"			"0"
 	}
+
 	"ResetButton"
 	{
 		"ControlName"	"CExButton"
@@ -590,107 +640,37 @@
 		"font"			"Volkswagen16"
 	}
 
-	"MenuBG"
+	"ClassBg"
 	{
-		"ControlName"	"CModelPanel"
-		"fieldName"		"MenuBG"
-		"xpos"			"9999"
+		"ControlName"	"EditablePanel"
+		"fieldName"		"ClassBg"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"100"
+		"tall"			"207"
+		"visible"		"1"
+		"enabled"		"1"
+		"PaintBackgroundType"	"2"
+		"bgcolor_override"	"TransparentBlack"
+		//"fillcolor"		"0 0 0 50"
+		"border"		"RoundedBorder"
+		"pin_to_sibling"			"scout"
 	}
 
-	"ShadedBar"
+	"SharedBG"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"ShadedBar"
+		"fieldName"		"SharedBG"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"f0"
 		"tall"			"f0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
 		"fillcolor"		"0 0 0 50"
-	}
-
-	"localPlayerImage" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"localPlayerImage"
-		"xpos"			"9999"
-	}
-
-	"localPlayerBG"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"localPlayerBG"
-		"xpos"			"9999"
-	}
-
-	"countImage0" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage0"
-		"xpos"			"9999"
-	}
-	"countImage1" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage1"
-		"xpos"			"9999"
-	}
-	"countImage2" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage2"
-		"xpos"			"9999"
-	}
-	"countImage3" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage3"
-		"xpos"			"9999"
-	}
-	"countImage4" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage4"
-		"xpos"			"9999"
-	}
-	"countImage5" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage5"
-		"xpos"			"9999"
-	}
-	"countImage6" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage6"
-		"xpos"			"9999"
-	}
-	"countImage7" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage7"
-		"xpos"			"9999"
-	}
-	"countImage8" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage8"
-		"xpos"			"9999"
-	}
-	"countImage9" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage9"
-		"xpos"			"9999"
-	}
-	"countImage10" [$WIN32]
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"countImage10"
-		"xpos"			"9999"
 	}
 
 	"numScout"
@@ -709,7 +689,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -734,7 +714,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"wst"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -759,7 +739,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -784,7 +764,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -809,7 +789,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -834,7 +814,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -859,7 +839,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -884,7 +864,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -909,7 +889,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"font"			"Volkswagen16"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"fgcolor"		"TanLight"
 		"mouseinputenabled"	"0"
 
@@ -1134,6 +1114,88 @@
 			"modelname"			""
 		}
 	}
+}
+
+	"localPlayerImage" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"localPlayerImage"
+		"xpos"			"9999"
+	}
+
+	"localPlayerBG"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"localPlayerBG"
+		"xpos"			"9999"
+	}
+
+	"countImage0" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage0"
+		"xpos"			"9999"
+	}
+	"countImage1" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage1"
+		"xpos"			"9999"
+	}
+	"countImage2" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage2"
+		"xpos"			"9999"
+	}
+	"countImage3" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage3"
+		"xpos"			"9999"
+	}
+	"countImage4" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage4"
+		"xpos"			"9999"
+	}
+	"countImage5" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage5"
+		"xpos"			"9999"
+	}
+	"countImage6" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage6"
+		"xpos"			"9999"
+	}
+	"countImage7" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage7"
+		"xpos"			"9999"
+	}
+	"countImage8" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage8"
+		"xpos"			"9999"
+	}
+	"countImage9" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage9"
+		"xpos"			"9999"
+	}
+	"countImage10" [$WIN32]
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"countImage10"
+		"xpos"			"9999"
+	}
 
 	"ClassTipsPanel"
 	{
@@ -1148,4 +1210,31 @@
 		"fieldName"		"ClassHighlightPanel"
 		"xpos"			"9999"
 	}
-}
+
+	"MenuBG"
+	{
+		"ControlName"	"CModelPanel"
+		"fieldName"		"MenuBG"
+		"xpos"			"9999"
+	}
+
+	"SidePanelBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"SidePanelBG"
+		"xpos"			"99999"
+	}
+
+	"Background"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Background"
+		"xpos"			"99999"
+	}
+
+	"SysMenu"
+	{
+		"ControlName"	"Menu"
+		"fieldName"		"SysMenu"
+		"xpos"			"99999"
+	}
