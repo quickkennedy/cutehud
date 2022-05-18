@@ -11,7 +11,6 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"paintborder"			"1"
-		//"border"				"LavenderBorder"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
 
@@ -555,7 +554,7 @@
 		"settitlebarvisible"	"0"
 		"paintborder"			"1"
 		//"border"				"LavenderBorder"
-		"bgcolor_override"		"DarkGrey"
+		"bgcolor_override"		"TransparentBlack"
 		"PaintBackground"		"1"
 		"PaintBackgroundType"	"2"
 
@@ -671,7 +670,7 @@
 
 		"CallVoteButton"
 		{
-			"ControlName"		"Button"
+			"ControlName"		"CExImageButton"
 			"fieldName"			"CallVoteButton"
 			"xpos"				"75"
 			"ypos"				"275"
@@ -680,7 +679,7 @@
 			"autoResize"		"0"
 			"pinCorner"			"3"
 			"visible"			"1"
-			"enabled"			"0"
+			"enabled"			"1"
 			"tabPosition"		"4"
 			"labelText"			"call vote"
 			"textAlignment"		"center"
@@ -689,10 +688,21 @@
 			"Command"			"CallVote"
 			"Default"			"0"
 			"font"				"HudFontMediumSmall"
+
+			"RoundedCorners"			"1"
+			"paintbackground"			"1"
+			"PaintBackgroundType"		"2"
+			"border_default"			"RoundedBorder"
+			"border_armed"				"RoundedBorder"
+			"boder"						"RoundedBorder"
+			"defaultBgColor_override" 	"TransparentBlack"
+			"armedBgColor_override"		"Transparent"
+			"depressedBgColor_override" "TransparentBlack"
+			"selectedBgColor_override" 	"Transparent"
 		}
 		"Button1"
 		{
-			"ControlName"		"Button"
+			"ControlName"		"CExImageButton"
 			"fieldName"			"Button1"
 			"xpos"				"240"
 			"ypos"				"275"
@@ -710,6 +720,14 @@
 			"Command"			"Close"
 			"Default"			"0"
 			"font"				"HudFontMediumSmall"
+
+			"paintbackground"			"1"
+			"border_default"			"RoundedBorder"
+			"border_armed"				"RoundedBorder"
+			"defaultBgColor_override" 	"TransparentBlack"
+			"armedBgColor_override"		"Transparent"
+			"depressedBgColor_override" "TransparentBlack"
+			"selectedBgColor_override" 	"Transparent"
 		}
 	}
 }
