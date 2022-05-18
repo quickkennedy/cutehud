@@ -457,8 +457,8 @@
 		"fieldName" 			"HudDeathNotice"
 		"visible" 				"1"
 		"enabled" 				"1"
-		"xpos"	 				"r592"
-		"ypos"	 				"25"
+		"xpos"	 				"rs1-5" // 5 from edge of screen
+		"ypos"	 				"21" //seems to represent 3 above where it actually is
 		"wide"	 				"580"
 		"tall"	 				"468"
 		"MaxDeathNotices"		"5"
@@ -470,7 +470,7 @@
 		"TextFont"				"HudFontSmallest"
 		"TeamBlue"				"BlueSolid"
 		"TeamRed"				"RedSolid"
-		"IconColor"				"HudWhite"
+		"IconColor"				"White" //somehow controls what colors show? i have honestly no clue.
 		"LocalPlayerColor"		"65 65 65 255"
 		"BaseBackgroundColor"	"TransparentBlack"
 		"LocalBackgroundColor"	"White"
