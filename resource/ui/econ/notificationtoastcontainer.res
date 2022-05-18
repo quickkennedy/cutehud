@@ -11,8 +11,9 @@
 		"tall"				"50"
 		"visible"			"1"
 		"enabled"			"1"
-		"bgcolor_override"	"DarkGrey"
-		"border"			"LavenderBorder"
+		"bgcolor_override"	"TransparentBlack"
+		"border"			"RoundedBorder"
+		"pin_to_sibling"	"ToastAnchor"
 	}
 
 	"HelpTextLabel"
