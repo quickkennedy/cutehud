@@ -59,7 +59,7 @@
 		"font"				"MontSerrat32"
 		"fgcolor"			"Ammo In Reserve"
 		"xpos"				"-110"
-		"ypos"				"0"
+		"ypos"				"-1"
 		"zpos"				"7"
 		"wide"				"200"
 		"tall"				"100"
