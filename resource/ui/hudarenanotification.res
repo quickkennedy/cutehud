@@ -9,11 +9,11 @@
 		"zpos"			"-1"
 		"wide"			"280"
 		"tall"			"75"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"bgcolor_override"		"TransparentBlack"
 		"PaintBackgroundType"	"2"
-		"border"				"LavenderBorderThick"
+		"border"				"RoundedBorder"
 	}
 
 	"WarningLabel"
@@ -35,23 +35,31 @@
 		"textAlignment"	"center"
 	}
 
-	"BalanceLabel"
+	"WarningLabelShadow"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"BalanceLabel"
-		"font"			"HudFontSmall"
-		"xpos"			"50"
-		"ypos"			"0"
+		"fieldName"		"WarningLabelShadow"
+		"font"			"HudFontGiantBoldBlur"
+		"xpos"			"1"
+		"ypos"			"1"
 		"zpos"			"1"
-		"wide"			"230"
-		"tall"			"40"
+		"wide"			"50"
+		"tall"			"75"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"wrap"			"1"
-		"labelText"		""
-		"textAlignment"	"west"
+		"wrap"			"0"
+		"labelText"		"!"
+		"textAlignment"	"center"
+		"fgcolor_override"		"TransparentBlack"
+	}
+
+	"BalanceLabel"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"BalanceLabel"
+		"xpos"			"99999"
 	}
 
 	"BalanceLabelTip"
@@ -60,7 +68,7 @@
 		"fieldName"		"BalanceLabelTip"
 		"font"			"HudFontSmall"
 		"xpos"			"50"
-		"ypos"			"30"
+		"ypos"			"23"
 		"zpos"			"1"
 		"wide"			"230"
 		"tall"			"35"
@@ -71,6 +79,26 @@
 		"wrap"			"1"
 		"labelText"		"%notificationtip%"
 		"textAlignment"	"west"
+	}
+
+	"BalanceLabelTipShadow"
+	{
+		"ControlName"	"Label"
+		"fieldName"		"BalanceLabelTipShadow"
+		"font"			"HudFontSmallBlur"
+		"xpos"			"51"
+		"ypos"			"24"
+		"zpos"			"1"
+		"wide"			"230"
+		"tall"			"35"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"wrap"			"1"
+		"labelText"		"%notificationtip%"
+		"textAlignment"	"west"
+		"fgcolor_override"	"TransparentBlack"
 	}
 
 	"SwitchImage"
