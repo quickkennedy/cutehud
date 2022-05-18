@@ -930,7 +930,7 @@
 		"tabPosition"	"0"
 		"labelText"		"cutehud"
 		"font"			"HudFontGiant" //"HudFontMediumSecondary"
-		"command"		"engine hud_reloadscheme; record fix; stop"
+		"command"		"engine hud_reloadscheme; record fix; stop; play ui/screaming.mp3"
 		"textAlignment"	"center"
 		"textinsetx"	"0"
 		"use_proportional_insets" "0"
