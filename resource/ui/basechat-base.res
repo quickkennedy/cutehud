@@ -52,6 +52,7 @@
 		"textAlignment"			"south-west"
 		"font"					"ChatFont"
 		"maxchars"				"-1"
+		"PaintBackgroundType"	"2"
 	}
 
 
