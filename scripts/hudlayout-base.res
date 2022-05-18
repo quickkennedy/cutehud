@@ -465,7 +465,7 @@
 		"IconScale"				"0.35"
 		"LineHeight"			"14"
 		"LineSpacing"			"0"
-		"CornerRadius"			"2"
+		"CornerRadius"			"5"
 		"RightJustify"			"1"
 		"TextFont"				"HudFontSmallest"
 		"TeamBlue"				"BlueSolid"
