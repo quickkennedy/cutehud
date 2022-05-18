@@ -15,14 +15,17 @@
 		"enabled"			"1"
 		"image"				"../hud/color_panel_blu"
 		"scaleImage"		"1"
-		"teambg_2"			"../hud/color_panel_red"
-		"teambg_3"			"../hud/color_panel_blu"
-		"paintborder"		"0"
+		"teambg_2"			"replay/thumbnails/bg/bg_red"
+		"teambg_3"			"replay/thumbnails/bg/bg_blu"
+		"paintborder"		"1"
+		"border_override"		"RoundedBorder"
+		"RoundedCorners"		"1"
+		"backgroundtype"		"2"
 
 		"src_corner_height"		"23"
 		"src_corner_width"		"23"
-		"draw_corner_width"		"0"
-		"draw_corner_height" 	"0"
+		"draw_corner_width"		"8"
+		"draw_corner_height" 	"8"
 	}
 
 	"localPlayerBG"
