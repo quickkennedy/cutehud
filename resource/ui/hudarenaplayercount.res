@@ -4,27 +4,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"blueteam"
-		"xpos"			"c-65"
+		"xpos"			"c-75"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"45"
 		"tall"			"25"
 		"visible"		"1"
-
-		"background"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"			"background"
-			"xpos"				"0"
-			"ypos"				"0"
-			"zpos"				"0"
-			"wide"				"45"
-			"tall"				"25"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"	"Blue"
-			"PaintBackgroundType"	"2"
-		}
 
 		"count"
 		{
@@ -42,7 +27,7 @@
 			"font"				"Volkswagen28"
 			"labelText"			"%blue_alive%"
 			"textAlignment"		"east"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"BlueSolid"
 			"textinsetx"		"10"
 		}
 		"countshadow"
@@ -58,7 +43,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"font"				"Volkswagen28"
+			"font"				"Volkswagen28Blur"
 			"labelText"			"%blue_alive%"
 			"textAlignment"		"east"
 			"fgcolor"			"TransparentBlack"
@@ -66,10 +51,10 @@
 			"pin_to_sibling"	"count"
 		}
 
-		"playerimage"
+		"playerimageblue"
 		{
 			"ControlName"		"ImagePanel"
-			"fieldName"			"playerimage"
+			"fieldName"			"playerimageblue"
 			"xpos"				"4"
 			"ypos"				"4"
 			"zpos"				"3"
@@ -77,8 +62,24 @@
 			"tall"				"18"
 			"visible"			"1"
 			"enabled"			"1"
-			"image"				"capture_icon_white"
+			"image"				"../vgui/replay/thumbnails/dudes/bluedude"
 			"scaleImage"		"1"
+		}
+
+		"playerimageshadow"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"			"playerimageshadow"
+			"xpos"				"-2"
+			"ypos"				"-2"
+			"zpos"				"2"
+			"wide"				"10"
+			"tall"				"18"
+			"visible"			"1"
+			"enabled"			"1"
+			"image"				"../vgui/replay/thumbnails/dudes/shadowdude"
+			"scaleImage"		"1"
+			"pin_to_sibling"	"playerimageblue"
 		}
 	}
 
@@ -86,27 +87,12 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"redteam"
-		"xpos"			"c20"
+		"xpos"			"c30"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"45"
 		"tall"			"25"
 		"visible"		"1"
-
-		"background"
-		{
-			"ControlName"		"EditablePanel"
-			"fieldName"			"background"
-			"xpos"				"0"
-			"ypos"				"0"
-			"zpos"				"0"
-			"wide"				"45"
-			"tall"				"25"
-			"visible"			"1"
-			"enabled"			"1"
-			"bgcolor_override"	"Red"
-			"PaintBackgroundType"	"2"
-		}
 
 		"count"
 		{
@@ -124,7 +110,7 @@
 			"font"				"Volkswagen28"
 			"labelText"			"%red_alive%"
 			"textAlignment"		"west"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"RedSolid"
 			"textinsetx"		"10"
 		}
 		"countshadow"
@@ -140,7 +126,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"font"				"Volkswagen28"
+			"font"				"Volkswagen28Blur"
 			"labelText"			"%red_alive%"
 			"textAlignment"		"west"
 			"fgcolor"			"TransparentBlack"
@@ -148,10 +134,10 @@
 			"pin_to_sibling"	"count"
 		}
 
-		"playerimage"
+		"playerimagered"
 		{
 			"ControlName"		"ImagePanel"
-			"fieldName"			"playerimage"
+			"fieldName"			"playerimagered"
 			"xpos"				"30"
 			"ypos"				"4"
 			"zpos"				"3"
@@ -159,8 +145,24 @@
 			"tall"				"18"
 			"visible"			"1"
 			"enabled"			"1"
-			"image"				"capture_icon_white"
+			"image"				"../vgui/replay/thumbnails/dudes/reddude"
 			"scaleImage"		"1"
+		}
+
+		"playerimageshadow"
+		{
+			"ControlName"		"ImagePanel"
+			"fieldName"			"playerimageshadow"
+			"xpos"				"-2"
+			"ypos"				"-2"
+			"zpos"				"2"
+			"wide"				"10"
+			"tall"				"18"
+			"visible"			"1"
+			"enabled"			"1"
+			"image"				"../vgui/replay/thumbnails/dudes/shadowdude"
+			"scaleImage"		"1"
+			"pin_to_sibling"	"playerimagered"
 		}
 	}
 }
