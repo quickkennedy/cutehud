@@ -6,9 +6,9 @@ on:
 
 env:
   # replace "quickkennedy" with your GitHub username
-  # replace "https://github.com/quickkennedy/cutehud.git" with your GitHub repo path
+  # replace "github.com/quickkennedy/cutehud.git" with your GitHub repo path
   # do NOT replace ${{secrets.GITHUB_TOKEN}}, GitHub will take care of it
-  MY_REPO: https://quickkennedy:${{secrets.GITHUB_TOKEN}}@https://github.com/quickkennedy/cutehud.git
+  MY_REPO: https://quickkennedy:${{secrets.GITHUB_TOKEN}}@github.com/quickkennedy/cutehud.git
 
   # replace "pure" with your branch name
   MY_BRANCH: pure
@@ -33,4 +33,3 @@ jobs:
         git config pull.rebase false
         git pull ${{env.MASTER_REPO}} ${{env.MASTER_BRANCH}}
         git push
-
