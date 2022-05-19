@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93334 270.93333"
+   version="1.1"
+   id="svg827"
+   inkscape:export-filename="/home/jackk/Desktop/objectives_flagpanel_compass_blue_noarrow.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="flag.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffc4a8"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     width="1024mm"
+     units="px"
+     height="1024px"
+     inkscape:zoom="0.25"
+     inkscape:cx="574"
+     inkscape:cy="340"
+     inkscape:window-width="1366"
+     inkscape:window-height="642"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid904"
+       empspacing="4"
+       originx="135.46667"
+       originy="135.46667"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#6f6fff;fill-opacity:1"
+       id="path2543"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="512"
+       sodipodi:cy="208.00002"
+       sodipodi:r1="96"
+       sodipodi:r2="48"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.6179939"
+       inkscape:rounded="0.96"
+       inkscape:randomized="0"
+       d="m 512.00001,304.00002 c -159.62581,0 -162.95134,-5.76 -83.13845,-144 79.8129,-138.240005 86.46398,-138.240005 166.27688,-1e-5 79.8129,138.24 76.48737,144 -83.13843,144.00001 z"
+       transform="matrix(0.1984375,0,0,0.14882822,33.866669,31.205701)"
+       inkscape:transform-center-y="-36.939748"
+       inkscape:export-filename="/home/jackk/Desktop/objectives_flagpanel_compass_blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#6f6fff;fill-opacity:1;stroke-width:0.198437"
+       id="path1045"
+       cx="135.46666"
+       cy="134.9375"
+       inkscape:export-filename="/home/jackk/Desktop/objectives_flagpanel_compass_blue.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       r="76.199997" />
+  </g>
+</svg>
