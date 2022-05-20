@@ -581,29 +581,6 @@
 		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
-	"SpectatorsShadow"
-	{
-		"ControlName"	"CExLabel"
-		"fieldName"		"Spectators"
-		"font"			"HudFontSmallestBlur"
-		"labelText"		"%spectators%"
-		"textAlignment"	"west"
-		"xpos"			"-1"
-		"ypos"			"-1"
-		"zpos"			"1"
-		"wide"			"f0"
-		"tall"			"15"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor"		"TransparentBlack"
-
-		"pin_to_sibling"		"Spectators"
-		//"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		//"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
-	}
-
 	"SpectatorsInQueue"
 	{
 		"ControlName"	"CExLabel"
