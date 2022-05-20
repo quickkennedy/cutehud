@@ -940,8 +940,8 @@ Scheme
 			"color"					"Normal"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -963,8 +963,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -976,8 +976,8 @@ Scheme
 			"color"					"30 30 30 255"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"11"
 			"draw_corner_height" 	"11"
 		}
@@ -989,8 +989,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1002,8 +1002,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1016,8 +1016,8 @@ Scheme
 			"color"					"Normal"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1028,8 +1028,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1040,8 +1040,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1052,8 +1052,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1064,8 +1064,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1078,8 +1078,8 @@ Scheme
 			"color"					"Unique"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1090,8 +1090,8 @@ Scheme
 			"color"					"Unique_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1102,8 +1102,8 @@ Scheme
 			"color"					"Unique_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1114,8 +1114,8 @@ Scheme
 			"color"					"Unique_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1128,8 +1128,8 @@ Scheme
 			"color"					"Genuine"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1140,8 +1140,8 @@ Scheme
 			"color"					"Genuine_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1152,8 +1152,8 @@ Scheme
 			"color"					"Genuine_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1164,8 +1164,8 @@ Scheme
 			"color"					"Genuine_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1178,8 +1178,8 @@ Scheme
 			"color"					"Normal"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1190,8 +1190,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1202,8 +1202,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1214,8 +1214,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1228,8 +1228,8 @@ Scheme
 			"color"					"Normal"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1240,8 +1240,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1252,8 +1252,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1264,8 +1264,8 @@ Scheme
 			"color"					"Normal_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1278,8 +1278,8 @@ Scheme
 			"color"					"Unusual"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1290,8 +1290,8 @@ Scheme
 			"color"					"Unusual_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1302,8 +1302,8 @@ Scheme
 			"color"					"Unusual_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1314,8 +1314,8 @@ Scheme
 			"color"					"Unusual_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1328,8 +1328,8 @@ Scheme
 			"color"					"Haunted"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1340,8 +1340,8 @@ Scheme
 			"color"					"Haunted_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1352,8 +1352,8 @@ Scheme
 			"color"					"Haunted_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1364,8 +1364,8 @@ Scheme
 			"color"					"Haunted_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1378,8 +1378,8 @@ Scheme
 			"color"					"PaintkitWeapon"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1390,8 +1390,8 @@ Scheme
 			"color"					"PaintkitWeapon_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1402,8 +1402,8 @@ Scheme
 			"color"					"PaintkitWeapon_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1414,8 +1414,8 @@ Scheme
 			"color"					"PaintkitWeapon_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1428,8 +1428,8 @@ Scheme
 			"color"					"Collectors"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1440,8 +1440,8 @@ Scheme
 			"color"					"Collectors_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1452,8 +1452,8 @@ Scheme
 			"color"					"Collectors_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1464,8 +1464,8 @@ Scheme
 			"color"					"Collectors_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1478,8 +1478,8 @@ Scheme
 			"color"					"Vintage"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1490,8 +1490,8 @@ Scheme
 			"color"					"Vintage_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1502,8 +1502,8 @@ Scheme
 			"color"					"Vintage_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1514,8 +1514,8 @@ Scheme
 			"color"					"Vintage_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1528,8 +1528,8 @@ Scheme
 			"color"					"Community"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1540,8 +1540,8 @@ Scheme
 			"color"					"Community_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1552,8 +1552,8 @@ Scheme
 			"color"					"Community_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1564,8 +1564,8 @@ Scheme
 			"color"					"Community_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1578,8 +1578,8 @@ Scheme
 			"color"					"Developer"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1590,8 +1590,8 @@ Scheme
 			"color"					"Developer_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1602,8 +1602,8 @@ Scheme
 			"color"					"Developer_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1614,8 +1614,8 @@ Scheme
 			"color"					"Developer_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1628,8 +1628,8 @@ Scheme
 			"color"					"SelfMade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1640,8 +1640,8 @@ Scheme
 			"color"					"SelfMade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1652,8 +1652,8 @@ Scheme
 			"color"					"SelfMade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1664,8 +1664,8 @@ Scheme
 			"color"					"SelfMade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1678,8 +1678,8 @@ Scheme
 			"color"					"Customized"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1690,8 +1690,8 @@ Scheme
 			"color"					"Customized_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1702,8 +1702,8 @@ Scheme
 			"color"					"Customized_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1714,8 +1714,8 @@ Scheme
 			"color"					"Customized_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1728,8 +1728,8 @@ Scheme
 			"color"					"Strange"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1740,8 +1740,8 @@ Scheme
 			"color"					"Strange_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1752,8 +1752,8 @@ Scheme
 			"color"					"Strange_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1764,8 +1764,8 @@ Scheme
 			"color"					"Strange_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1778,8 +1778,8 @@ Scheme
 			"color"					"Completed"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1790,8 +1790,8 @@ Scheme
 			"color"					"Completed_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1802,8 +1802,8 @@ Scheme
 			"color"					"Completed_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1814,8 +1814,8 @@ Scheme
 			"color"					"Completed_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1828,8 +1828,8 @@ Scheme
 			"color"					"GradedWeaponDefault"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1840,8 +1840,8 @@ Scheme
 			"color"					"GradedWeaponDefault_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1852,8 +1852,8 @@ Scheme
 			"color"					"GradedWeaponDefault_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1864,8 +1864,8 @@ Scheme
 			"color"					"GradedWeaponDefault_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1877,8 +1877,8 @@ Scheme
 			"color"					"CivilianGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1889,8 +1889,8 @@ Scheme
 			"color"					"CivilianGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1901,8 +1901,8 @@ Scheme
 			"color"					"CivilianGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1913,8 +1913,8 @@ Scheme
 			"color"					"CivilianGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1926,8 +1926,8 @@ Scheme
 			"color"					"FreelanceGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1938,8 +1938,8 @@ Scheme
 			"color"					"FreelanceGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1950,8 +1950,8 @@ Scheme
 			"color"					"FreelanceGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1962,8 +1962,8 @@ Scheme
 			"color"					"FreelanceGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1975,8 +1975,8 @@ Scheme
 			"color"					"MercenaryGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1987,8 +1987,8 @@ Scheme
 			"color"					"MercenaryGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -1999,8 +1999,8 @@ Scheme
 			"color"					"MercenaryGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2011,8 +2011,8 @@ Scheme
 			"color"					"MercenaryGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2024,8 +2024,8 @@ Scheme
 			"color"					"CommandoGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2036,8 +2036,8 @@ Scheme
 			"color"					"CommandoGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2048,8 +2048,8 @@ Scheme
 			"color"					"CommandoGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2060,8 +2060,8 @@ Scheme
 			"color"					"CommandoGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2073,8 +2073,8 @@ Scheme
 			"color"					"AssassinGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2085,8 +2085,8 @@ Scheme
 			"color"					"AssassinGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2097,8 +2097,8 @@ Scheme
 			"color"					"AssassinGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2109,8 +2109,8 @@ Scheme
 			"color"					"AssassinGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2122,8 +2122,8 @@ Scheme
 			"color"					"EliteGrade"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2134,8 +2134,8 @@ Scheme
 			"color"					"EliteGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2146,8 +2146,8 @@ Scheme
 			"color"					"EliteGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
@@ -2158,8 +2158,8 @@ Scheme
 			"color"					"EliteGrade_Hover"
 
 			"image"					"replay/thumbnails/bg/bg_generic"
-			"src_corner_height"		"30"
-			"src_corner_width"		"30"
+			"src_corner_height"		"32"
+			"src_corner_width"		"32"
 			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"
 		}
