@@ -1,5 +1,6 @@
 #base	"..\customizations\streamermode\scripts\hudlayout.res"
 #base	"..\customizations\enabled\transparent viewmodels.res"
+#base 	"..\customizations\speedometer.res"
 #base 	"..\customizations\crosshair.res"
 
 "Resource/HudLayout.res"
