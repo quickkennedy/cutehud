@@ -9,7 +9,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"40"
 		"wide"			"36" //"28"
@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthAdditiveBG"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"30"
 		"wide"			"36"
@@ -36,7 +36,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthAdditiveBGover"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"35"
 		"wide"			"36"
@@ -51,7 +51,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthAdditive"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"50"
 		"wide"			"36"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthAdditiveUnder"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"36"
 		"wide"			"36"
@@ -81,7 +81,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthAdditiveOverlay"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"zpos"			"60"
 		"wide"			"36"
@@ -96,7 +96,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthShadow"
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308+2"
 		"zpos"			"5"
 		"wide"			"36"
@@ -110,7 +110,7 @@
 
 	"PlayerStatusHealthImage"
 	{
-		"xpos"			"54+30"
+		"xpos"			"54+140"
 		"ypos"			"35+308"
 		"wide"			"36"
 		"tall"			"36"
