@@ -9,8 +9,8 @@
 		"zpos"				"-100"
 		"xpos"				"cs-0.5"
 		"ypos"				"cs+2"
-		"wide"				"128"
-		"tall"				"32"
+		"wide"				"50"
+		"tall"				"12"
 		"image"				"replay/thumbnails/misc/speed"
 		"scaleImage"		"1"
 	}
