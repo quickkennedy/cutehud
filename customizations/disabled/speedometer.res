@@ -1,4 +1,4 @@
-"Resource/HudLayout.res"
+"Resource/UI/HudPlayerHealth.res"
 {
 	"speedometer"
 	{
