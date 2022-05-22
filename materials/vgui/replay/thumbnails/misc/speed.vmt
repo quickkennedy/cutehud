@@ -6,6 +6,7 @@
 	"$no_fullbright" 1
 	"$ignorez" 1
 	"$speed" 0
+	"$alpha" "0.5"
 	Proxies {
 		PlayerSpeed {
 			scale 1
@@ -13,7 +14,7 @@
 		}
 		Clamp {
 			min 0
-			max 9999
+			max 350
 			srcVar1 $speed
 			resultVar $frame
 		}
