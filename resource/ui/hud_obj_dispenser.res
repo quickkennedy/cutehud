@@ -237,6 +237,7 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
+				"bgcolor_override"	"TransparentBlack"
 			}
 		}
 
@@ -282,6 +283,7 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
+				"bgcolor_override"	"TransparentBlack"
 			}
 
 			"UpgradeIcon"
@@ -316,6 +318,7 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
+				"bgcolor_override"	"TransparentBlack"
 			}
 		}
 	}
