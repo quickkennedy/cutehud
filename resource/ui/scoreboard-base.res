@@ -566,8 +566,8 @@
 		"font"			"HudFontSmallest"
 		"labelText"		"%spectators%"
 		"textAlignment"	"west"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"5"
+		"ypos"			"rs1"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"15"
@@ -576,9 +576,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-		"pin_to_sibling"		"MapName"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		//"pin_to_sibling"		"MapName"
+		//"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		//"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"SpectatorsInQueue"
