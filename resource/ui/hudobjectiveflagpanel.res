@@ -247,7 +247,9 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r10" //r82
+			"ypos"		"r39"
+			"wide"		"24"
+			"tall"		"24"
 		}
 	}
 
@@ -391,7 +393,7 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r75"
+			"xpos"			"99999" //hides on special delivery... might just be a bug but otherwise its 2 copies of it.
 		}
 
 		"if_no_flags"
@@ -419,7 +421,7 @@
 
 		"if_specialdelivery"
 		{
-			"ypos"		"r100"
+			"ypos"		"r56"
 		}
 	}
 
