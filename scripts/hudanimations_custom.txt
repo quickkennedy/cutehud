@@ -104,17 +104,39 @@ event HitMarker
 }
 //==================================================================================
 
+event FlagOutlineHide
+{
+	Animate OutlineImage	Alpha		"0"				Linear 0.0 0.1
+}
+
+// Local player flag pickup/drop
+event FlagOutline
+{
+	RunEvent FlagOutlineHide 0.0
+	Animate OutlineImage	Alpha		"200"			Linear 0.1 0.2
+
+	Animate OutlineImage	Position	"c-100 r175"		Linear 0.1 0.2
+	Animate OutlineImage	Size		"200 100"		Linear 0.1 0.2
+
+	Animate OutlineImage	Position	"c-50 r50"		Linear 0.7 0.2
+	Animate OutlineImage	Size		"100 50"		Linear 0.7 0.2
+
+	Animate OutlineImage	Alpha		"0"				Linear 0.9 0.1
+}
+
+//==================================================================================
+
 // Spy Disguise
 event HudSpyDisguiseFadeIn
 {
-//	RunEvent HudSpyDisguiseChanged		0.0
-//	Animate PlayerStatusSpyImage		Alpha		"255"				Linear 0.9	0.1
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"255"				Linear 0.9	0.1
 }
 
 event HudSpyDisguiseFadeOut
 {
-//	RunEvent HudSpyDisguiseChanged		0.0
-//	Animate PlayerStatusSpyImage		Alpha		"0"					Linear 0.9	0.1
+	RunEvent HudSpyDisguiseChanged		0.0
+	Animate PlayerStatusSpyImage		Alpha		"0"					Linear 0.9	0.1
 }
 
 event HudSpyDisguiseChanged
