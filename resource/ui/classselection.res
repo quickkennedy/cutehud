@@ -1121,7 +1121,13 @@
 		"fieldName"		"localPlayerBG"
 		"xpos"			"9999"
 	}
-}
+
+	"ClassTipsPanel"
+	{
+		"ControlName"	"CTFClassTipsPanel"
+		"fieldName"		"ClassTipsPanel"
+		"xpos"			"9999"
+	}
 
 	"localPlayerImage" [$WIN32]
 	{
@@ -1129,6 +1135,7 @@
 		"fieldName"		"localPlayerImage"
 		"xpos"			"9999"
 	}
+}
 
 	"countImage0" [$WIN32]
 	{
@@ -1194,13 +1201,6 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"countImage10"
-		"xpos"			"9999"
-	}
-
-	"ClassTipsPanel"
-	{
-		"ControlName"	"CTFClassTipsPanel"
-		"fieldName"		"ClassTipsPanel"
 		"xpos"			"9999"
 	}
 
