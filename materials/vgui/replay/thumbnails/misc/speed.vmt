@@ -14,7 +14,7 @@
 		}
 		Clamp {
 			min 0
-			max 350
+			max 3500
 			srcVar1 $speed
 			resultVar $frame
 		}
