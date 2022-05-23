@@ -83,7 +83,7 @@
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"enabled"		"1"
-			"fgcolor"		"153 204 255 255"
+			"fgcolor"		"White"
 		}
 	}
 
