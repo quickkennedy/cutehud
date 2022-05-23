@@ -99,15 +99,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MapImage"
-		"xpos"			"120"
-		"ypos"			"c-120"
-		"zpos"			"2"
-		"wide"			"270"
-		"tall"			"270"
-		"visible"		"0"
-		"enabled"		"1"
-		"image"			""
-		"scaleImage"	"1"
+		"xpos"			"99999"
 	}
 
 	"MapInfoContinue"
