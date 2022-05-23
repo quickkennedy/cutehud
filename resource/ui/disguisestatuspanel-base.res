@@ -38,7 +38,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"TransparentBlack"
-		"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"2"
 	}
 
 	"DisguiseStatusBG"
@@ -153,8 +153,8 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"SpectatorGUIHealth"
-		"xpos"				"-7"
-		"ypos"				"-10"
+		"xpos"				"-6"
+		"ypos"				"-9"
 		"zpos"				"1"
 		"wide"				"37"
 		"tall"				"50"
