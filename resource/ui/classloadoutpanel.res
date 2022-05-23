@@ -48,8 +48,8 @@
 
 			"model_center_x"		"1"
 			"model_ypos"			"5"
-			"model_tall"			"55"
-			"model_wide"			"82"
+			"model_tall"			"44"
+			"model_wide"			"66"
 			"text_ypos"				"0"
 			"text_center"			"0"
 			"text_yoffset"			"2"
