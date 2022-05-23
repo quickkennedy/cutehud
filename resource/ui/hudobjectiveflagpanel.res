@@ -97,7 +97,7 @@
 		"textAlignment"	"west"
 		"labelText"		"%bluescore%"
 		"font"			"Volkswagen40"
-		"fgcolor"		"BlueSolid"	//"TanLight"
+		"fgcolor"		"BlueSolid"
 		"textinsetx"	"10"
 
 		"if_hybrid"
@@ -163,7 +163,7 @@
 		"textAlignment"	"east"
 		"labelText"		"%redscore%"
 		"font"			"Volkswagen40"
-		"fgcolor"		"RedSolid" //"TanLight"
+		"fgcolor"		"RedSolid"
 		"textinsetx"	"10"
 
 		"if_hybrid"
@@ -322,7 +322,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
 		"xpos"			"c-145"
-		"ypos"			"r65" //r67
+		"ypos"			"r65"
 		"zpos"			"2"
 		"wide"			"160"
 		"tall"			"90"
@@ -343,7 +343,7 @@
 		"if_hybrid_single"
 		{
 			"xpos"		"c-80"
-			"ypos"		"r65" //r113
+			"ypos"		"r65"
 		}
 
 		"if_hybrid_double"
@@ -368,7 +368,7 @@
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
 		"xpos"			"c-15"
-		"ypos"			"r65" //r67
+		"ypos"			"r65"
 		"zpos"			"5"
 		"wide"			"160"
 		"tall"			"90"
@@ -393,7 +393,7 @@
 
 		"if_specialdelivery"
 		{
-			"xpos"			"99999" //hides on special delivery... might just be a bug but otherwise its 2 copies of it.
+			"xpos"		"99999" //hides on special delivery... might just be a bug but otherwise its 2 copies of it.
 		}
 
 		"if_no_flags"
