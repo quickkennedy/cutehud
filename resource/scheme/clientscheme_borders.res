@@ -563,18 +563,21 @@ Scheme
 		{
 			"offset" "0 0"
 			"color" "blank"
+			"backgroundtype" "2"
 		}
 
 		ButtonKeyFocusBorder
 		{
 			"offset" "0 0"
 			"color" "blank"
+			"backgroundtype" "2"
 		}
 
 		ButtonDepressedBorder
 		{
 			"offset" "0 0"
 			"color" "Blank"
+			"backgroundtype" "2"
 		}
 
 		ComboBoxBorder
