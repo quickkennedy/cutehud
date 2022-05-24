@@ -41,6 +41,7 @@ Scheme
 					"offset" "0 0"
 				}
 			}
+			"backgroundtype" "2"
 		}
 
 		FriendsBorder
