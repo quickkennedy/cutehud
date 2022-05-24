@@ -38,13 +38,13 @@ Scheme
 		Border.Selection						"NoBorder"
 
 		Button.TextColor						"TanLight"
-		Button.BgColor							"TanDarker"
+		Button.BgColor							"Normal"
 		Button.ArmedTextColor					"TanLight"
-		Button.ArmedBgColor						"TanDark"
-		Button.SelectedTextColor				"TanLight"
-		Button.SelectedBgColor					"TanDarker"
+		Button.ArmedBgColor						"Normal_Hover"
+		Button.SelectedTextColor				"Lavender"
+		Button.SelectedBgColor					"Nomal_Hover"
 		Button.DepressedTextColor				"TanLight"
-		Button.DepressedBgColor					"TanDark"
+		Button.DepressedBgColor					"Nomal"
 
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"
