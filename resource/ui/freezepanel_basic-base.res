@@ -106,7 +106,7 @@
 			"enabled"			"1"
 			"labelText"			"%killername%"
 			"textAlignment"		"west"
-			"fgcolor"			"TanLight"
+			"fgcolor"			"White"
 		}
 
 		"FreezeLabelKillerShadow"
