@@ -431,19 +431,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Player1Class"
-		"xpos"			"128-20"
-		"ypos"			"117"
-		"zpos"			"3"
-		"wide"			"45"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		""
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		"xpos"			"99999"
 	}
 	"Player1Score"
 	{
@@ -515,19 +503,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Player2Class"
-		"xpos"			"128-20"
-		"ypos"			"133"
-		"zpos"			"3"
-		"wide"			"45"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		""
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		"xpos"			"99999"
 	}
 	"Player2Score"
 	{
@@ -599,19 +575,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"Player3Class"
-		"xpos"			"128-20"
-		"ypos"			"149"
-		"zpos"			"3"
-		"wide"			"45"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		""
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		"xpos"			"99999"
 	}
 	"Player3Score"
 	{
