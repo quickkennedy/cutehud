@@ -90,8 +90,6 @@
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"PlayerHealthValue"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"PlayerStatusMaxHealthValue"
@@ -108,10 +106,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"42"
-		"ypos"			"-8"
-		"wide"			"23"
-		"tall"			"23"
+		"xpos"			"-60"
+		"ypos"			"-10"
+		"wide"			"10"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
 		"pin_to_sibling" "PlayerHealthValue"
@@ -121,7 +119,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusBleedImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -140,7 +138,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusMilkImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -159,7 +157,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusGasImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -178,7 +176,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusMarkedForDeathImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -197,7 +195,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusMarkedForDeathSilentImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -216,7 +214,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicUberBulletResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -235,7 +233,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicUberBlastResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -254,7 +252,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicUberFireResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -273,7 +271,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicSmallBulletResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -292,7 +290,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicSmallBlastResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -311,7 +309,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_MedicSmallFireResistImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -330,7 +328,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_WheelOfDoom"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -349,7 +347,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_SoldierOffenseBuff"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -368,7 +366,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_SoldierDefenseBuff"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -387,7 +385,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_SoldierHealOnHitBuff"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -406,7 +404,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_SpyMarked"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -424,7 +422,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_Parachute"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -443,7 +441,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneStrength"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -462,7 +460,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneHaste"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -481,7 +479,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneRegen"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -500,7 +498,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneResist"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -519,7 +517,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneVampire"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -538,7 +536,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneReflect"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -557,7 +555,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RunePrecision"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -576,7 +574,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneAgility"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -595,7 +593,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneKnockout"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -614,7 +612,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneKing"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -633,7 +631,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RunePlague"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -652,7 +650,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatus_RuneSupernova"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -671,7 +669,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusSlowed"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"23"
@@ -690,7 +688,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHookBleedImage"
-		"xpos"			"0"
+		"xpos"			"s-0.5"
 		"ypos"			"0"
 		"zpos"			"8"
 		"wide"			"23"
