@@ -432,9 +432,9 @@
 		"fieldName"		"ServerTimeValue"
 		"font"			"HudFontMediumSecondary"
 		"labelText"		"%servertime%"
-		"textAlignment"	"west"
-		"xpos"			"5"
-		"ypos"			"5"
+		"textAlignment"	"center"
+		"xpos"			"cs-0.5"//"5"
+		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
 		"tall"			"20"
@@ -451,9 +451,9 @@
 		"fieldName"		"ServerTimeValueShadow"
 		"font"			"HudFontMediumSecondaryBlur"
 		"labelText"		"%servertime%"
-		"textAlignment"	"west"
-		"xpos"			"6"
-		"ypos"			"6"
+		"textAlignment"	"center"
+		"xpos"			"-1"
+		"ypos"			"-1"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"20"
@@ -463,6 +463,8 @@
 		"enabled"		"1"
 		//"allcaps"		"1"
 		"fgcolor"		"transparentBlack"
+
+		"pin_to_sibling"	"ServerTimeValue"
 	}
 
 	"ServerLabel"
@@ -472,7 +474,7 @@
 		"font"			"HudFontSmall"
 		"labelText"		"%server%"
 		"textAlignment"	"west"
-		"xpos"			"0"
+		"xpos"			"4"
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"f0"
@@ -483,9 +485,9 @@
 		"enabled"		"1"
 		//"allcaps"		"1"
 
-		"pin_to_sibling"		"ServerTimeValue"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		//"pin_to_sibling"		"ServerTimeValue"
+		//"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		//"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 	}
 
 	"ServerLabelShadow"
@@ -496,7 +498,7 @@
 		"labelText"		"%server%"
 		"textAlignment"	"west"
 		"xpos"			"-1"
-		"ypos"			"1"
+		"ypos"			"-1"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"15"
@@ -507,9 +509,7 @@
 		//"allcaps"		"1"
 		"fgcolor"		"TransparentBlack"
 
-		"pin_to_sibling"		"ServerTimeValue"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling"		"ServerLabel"
 	}
 
 	"MapName"
