@@ -87,22 +87,7 @@
 		{
 			"ControlName"	"ScalableImagePanel"
 			"fieldName"		"OutterPanelBG"
-			"xpos"			"0"
-			"ypos"			"0"
-			"zpos"			"-8"
-			"wide"			"500"
-			"tall"			"310"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"0"
-			"enabled"		"0"
-			"image"			"../HUD/tournament_panel_brown"
-
-			"src_corner_height"	"23"	// pixels inside the image
-			"src_corner_width"	"23"
-
-			"draw_corner_width"	"8"		// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" "8"
+			"xpos"			"99999"
 
 		}
 
@@ -111,15 +96,17 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"OutPanelBG"
 			"xpos"			"10"
-			"ypos"			"5"
+			"ypos"			"50"
 			"zpos"			"-8"
 			"wide"			"480"
-			"tall"			"310"
+			"tall"			"250"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"HudBlack"
+			
+			"PaintBackgroundType" "2"
+			"bgcolor_override"	"0 255 0 255"
 		}
 		"BetweenBG"
 		{
@@ -134,7 +121,9 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fillcolor"		"DarkGrey"
+			
+			"PaintBackgroundType" "2"
+			"bgcolor_override"	"White"
 		}
 
 		"InnerPanelRim"
@@ -301,7 +290,7 @@
 			"enabled"		"1"
 			"tabPosition"		"0"
 			"bgcolor_override"	"White"
-			"PaintBackgroundType"	"0"
+			"PaintBackgroundType"	"2"
 		}
 
 		"MouseOverTabPanel"
@@ -354,8 +343,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveTabPanel2"
@@ -372,8 +361,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveTabPanel3"
@@ -390,8 +379,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveTabPanel4"
@@ -408,8 +397,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveTabPanel5"
@@ -426,8 +415,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveTabPanel6"
@@ -444,8 +433,8 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"97 94 85 255"
-			"PaintBackgroundType"	"0"
+			"bgcolor_override"	"Normal"
+			"PaintBackgroundType"	"2"
 		}
 
 		"InactiveSeparatorPanel"

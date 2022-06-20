@@ -1,3 +1,3 @@
 //"#base" "hudinspectpanel.res"
-"#base" "../../customizations/_streamermode/freezepanel_basic.res"
+"#base" "../../customizations/streamermode/freezepanel_basic.res"
 "#base" "freezepanel_basic-base.res"

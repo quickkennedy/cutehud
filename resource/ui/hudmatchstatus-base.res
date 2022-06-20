@@ -359,7 +359,7 @@
 				"textAlignment"	"Left"
 				"dulltext"		"0"
 				"brighttext"	"0"
-				"bgcolor_override"		"80 80 80 255"
+				"bgcolor_override"		"29 29 29 255"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"

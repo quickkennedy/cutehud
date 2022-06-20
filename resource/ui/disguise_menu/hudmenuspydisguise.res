@@ -376,7 +376,7 @@
 		"zpos"				"1"
 		"wide"				"100"
 		"tall"				"145"
-		"visible"			"0"
+		"visible"			"1"
 		"enabled"			"1"
 		"bgcolor_override"	"TransparentBlack"
 		"PaintBackgroundType"	"2"
