@@ -67,7 +67,7 @@ Scheme
 			{
 				"name"			"TF2Icons"
 				"tall"			"18" [$POSIX]
-				"tall"			"26" [$WINDOWS]
+				"tall"			"22" [$WINDOWS]
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -80,7 +80,7 @@ Scheme
 			{
 				"name"			"TF2Icons"
 				"tall"			"18" [$POSIX]
-				"tall"			"26" [$WINDOWS]
+				"tall"			"22" [$WINDOWS]
 				"weight"		"400"
 				"additive"		"0"
 				"antialias" 	"1"
