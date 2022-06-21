@@ -27,6 +27,27 @@ Scheme
 				"blur"			"1"
 			}
 		}
+		"Montserrat40"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"
+				"tall"			"40"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"Montserrat40Blur"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"
+				"tall"			"40"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
 		"Volkswagen40"
 		{
 			"1"

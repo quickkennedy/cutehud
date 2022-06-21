@@ -46,7 +46,7 @@
 		"ControlName"		  						"Label"
 		"fieldName"									"CapNumPlayers"
 		"font"				  						"Size 14"
-		"xpos"				  						"8"
+		"xpos"				  						"10"
 		"ypos"				  						"0"
 		"zpos"				  						"3"
 		"wide"				  						"24"
@@ -59,7 +59,8 @@
 		"textAlignment"								"west"
 		"dulltext"									"0"
 		"brighttext"		  						"0"
-		"fgcolor_override"		  					"BlackLight"
+		"fgcolor_override"		  					"30 255 30 255"
+		"fgcolor"		  					"30 255 30 255"
 	}
 
 	"OverlayImage"

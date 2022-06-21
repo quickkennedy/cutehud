@@ -61,7 +61,9 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerHealthValue"
 		"xpos"			"cs-0.5-150"
+		"xpos_minmode"	"cs-0.5-100"
 		"ypos"			"c70"
+		"ypos_minmode"	"c30"
 		"zpos"			"5"
 		"wide"			"300"
 		"tall"			"100"
@@ -70,6 +72,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"Montserrat56"
+		"font_minmode"	"MontSerrat40"
 		"fgcolor"		"Health Normal"
 	}
 
@@ -87,6 +90,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"Montserrat56Blur"
+		"font_minmode"	"MontSerrat40Blur"
 		"fgcolor"		"TransparentBlack"
 
 		"pin_to_sibling"		"PlayerHealthValue"
@@ -106,8 +110,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PlayerStatusAnchor"
-		"xpos"			"-60" [$POSIX]
-		"xpos"			"55" [$WINDOWS]
+		"xpos"			"-60"
 		"ypos"			"-10"
 		"wide"			"10"
 		"tall"			"10"
