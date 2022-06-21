@@ -22,7 +22,9 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"ChargeLabel"
 		"xpos"				"c105"
+		"xpos_minmode"		"c65"
 		"ypos"				"c95"
+		"ypos_minmode"		"c55"
 		"zpos"				"2"
 		"wide"				"300"
 		"tall"				"50"
@@ -36,6 +38,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"font"				"Montserrat56"
+		"font_minmode"		"Montserrat40"
 		"fgcolor"			"Ammo In Clip"
 	}
 
@@ -58,6 +61,7 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"font"				"Montserrat56Blur"
+		"font_minmode"		"Montserrat40Blur"
 		"fgcolor"			"TransparentBlack"
 
 		"pin_to_sibling"		"ChargeLabel"
