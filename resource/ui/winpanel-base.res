@@ -703,19 +703,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"KillStreakPlayer1Class"
-		"xpos"			"128"
-		"ypos"			"183"
-		"zpos"			"3"
-		"wide"			"35"
-		"tall"			"20"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		""
-		"textAlignment"	"west"
-		"dulltext"		"0"
-		"brighttext"	"0"
+		"xpos"			"99999"
 	}
 	"KillStreakPlayer1Score"
 	{
