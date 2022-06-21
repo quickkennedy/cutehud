@@ -58,7 +58,9 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"cs-0.5-133"
+		"xpos_minmode"			"cs-0.5-86"
 		"ypos"					"c125"
+		"ypos_minmode"			"c85"
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"50"
@@ -101,7 +103,11 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterIcon"
 		"xpos"					"cs-0.5-167"
-		"ypos"					"c125"
+		"xpos_minmode"			"cs-0.5-114"
+		"ypos"					"c125" [$POSIX]
+		"ypos_minmode"			"c85" [$POSIX]
+		"ypos"					"c126" [$WINDOWS]
+		"ypos_minmode"			"c86" [$WINDOWS]
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"50"
