@@ -244,6 +244,7 @@
 		"enabled" 				"1"
 		"xpos"					"c-100" //this does not change despite everything?
 		"ypos"					"c55"
+		"ypos_minmode"			"c95"
 		"wide"					"600"
 		"tall"					"50"
 		"priority"				"100"
