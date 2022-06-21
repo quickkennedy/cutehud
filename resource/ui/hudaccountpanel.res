@@ -26,6 +26,7 @@
 		"fieldName"				"AccountValue"
 		"xpos"					"cs-0.5"
 		"ypos"					"c105"
+		"ypos_minmode"			"c65"
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"20"
