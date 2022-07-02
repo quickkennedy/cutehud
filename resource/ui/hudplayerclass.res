@@ -1,3 +1,5 @@
+#base	"../../customizations/enabled/evehud aiming guide.res"
+
 "Resource/UI/HudPlayerClass.res"
 {
 	// Player Class Data
