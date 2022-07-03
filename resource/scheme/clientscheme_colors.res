@@ -15,12 +15,12 @@ Scheme
 		"ColorGreyMid"				"128 128 128 255"
 		"ColorWhite"				"255 255 255 255"
 		"DullWhite"					"132 132 132 255"
-		"Grey"					"51 47 46 255"
-		"DarkGrey"				"27 27 27 255"
+		"Grey"						"51 47 46 255"
+		"DarkGrey"					"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
 		"TextColor"					"117 107 94 255"
 
-		"Lavender"				"207 191 255 255"
+		"Lavender"					"207 191 255 255"
 		"LavenderShadow"			"207 111 255 255"
 
 		// Gameplay
@@ -100,11 +100,11 @@ Scheme
 		//---------------------------------------------
 		// DEFAULT COLORS
 		//---------------------------------------------
-		"Orange"								"Lavender"
-		"OrangeDim"								"Lavender"
+		"Orange"								"207 191 255 255"
+		"OrangeDim"								"207 191 255 255"
 		"LightOrange"							"188 112 0 128"
 		"GoalOrange"							"255 133 0 255"
-		"TFOrange"								"145 73 59 255"
+		"TFOrange"								"207 191 255 255"
 		"Purple"								"137 69 99 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
