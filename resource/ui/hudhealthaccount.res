@@ -9,7 +9,7 @@
 		"PositiveColor"				"Health Buff"
 		"NegativeColor"				"Health Hurt"
 		"delta_lifetime"			"1.25"
-		"delta_item_font"			"Volkswagen28"
+		"delta_item_font"			"Montserrat28"
 		"zpos"						"-99999"
 	}
 }
