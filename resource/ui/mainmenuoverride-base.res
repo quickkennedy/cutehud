@@ -475,14 +475,6 @@
 		"armedBgColor_override" 	"25 25 25 148"
 	}
 
-	"FriendsContainer"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"FriendsContainer"
-		"xpos"			"99999"
-		"ypos"			"99999"
-	}
-
 	"CharacterSetupButton"
 	{
 		"ControlName"	"CExImageButton"
