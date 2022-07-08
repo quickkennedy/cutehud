@@ -1135,8 +1135,7 @@
 		"fieldName"		"localPlayerImage"
 		"xpos"			"9999"
 	}
-}
-
+	
 	"countImage0" [$WIN32]
 	{
 		"ControlName"	"CTFImagePanel"
@@ -1203,6 +1202,7 @@
 		"fieldName"		"countImage10"
 		"xpos"			"9999"
 	}
+}
 
 	"ClassHighlightPanel"
 	{
