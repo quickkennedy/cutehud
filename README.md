@@ -11,3 +11,11 @@ hud_combattext_red 255
 hud_combattext_green 255
 hud_combattext_blue 255
 ```
+
+gamebanana behind on:
+- new background
+- prism cross by default
+
+huds.tf behind on:
+- new background
+- prism cross by default
