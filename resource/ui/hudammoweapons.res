@@ -26,7 +26,7 @@
 		"font_minmode"		"MontSerrat40"
 		"fgcolor"			"Ammo In Clip"
 		"xpos"				"cs-0.5+82" //+82 for no real reason other than it lines up 2 clip size with 200 noclip
-		"xpos_minmode"		"cs-0.5+32"
+		"xpos_minmode"		"cs-0.5+42"
 		"ypos"				"c70"
 		"ypos_minmode"		"c30"
 		"zpos"				"5"
@@ -63,7 +63,7 @@
 		"font"				"MontSerrat32"
 		"font_minmode"		"MontSerrat28"
 		"fgcolor"			"Ammo In Reserve"
-		"xpos"				"-110"
+		"xpos"				"-105"
 		"ypos"				"-1"
 		"zpos"				"7"
 		"wide"				"200"
