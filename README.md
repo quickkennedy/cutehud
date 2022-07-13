@@ -15,7 +15,11 @@ hud_combattext_blue 255
 gamebanana behind on:
 - new background
 - prism cross by default
+- themes!
+- changed minmode ammo position
 
 huds.tf behind on:
 - new background
 - prism cross by default
+- themes!
+- changed minmode ammo position
