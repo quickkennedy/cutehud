@@ -6,7 +6,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"cs-0.5"
-		"ypos"				"c128"
+		"ypos"				"c131"
 		"ypos_minmode"		"c78"
 		"wide"				"120"
 		"wide_minmode"		"90"
