@@ -10,22 +10,14 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"			"ItemEffectMeterBG"
-		"xpos"				"9999"
+		"xpos"				"99999"
 	}
 
 	"ItemEffectIcon"
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"			"ItemEffectIcon"
-		"xpos"				"125"
-		"ypos"				"-2"
-		"zpos"				"2"
-		"wide"				"32"
-		"tall"				"32"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../hud/pyro_jetpack_off2"
-		"scaleImage"		"1"
+		"xpos"				"99999"
 	}
 
 	"ItemEffectMeterLabel"
@@ -36,6 +28,7 @@
 	"ItemEffectMeter"
 	{
 		"wide"				"60"
+		"wide_minmode"		"45"
 	}
 
 	"ItemEffectMeter2"
@@ -44,10 +37,13 @@
 		"fieldName"			"ItemEffectMeter2"
 		"font"				"Default"
 		"xpos"				"60"
+		"xpos_minmode"		"45"
 		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"60"
+		"wide_minmode"		"45"
 		"tall"				"8"
+		"tall_minmode"		"4"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
@@ -88,6 +84,7 @@
 		"wide"				"120"
 		"tall"				"8"
 		"visible"			"1"
+		"visible_minmode"	"0"
 		"enabled"			"0"
 		"labelText"			"#TF_Charge"
 		"textAlignment"		"center"
