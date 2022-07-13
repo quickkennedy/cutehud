@@ -2,7 +2,7 @@
 {
 	"HudPlayerHealth"
 	{
-		"HealthDeathWarningColor"	"Health Hurt" //255 65 15 255
+		"HealthDeathWarningColor"	"White" //Health Hurt
 	}
 
 	"PlayerStatusHealthImage"
