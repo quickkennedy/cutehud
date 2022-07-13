@@ -4,7 +4,7 @@
 {
 	"HudItemEffectMeter"
 	{
-		"tall"				"20"
+		"tall"				"8"
 	}
 	"ItemEffectMeterBG"
 	{
@@ -79,10 +79,10 @@
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemEffectMeterLabel"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"-4"
 		"zpos"				"3"
 		"wide"				"120"
-		"tall"				"8"
+		"tall"				"14"
 		"visible"			"1"
 		"visible_minmode"	"0"
 		"enabled"			"0"

@@ -23,25 +23,35 @@
 		"fgcolor_override"	"White"
 		"bgcolor_override"	"TransparentBlack"
 	}
-
-	"ItemEffectMeterLabel"
+	
+	"textfix"
 	{
-		"ControlName"		"CExLabel"
-		"fieldName"			"ItemEffectMeterLabel"
-		"xpos"				"0"
-		"ypos"				"1"
-		"zpos"				"3"
-		"wide"				"120"
-		"tall"				"9"
-		"visible"			"1"
-		"visible_minmode"	"0"
-		"enabled"			"0"
-		"labelText"			"#TF_Charge"
-		"textAlignment"		"center"
-		"font"				"ItemFontAttribSmall"
-
+		"ControlName"	"EditablePanel"
+		"fieldName"		"textfix"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
+		"zpos"			"3"
+		"wide"			"f0"
+		"tall"			"8"
+		"visible"		"1"
+		"enabled"		"1"
 		"pin_to_sibling"		"ChargeMeter"
-		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		
+		"ItemEffectMeterLabel"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"ItemEffectMeterLabel"
+			"xpos"				"0"
+			"ypos"				"-4"
+			"zpos"				"3"
+			"wide"				"120"
+			"tall"				"14"
+			"visible"			"1"
+			"visible_minmode"	"0"
+			"enabled"			"0"
+			"labelText"			"#TF_Charge"
+			"textAlignment"		"center"
+			"font"				"ItemFontAttribSmall"
+		}
 	}
 }
