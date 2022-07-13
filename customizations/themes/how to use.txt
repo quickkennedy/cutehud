@@ -1,0 +1,1 @@
+copy "resource" folder over hud's resource folder.
