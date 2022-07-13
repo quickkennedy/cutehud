@@ -18,6 +18,8 @@ gamebanana behind on:
 - themes!
 - changed minmode ammo position
 - better prism cross
+- hudplayerhealth status minmode
+- rocket pack minmode
 
 huds.tf behind on:
 - new background
@@ -25,3 +27,5 @@ huds.tf behind on:
 - themes!
 - changed minmode ammo position
 - better prism cross
+- hudplayerhealth status minmode
+- rocket pack minmode
