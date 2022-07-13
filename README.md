@@ -20,6 +20,7 @@ gamebanana behind on:
 - better prism cross
 - hudplayerhealth status minmode
 - rocket pack minmode
+- rocket pack lowercase text
 
 huds.tf behind on:
 - new background
@@ -29,3 +30,4 @@ huds.tf behind on:
 - better prism cross
 - hudplayerhealth status minmode
 - rocket pack minmode
+- rocket pack lowercase text
