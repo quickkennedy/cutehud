@@ -17,11 +17,11 @@ gamebanana behind on:
 - prism cross by default
 - themes!
 - changed minmode ammo position
-- whiter prism cross
+- cleaner prism cross
 
 huds.tf behind on:
 - new background
 - prism cross by default
 - themes!
 - changed minmode ammo position
-- whiter prism cross
+- cleaner prism cross

@@ -2,7 +2,7 @@
 {
 	"HudPlayerHealth"
 	{
-		"HealthDeathWarningColor"	"White" //Health Hurt
+		"HealthDeathWarningColor"	"Health Hurt"
 	}
 
 	"PlayerStatusHealthImage"
@@ -77,25 +77,6 @@
 		"image"			"replay/thumbnails/hp/health_color_additive"
 		"scaleImage"	"1"
 		"alpha"			"255"
-	}
-	"PlayerStatusHealthAdditiveUnder"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatusHealthAdditiveUnder"
-		"xpos"			"c-230"
-		"xpos_minmode"	"c-160"
-		"ypos"			"344"
-		"ypos_minmode"	"308"
-		"zpos"			"36"
-		"wide"			"36"
-		"wide_minmode"	"28"
-		"tall"			"36"
-		"tall_minmode"	"28"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/hp/health_color_additive"
-		"scaleImage"	"1"
-		"alpha"			"0"
 	}
 	"PlayerStatusHealthAdditiveOverlay"
 	{
