@@ -24,6 +24,41 @@
 		"bgcolor_override"	"TransparentBlack"
 	}
 	
+	"textshit"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"textshit"
+		"xpos"				"99999"
+		"ypos"				"0"
+		"zpos"				"3"
+		"wide"				"f0"
+		"tall"				"8"
+		"visible"			"0"
+		"enabled"			"1"
+		"pin_to_sibling"	"ChargeMeter"
+		
+		"ChargeLabel"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"ChargeLabel"
+			"xpos"				"0"
+			"ypos"				"-5"
+			"zpos"				"3"
+			"wide"				"120"
+			"tall"				"14"
+			"autoResize"		"0"
+			"pinCorner"			"0"
+			"visible"			"1"
+			"enabled"			"0"
+			"labelText"			"#TF_Charge"
+			"textAlignment"		"south"
+			"dulltext"			"0"
+			"brighttext"		"0"
+			"font"				"ItemFontAttribSmall"
+			"fgcolor_override"	"Black"
+		}
+	}
+	
 	"textfix"
 	{
 		"ControlName"	"EditablePanel"

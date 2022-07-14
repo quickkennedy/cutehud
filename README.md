@@ -22,6 +22,7 @@ gamebanana behind on:
 - rocket pack minmode
 - rocket pack lowercase text
 - item meter label fixes
+- crosshair charge rework
 
 huds.tf behind on:
 - new background
@@ -33,3 +34,4 @@ huds.tf behind on:
 - rocket pack minmode
 - rocket pack lowercase text
 - item meter label fixes
+- crosshair charge rework
