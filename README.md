@@ -21,8 +21,7 @@ gamebanana behind on:
 - hudplayerhealth status minmode
 - rocket pack minmode
 - rocket pack lowercase text
-- fixed many item meter labels
-- fixed many item meter positions
+- item meter label fixes
 
 huds.tf behind on:
 - new background
@@ -33,5 +32,4 @@ huds.tf behind on:
 - hudplayerhealth status minmode
 - rocket pack minmode
 - rocket pack lowercase text
-- fixed many item meter labels
-- fixed many item meter positions
+- item meter label fixes

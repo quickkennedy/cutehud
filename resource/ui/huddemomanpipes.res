@@ -22,10 +22,10 @@
 		"bgcolor_override"	"TransparentBlack"
 	}
 
-	"textfix"
+	"ChargeLabel"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"textfix"
+		"fieldName"		"ChargeLabel"
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"3"
@@ -35,7 +35,7 @@
 		"enabled"		"1"
 		"pin_to_sibling"		"ChargeMeter"
 		
-		"ChargeLabel"
+		"textfix"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"ChargeLabel"
