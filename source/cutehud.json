@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/CriticalFlaw/TF2HUD.Editor/master/src/TF2HUD.Editor/JSON/Schema/schema.json",
+  "Author": "Raysfire",
+  "Description": "A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. Comes with a range of various vivid colors associated with both low health as well as ammo to make important information easily accessible and noticeable.",
+  "Thumbnail": "https://i.imgur.com/jWOoerl.png",
+  "Screenshots": [
+    "https://huds.tf/site/xthreads_attach.php/567_1625449710_1c909b9e/e9ff94206478fd90a33f486d2f2d100b/20210704204821_1.jpg",
+    "https://huds.tf/site/xthreads_attach.php/571_1625449710_ec3e696b/34b172af42e803f18a7fa2eca659f420/20210704204937_1.jpg",
+    "https://huds.tf/site/xthreads_attach.php/569_1625449710_fcf2bc48/9d0cc3ea70b96291b2525a3e6d6ca2df/20210704205000_1.jpg",
+    "https://huds.tf/site/xthreads_attach.php/570_1625449710_dc9c7ec6/31705d806e05da74d2dd0684242414e4/20210704205008_1.jpg"
+  ],
+  "Background": "https://i.imgur.com/vC7qekD.png",
+  "Layout": [
+    "0 2",
+    "1 2"
+  ],
+  "Links": {
+    "Update": "https://github.com/quickkennedy/cutehud/archive/refs/heads/main.zip", // TODO: Remove
+    "GitHub": "https://github.com/quickkennedy/cutehud",
+    "HudsTF": "https://huds.tf/site/s-rayshud--377",
+    "Steam": "https://steamcommunity.com/groups/rayshud",
+    "Discord": "https://discord.gg/hTdtK9vBhE",
+    "Download": [
+      {
+        "Source": "GitHub",
+        "Link": "https://github.com/quickkennedy/cutehud/archive/refs/heads/main.zip"
+      }
+    ]
+  },
+  "CustomizationsFolder": "customizations/disabled",
+  "EnabledFolder": "customizations/enabled",
+  "Controls": {
+    "general": [
+      {
+        "Name": "ch_theme",
+        "Label": "theme",
+        "Type": "ComboBox",
+        "Value": "0",
+        "Restart": true,
+        "ToolTip": "change to different themes",
+        "Options": [
+          {
+            "Label": "default",
+            "Value": "0",
+            "Files": {
+				"resource/scheme/clientscheme_colors.res": {
+					"#base": "color_themes/default/clientscheme_colors.res"
+				}
+			}
+          },
+          {
+            "Label": "default saturated",
+            "Value": "1",
+            "Files": {
+				"resource/scheme/clientscheme_colors.res": {
+					"#base": "color_themes/default_saturated/clientscheme_colors.res"
+				}
+			}
+          },
+          {
+            "Label": "pro",
+            "Value": "2",
+            "Files": {
+				"resource/scheme/clientscheme_colors.res": {
+					"#base": "color_themes/pro/clientscheme_colors.res"
+				}
+			}
+          },
+          {
+            "Label": "pro saturated",
+            "Value": "3",
+            "Files": {
+				"resource/scheme/clientscheme_colors.res": {
+					"#base": "color_themes/pro_saturated/clientscheme_colors.res"
+				}
+			}
+          }
+        ]
+      }
+    ],
+  }
+}
