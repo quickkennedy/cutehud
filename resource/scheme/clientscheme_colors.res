@@ -1,1 +1,6 @@
-"#base"	"color_themes/default/clientscheme_colors.res"
+//"#base"	"themes/cute/clientscheme_colors.res"
+//"#base"	"themes/pro/clientscheme_colors.res"
+//"#base"	"themes/default/clientscheme_colors.res"
+//"#base"	"themes/cute_saturated/clientscheme_colors.res"
+//"#base"	"themes/pro_saturated/clientscheme_colors.res"
+"#base"	"themes/default_saturated/clientscheme_colors.res"

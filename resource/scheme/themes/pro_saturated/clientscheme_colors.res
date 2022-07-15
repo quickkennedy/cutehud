@@ -26,8 +26,8 @@ Scheme
 		// Gameplay
 		"Ammo In Clip"				"255 255 255 255"
 		"Ammo In Reserve"			"255 255 255 255"
-		"Ammo In Clip Low"			"207 191 255 255"
-		"Ammo In Reserve Low"		"207 191 255 255"
+		"Ammo In Clip Low"			"255 143 128 255"
+		"Ammo In Reserve Low"		"255 143 128 255"
 		"Health Normal"				"255 255 255 255"
 		"Health Buff"				"223 255 128 255"
 		"Health Hurt"				"255 143 128 255"
