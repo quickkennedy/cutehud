@@ -6,8 +6,8 @@
 		"fieldName"			"ObjectiveStatusMultipleEscort"
 		"xpos"				"cs-0.5"
 		"ypos"				"r25"
-		"wide"				"121"
-		"tall"				"22"
+		"wide"				"125"
+		"tall"				"24"
 		"visible"			"1"
 		"enabled"			"1"
 	}
@@ -19,8 +19,8 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"220"
-		"wide"				"121"
-		"tall"				"10"
+		"wide"				"125"
+		"tall"				"11"
 		"visible"			"1"
 		"enabled"			"1"
 		"progress_xpos"		""
@@ -28,7 +28,7 @@
 
 		"if_blue_is_top"
 		{
-			"ypos"			"12"
+			"ypos"			"13"
 		}
 	}
 
@@ -39,8 +39,8 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"220"
-		"wide"				"121"
-		"tall"				"10"
+		"wide"				"125"
+		"tall"				"11"
 		"visible"			"1"
 		"enabled"			"1"
 		"progress_xpos"		""
@@ -48,7 +48,7 @@
 
 		"if_red_is_top"
 		{
-			"ypos"			"12"
+			"ypos"			"13"
 		}
 	}
 }
