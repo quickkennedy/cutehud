@@ -13,29 +13,7 @@ hud_combattext_blue 255
 ```
 
 gamebanana behind on:
-- new background
-- prism cross by default
-- themes!
-- changed minmode ammo position
-- better prism cross
-- hudplayerhealth status minmode
-- rocket pack minmode
-- rocket pack lowercase text
-- item meter label fixes
-- crosshair charge rework
-- new default colors!
-- new broesel cross
+- fixed multi pl AGAIN
 
 huds.tf behind on:
-- new background
-- prism cross by default
-- themes!
-- changed minmode ammo position
-- better prism cross
-- hudplayerhealth status minmode
-- rocket pack minmode
-- rocket pack lowercase text
-- item meter label fixes
-- crosshair charge rework
-- new default colors!
-- new broesel cross
+- fixed multi pl AGAIN
