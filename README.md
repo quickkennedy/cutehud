@@ -23,6 +23,8 @@ gamebanana behind on:
 - rocket pack lowercase text
 - item meter label fixes
 - crosshair charge rework
+- new default colors!
+- new broesel cross
 
 huds.tf behind on:
 - new background
@@ -35,3 +37,5 @@ huds.tf behind on:
 - rocket pack lowercase text
 - item meter label fixes
 - crosshair charge rework
+- new default colors!
+- new broesel cross
