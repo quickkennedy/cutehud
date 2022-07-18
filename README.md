@@ -14,6 +14,8 @@ hud_combattext_blue 255
 
 gamebanana behind on:
 - fixed multi pl AGAIN
+- fixed background having mipmap issues
 
 huds.tf behind on:
 - fixed multi pl AGAIN
+- fixed background having mipmap issues
