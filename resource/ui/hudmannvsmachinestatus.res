@@ -47,8 +47,8 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"r105"
-		"ypos"				"r45"
+		"xpos"				"cs-0.5"
+		"ypos"				"r45+9"
 		"wide"				"100"
 		"tall"				"20"
 		"visible" 			"1"
@@ -59,12 +59,27 @@
 	{
 		"ControlName"		"CInWorldCurrencyStatus"
 		"fieldName"			"InWorldCurrencyPanel"
-		"xpos"				"r105"
-		"ypos"				"r25"
+		"xpos"				"cs-0.5"
+		"ypos"				"r25+4"
 		"wide"				"100"
 		"tall"				"20"
 		"visible" 			"1"
 		"enabled" 			"1"
+	}
+	
+	"CurrencyBG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"CurrencyBG"
+		"xpos"				"cs-0.5"
+		"ypos"				"r45+9"
+		"zpos"				"-1"
+		"wide"				"102"
+		"tall"				"50"
+		"visible" 			"1"
+		"enabled" 			"1"
+		"bgcolor_override"	"TransparentBlack"
+		"paintbackgroundtype"	"2"
 	}
 
 	"WarningSwoop"
