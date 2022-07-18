@@ -15,7 +15,13 @@ hud_combattext_blue 255
 gamebanana behind on:
 - fixed multi pl AGAIN
 - fixed background having mipmap issues
+- fixed lightred
+- fixed mvm currency
+- fixed mvm wave status
 
 huds.tf behind on:
 - fixed multi pl AGAIN
 - fixed background having mipmap issues
+- fixed lightred
+- fixed mvm currency
+- fixed mvm wave status
