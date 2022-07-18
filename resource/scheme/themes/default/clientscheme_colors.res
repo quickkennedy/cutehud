@@ -269,7 +269,7 @@ Scheme
 		"QualityColorPaintkitWeapon_GreyedOut"				"60 60 60 255"
 
 		"SaleGreen"								"111 255 111 255"	//"76 107 34 255"
-		"LightRed"								"200 80 60 255"
+		"LightRed"								"255 255 255 255"
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"59 54 48 255"
 		"DarkBrown"								"41 37 38 255"
