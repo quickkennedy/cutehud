@@ -47,38 +47,62 @@
 	{
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
-		"xpos"				"cs-0.5"
-		"ypos"				"r45+9"
+		"xpos"				"s-0.5" //"cs-0.5"
+		"ypos"				"-15" //"r45+9"
 		"wide"				"100"
 		"tall"				"20"
 		"visible" 			"1"
 		"enabled" 			"1"
+		
+		"pin_to_sibling" "CurrencyAnchor"
+		"pin_to_sibling_corner" "PIN_TOPRIGHT"
 	}
 
 	"InWorldCurrencyPanel"
 	{
 		"ControlName"		"CInWorldCurrencyStatus"
 		"fieldName"			"InWorldCurrencyPanel"
-		"xpos"				"cs-0.5"
-		"ypos"				"r25+4"
+		"xpos"				"s-0.5" //"cs-0.5"
+		"ypos"				"" //"r25+4"
 		"wide"				"100"
 		"tall"				"20"
 		"visible" 			"1"
 		"enabled" 			"1"
+		
+		"pin_to_sibling" "CurrencyAnchor"
+		"pin_to_sibling_corner" "PIN_TOPRIGHT"
 	}
 	
 	"CurrencyBG"
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"CurrencyBG"
-		"xpos"				"cs-0.5"
-		"ypos"				"r45+9"
+		"xpos"				"s-0.5"
+		"ypos"				"0"
 		"zpos"				"-1"
 		"wide"				"102"
 		"tall"				"50"
 		"visible" 			"1"
 		"enabled" 			"1"
 		"bgcolor_override"	"TransparentBlack"
+		"paintbackgroundtype"	"2"
+		
+		"pin_to_sibling" "CurrencyAnchor"
+		"pin_to_sibling_corner" "PIN_TOPRIGHT"
+	}
+	
+	"CurrencyAnchor"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"CurrencyAnchor"
+		"xpos"				"s-0.25"
+		"ypos"				"r45+9"
+		"zpos"				"-1"
+		"wide"				"f0"
+		"tall"				"50"
+		"visible" 			"1"
+		"enabled" 			"1"
+		"bgcolor_override"	"Blank"
 		"paintbackgroundtype"	"2"
 	}
 
