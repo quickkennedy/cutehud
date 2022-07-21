@@ -236,6 +236,10 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"paintbackground"	"0"
+		
+		"defaultFgColor_override"		"White"
+		"armedFgColor_override"			"Lavender"
+		"depressedFgColor_override" 	"Lavender"
 	}
 
 	"PresetsExplanation"
@@ -357,8 +361,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override" 	"White"
+		"armedFgColor_override"			"Lavender"
+		"depressedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override"		"Lavender"
 		"depressedBgColor_override" 	"Lavender"
@@ -389,8 +393,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"		"White"
-		"armedFgColor_override"			"White"
-		"depressedFgColor_override" 	"White"
+		"armedFgColor_override"			"Lavender"
+		"depressedFgColor_override" 	"Lavender"
 
 		"defaultBgColor_override"		"Lavender"
 		"depressedBgColor_override" 	"Lavender"

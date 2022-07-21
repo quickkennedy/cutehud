@@ -18,6 +18,7 @@ gamebanana behind on:
 - fixed lightred
 - fixed mvm currency
 - fixed mvm wave status
+- fixed loadout selection color
 
 huds.tf behind on:
 - fixed multi pl AGAIN
@@ -25,3 +26,4 @@ huds.tf behind on:
 - fixed lightred
 - fixed mvm currency
 - fixed mvm wave status
+- fixed loadout selection color
