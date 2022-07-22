@@ -19,6 +19,8 @@ gamebanana behind on:
 - fixed mvm currency
 - fixed mvm wave status
 - fixed loadout selection color
+- equipped label check mark
+- simpler loading bar
 
 huds.tf behind on:
 - fixed multi pl AGAIN
@@ -27,3 +29,5 @@ huds.tf behind on:
 - fixed mvm currency
 - fixed mvm wave status
 - fixed loadout selection color
+- equipped label check mark
+- simpler loading bar
