@@ -21,6 +21,7 @@ gamebanana behind on:
 - fixed loadout selection color
 - equipped label check mark
 - simpler loading bar
+- removed big outline anims
 
 huds.tf behind on:
 - fixed multi pl AGAIN
@@ -31,3 +32,4 @@ huds.tf behind on:
 - fixed loadout selection color
 - equipped label check mark
 - simpler loading bar
+- removed big outline anims
