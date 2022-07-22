@@ -18,7 +18,7 @@ Scheme
 		"Grey"						"51 47 46 255"
 		"DarkGrey"					"27 27 27 255"
 		"DarkerGrey"				"22 22 22 255"
-		"TextColor"					"117 107 94 255"
+		"TextColor"					"190 190 190 255"
 
 		"Lavender"					"207 191 255 255"
 		"LavenderShadow"			"207 111 255 255"
@@ -270,7 +270,7 @@ Scheme
 
 		"SaleGreen"								"111 255 111 255"	//"76 107 34 255"
 		"LightRed"								"255 255 255 255"
-		"LighterRed"							"220 100 80 255"
+		"LighterRed"							"255 255 255 255"
 		"LighterDarkBrown"						"59 54 48 255"
 		"DarkBrown"								"41 37 38 255"
 
