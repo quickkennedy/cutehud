@@ -186,8 +186,8 @@
 			"enabled"		"1"
 			"labelText"		""
 			"textAlignment"	"center"
-			"fgcolor"		"200 180 60 255"
-			"bgcolor_override"		"0 40 30 255"
+			"fgcolor"		"LightRed" //"200 180 60 255"
+			"bgcolor_override"		"ColorBlack" //"0 40 30 255"
 			"PaintBackgroundType"	"2"
 		}
 
