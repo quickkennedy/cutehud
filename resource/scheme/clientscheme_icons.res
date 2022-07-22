@@ -37,6 +37,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		
+		"SmallIcons"
+		{
+			"1"
+			{
+				"name"			"TF2Icons"
+				"tall"			"12" [$WINDOWS]
+				//"tall"			"10" [$POSIX]
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 
 		"CustomIcons"
 		{
