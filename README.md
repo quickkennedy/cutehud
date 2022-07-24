@@ -26,7 +26,6 @@ gamebanana behind on:
 - removed big outline anims
 - centered notif panel
 - replaced orange with lavender in sourcescheme
-- chat uses console font
 - correct vtf flags
 - neutral pl points circles
 
@@ -42,6 +41,5 @@ huds.tf behind on:
 - removed big outline anims
 - centered notif panel
 - replaced orange with lavender in sourcescheme
-- chat uses console font
 - correct vtf flags
 - neutral pl points circles
