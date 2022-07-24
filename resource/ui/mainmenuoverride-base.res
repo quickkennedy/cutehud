@@ -218,23 +218,6 @@
 		}
 	}
 
-	"ToastAnchor"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"ToastAnchor"
-		"xpos"				"cs-0.5"
-		"ypos"				"60"
-		"zpos"				"0"
-		"wide"				"400"
-		"tall"				"20"
-		"autoResize"		"0"
-		"pinCorner"			"3"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"0"
-		"bgcolor_override"	"Transparent"
-	}
-
 	"TFLogoImage"
 	{
 		"ControlName"	"ImagePanel"

@@ -13,7 +13,6 @@
 		"enabled"			"1"
 		"bgcolor_override"	"TransparentBlack"
 		"border"			"RoundedBorder"
-		"pin_to_sibling"	"ToastAnchor"
 	}
 
 	"HelpTextLabel"

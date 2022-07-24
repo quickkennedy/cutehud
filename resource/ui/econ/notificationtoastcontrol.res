@@ -77,7 +77,7 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override" 	"Black"
-		"armedBgColor_override" 	"CreditsGreen"
+		"armedBgColor_override" 	"Lavender"
 		"depressedBgColor_override" "Black"
 	}
 
