@@ -102,10 +102,10 @@ Scheme
 		//---------------------------------------------
 		"Orange"								"207 191 255 255"
 		"OrangeDim"								"207 191 255 255"
-		"LightOrange"							"188 112 0 128"
-		"GoalOrange"							"255 133 0 255"
+		"LightOrange"							"207 191 255 128"
+		"GoalOrange"							"207 191 255 255"
 		"TFOrange"								"207 191 255 255"
-		"Purple"								"137 69 99 255"
+		"Purple"								"207 191 255 255"
 
 		"HalloweenThemeColor2015_Light"			"238 126 17 255"
 		"HalloweenThemeColor2015"				"135 54 16 255"

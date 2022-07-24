@@ -19,7 +19,7 @@ Scheme
 		"White"				"255 255 255 255"
 		"OffWhite"			"221 221 221 255"
 		"DullWhite"			"190 190 190 255"
-		"Orange"			"255 155 0 255"
+		"Orange"			"207 191 255 255"
 		"TransparentBlack"	"0 0 0 128"
 		"Black"				"0 0 0 255"
 
