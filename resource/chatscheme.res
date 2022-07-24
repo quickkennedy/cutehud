@@ -342,48 +342,43 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans" //"Verdana"
+				"name"			"Verdana"
 				"tall"			"12"
 				"weight"		"700"
 				"yres"			"480 599"
 				"dropshadow"	"1"
-				"antialias"		"1"
 			}
 			"2"
 			{
-				"name"			"Product Sans" //"Verdana"
+				"name"			"Verdana"
 				"tall"			"14"
 				"weight"		"700"
 				"yres"			"600 767"
 				"dropshadow"	"1"
-				"antialias"		"1"
 			}
 			"3"
 			{
-				"name"			"Product Sans" //"Verdana"
+				"name"			"Verdana"
 				"tall"			"15"
 				"weight"		"700"
 				"yres"			"768 1023"
 				"dropshadow"	"1"
-				"antialias"		"1"
 			}
 			"4"
 			{
-				"name"			"Product Sans" //"Verdana"
+				"name"			"Verdana"
 				"tall"			"17"
 				"weight"		"700"
 				"yres"			"1024 1199"
 				"dropshadow"	"1"
-				"antialias"		"1"
 			}
 			"5"
 			{
-				"name"			"Product Sans" //"Verdana"
+				"name"			"Verdana"
 				"tall"			"22"
 				"weight"		"700"
 				"yres"			"1200 10000"
 				"dropshadow"	"1"
-				"antialias"		"1"
 			}
 		}
 
@@ -815,10 +810,5 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"
-		"10"
-		{
-			"font" 	"resource/fonts/product sans.ttf"
-			"name" 	"Product Sans"
-		}
 	}
 }
