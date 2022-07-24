@@ -27,6 +27,8 @@ gamebanana behind on:
 - centered notif panel
 - replaced orange with lavender in sourcescheme
 - chat uses console font
+- correct vtf flags
+- neutral pl points circles
 
 huds.tf behind on:
 - fixed multi pl AGAIN
@@ -41,3 +43,5 @@ huds.tf behind on:
 - centered notif panel
 - replaced orange with lavender in sourcescheme
 - chat uses console font
+- correct vtf flags
+- neutral pl points circles
