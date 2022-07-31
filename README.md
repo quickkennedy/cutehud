@@ -15,31 +15,7 @@ cl_show_market_data_on_items 2
 ```
 
 gamebanana behind on:
-- fixed multi pl AGAIN
-- fixed background having mipmap issues
-- fixed lightred
-- fixed mvm currency
-- fixed mvm wave status
-- fixed loadout selection color
-- equipped label check mark
-- simpler loading bar
-- removed big outline anims
-- centered notif panel
-- replaced orange with lavender in sourcescheme
-- correct vtf flags
-- neutral pl points circles
+- fixed background
 
 huds.tf behind on:
-- fixed multi pl AGAIN
-- fixed background having mipmap issues
-- fixed lightred
-- fixed mvm currency
-- fixed mvm wave status
-- fixed loadout selection color
-- equipped label check mark
-- simpler loading bar
-- removed big outline anims
-- centered notif panel
-- replaced orange with lavender in sourcescheme
-- correct vtf flags
-- neutral pl points circles
+- fixed background
