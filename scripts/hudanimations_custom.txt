@@ -100,7 +100,10 @@ event DamagedPlayer
 event HitMarker
 {
 	Animate		CustomCrosshair			FgColor		"CrosshairDamage"	Linear 0.0	0.0
-	Animate		CustomCrosshair			FgColor		"Crosshair"			Linear 0.15	0.0
+	Animate		CustomCrosshair			FgColor		"Crosshair"		Linear 0.15	0.0
+
+	Animate 	Hitmarker    	 		Alpha     	"255"			Linear 	0.0 	0.0
+    	Animate 	Hitmarker    			Alpha     	"0"			Linear 	0.0 	0.35
 }
 //==================================================================================
 

@@ -24,6 +24,21 @@
 		"textAlignment"		"center"
 		"fgcolor"			"Crosshair"
 	}
+	
+	"Hitmarker"
+	{
+		"enabled"			"1"
+		"controlName"		"CExLabel"
+		"fieldName"			"Hitmarker"
+		"zpos"				"0"
+		"xpos"				"cs-0.5"
+		"ypos"				"cs-0.5"
+		"wide"				"f0"
+		"tall"				"f0"
+		"textAlignment"		"center"
+		"fgcolor"			"CrosshairDamage"
+		"alpha"				"0"
+	}
 	//--------------------------------------------------------------
 
 	"HudPlayerStatus"

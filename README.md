@@ -16,6 +16,8 @@ cl_show_market_data_on_items 2
 
 gamebanana behind on:
 - fixed background
+- added hitmarker
 
 huds.tf behind on:
 - fixed background
+- added hitmarker
