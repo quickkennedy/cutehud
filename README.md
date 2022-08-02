@@ -21,6 +21,7 @@ gamebanana behind on:
 - fixed context menus
 - fixed many dx8 issues
 - transparent viewmodels now default
+- temporary payload fix
 
 huds.tf behind on:
 - fixed background
@@ -29,3 +30,4 @@ huds.tf behind on:
 - fixed context menus
 - fixed many dx8 issues
 - transparent viewmodels now default
+- temporary payload fix
