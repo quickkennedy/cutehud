@@ -18,8 +18,10 @@ gamebanana behind on:
 - fixed background
 - added hitmarker
 - empty friend is a plus symbol
+- fixed context menus
 
 huds.tf behind on:
 - fixed background
 - added hitmarker
 - empty friend is a plus symbol
+- fixed context menus

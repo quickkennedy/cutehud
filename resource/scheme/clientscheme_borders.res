@@ -86,34 +86,6 @@ Scheme
 		MenuBorder
 		{
 			"inset" "0 0 0 0"
-			Left
-			{
-				"1"
-				{
-					"color" "White"
-					"offset" "0 0"
-				}
-				"2"
-				{
-					"color" "White"
-					"offset" "0 0"
-				}
-				"3"
-				{
-					"color" "White"
-					"offset" "0 0"
-				}
-				"4"
-				{
-					"color" "White"
-					"offset" "0 0"
-				}
-				"5"
-				{
-					"color" "White"
-					"offset" "0 0"
-				}
-			}
 		}
 
 		MainMenuTabs
