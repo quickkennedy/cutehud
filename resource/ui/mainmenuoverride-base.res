@@ -255,7 +255,7 @@
 		"fieldName"		"CycleRankTypeButton"
 		"xpos"			"-160" //"270"
 		"ypos"			"-21" //"cs-0.5-33"
-		"wide"			"30"
+		"wide"			"0" //"30"
 		"tall"			"30"
 		"autoResize"	"0"
 		//"pinCorner"		"3"
@@ -306,7 +306,7 @@
 		"xpos"			"-30"//"cs-0.5+45" //30
 		"ypos"			"30"
 		"zpos"			"0"
-		"wide"			"200" //170
+		"wide"			"0" //"200" //170
 		"tall"			"50"
 		"visible"		"1"
 		"proportionaltoparent"	"0"
@@ -917,7 +917,7 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"cutehud"

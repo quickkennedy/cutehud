@@ -195,8 +195,8 @@
 		"zpos"			"0"
 		"wide"			"20"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		
 		"pin_to_sibling"	"QuestLogButton"
 		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -228,6 +228,18 @@
 			"defaultFgColor_override"	"TanLight"
 			"armedFgColor_override"		"Lavender"
 		}
+	}
+
+	"MOTD_Panel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"MOTD_ShowButtonPanel"
+		"xpos"			"99999"
+		"ypos"			"99999"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 
 	"HomeServerButton"
