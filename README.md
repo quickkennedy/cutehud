@@ -19,9 +19,11 @@ gamebanana behind on:
 - added hitmarker
 - empty friend is a plus symbol
 - fixed context menus
+- fixed many dx8 issues
 
 huds.tf behind on:
 - fixed background
 - added hitmarker
 - empty friend is a plus symbol
 - fixed context menus
+- fixed many dx8 issues
