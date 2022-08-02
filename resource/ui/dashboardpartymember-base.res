@@ -18,15 +18,15 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"EmptyImage"
-		"xpos"			"1"
-		"ypos"			"1"
+		"xpos"			"7"
+		"ypos"			"7"
 		"zpos"			"100"
-		"wide"			"f2"
-		"tall"			"f2"
+		"wide"			"f14"
+		"tall"			"f14"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
-		"image"			"class_portraits/silhouette_alpha"
+		"image"			"replay/thumbnails/menu/emptyicon"
 		"mouseinputenabled"	"0"
 	}
 

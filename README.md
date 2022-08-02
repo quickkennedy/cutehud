@@ -17,7 +17,9 @@ cl_show_market_data_on_items 2
 gamebanana behind on:
 - fixed background
 - added hitmarker
+- empty friend is a plus symbol
 
 huds.tf behind on:
 - fixed background
 - added hitmarker
+- empty friend is a plus symbol
