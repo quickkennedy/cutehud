@@ -23,6 +23,8 @@ gamebanana behind on:
 - transparent viewmodels now default
 - temporary payload fix
 - main menu improvements
+- experimental to extras
+- rounded points fix
 
 huds.tf behind on:
 - fixed background
@@ -33,3 +35,5 @@ huds.tf behind on:
 - transparent viewmodels now default
 - temporary payload fix
 - main menu improvements
+- experimental to extras
+- rounded points fix
