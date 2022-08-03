@@ -7,8 +7,15 @@
 	"$scale" 			"[1 1]"
 	"$normalmap" 		"vgui\replay\thumbnails\transparent"
 	
-	"<dx90"  //on dx8
+	//below is dedicated to removing transparent viewmodels on dx8
+	
+	"$dudvmap"   		 "0" //peach's way
+
+	"<dx90" //on dx8
 	{
-		"$alpha"		"0" //hide the refract
+		"$normalmap"	"vgui/gfx/vgui/trans_background" //peach's way
+		"$alpha"		"0" //my way
 	}
+	
+	//note: both might work? no clue. his works on his computer, mine on my computer. probably.
 }
