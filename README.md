@@ -20,9 +20,9 @@ gamebanana behind on:
 - empty friend is a plus symbol
 - fixed context menus
 - fixed many dx8 issues
-- transparent viewmodels now default
 - temporary payload fix
 - main menu improvements
+- chat icons
 
 huds.tf behind on:
 - fixed background
@@ -30,6 +30,6 @@ huds.tf behind on:
 - empty friend is a plus symbol
 - fixed context menus
 - fixed many dx8 issues
-- transparent viewmodels now default
 - temporary payload fix
 - main menu improvements
+- chat icons
