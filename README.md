@@ -15,21 +15,7 @@ cl_show_market_data_on_items 2
 ```
 
 gamebanana behind on:
-- fixed background
-- added hitmarker
-- empty friend is a plus symbol
-- fixed context menus
-- fixed many dx8 issues
-- temporary payload fix
-- main menu improvements
-- chat icons
+- all caught up :)
 
 huds.tf behind on:
-- fixed background
-- added hitmarker
-- empty friend is a plus symbol
-- fixed context menus
-- fixed many dx8 issues
-- temporary payload fix
-- main menu improvements
-- chat icons
+- all caught up :)
