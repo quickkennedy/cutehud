@@ -16,6 +16,8 @@ cl_show_market_data_on_items 2
 
 gamebanana behind on:
 - fixed english chat
+- support japanese for no real reason
 
 huds.tf behind on:
 - fixed english chat
+- support japanese for no real reason
