@@ -15,7 +15,7 @@ cl_show_market_data_on_items 2
 ```
 
 gamebanana behind on:
-- all caught up :)
+- fixed english chat
 
 huds.tf behind on:
-- all caught up :)
+- fixed english chat
