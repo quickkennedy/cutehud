@@ -18,8 +18,10 @@ gamebanana behind on:
 - new colors!
 - scoreboard rounded corners
 - better streamermode
+- fixed chat font
 
 huds.tf behind on:
 - new colors!
 - scoreboard rounded corners
 - better streamermode
+- fixed chat font

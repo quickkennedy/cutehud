@@ -3046,5 +3046,10 @@ Scheme
 			"font" 	"resource/fonts/product sans.ttf"
 			"name" 	"Product Sans"
 		}
+		"11"
+		{
+			"font"	"resource/fonts/product sans chat.ttf"
+			"name" 	"Product Sans Chat"
+		}
 	}
 }

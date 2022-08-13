@@ -815,10 +815,5 @@ Scheme
 	{
 		"1"		"resource/HALFLIFE2.ttf"
 		"2"		"resource/HL2EP2.ttf"
-		"420"
-		{
-			"resource/fonts/chatfont.otf"
-			"name" 	"Product Sans Chat"
-		}
 	}
 }
