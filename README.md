@@ -15,25 +15,7 @@ cl_show_market_data_on_items 2
 ```
 
 gamebanana behind on:
-- fixed background
-- added hitmarker
-- empty friend is a plus symbol
-- fixed context menus
-- fixed many dx8 issues
-- transparent viewmodels now default
-- temporary payload fix
-- main menu improvements
-- experimental to extras
-- rounded points fix
+- new colors!
 
 huds.tf behind on:
-- fixed background
-- added hitmarker
-- empty friend is a plus symbol
-- fixed context menus
-- fixed many dx8 issues
-- transparent viewmodels now default
-- temporary payload fix
-- main menu improvements
-- experimental to extras
-- rounded points fix
+- new colors!
