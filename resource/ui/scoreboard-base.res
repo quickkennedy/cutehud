@@ -36,6 +36,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"bgcolor_override"	"BlueSolid"
+		"paintbackgroundtype"	"2"
 
 		if_mvm
 		{
@@ -58,6 +59,95 @@
 		"pin_to_sibling"		"BlueScoreBG"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+		"paintbackgroundtype"	"2"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+	"BlueScoreBGTopRight"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BlueScoreBGTopRight"
+		"xpos"			"0"
+		"ypos"			"0" //144
+		"zpos"			"0"
+		"wide"			"10"
+		"tall"			"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"BlueSolid"
+		
+		"pin_to_sibling"		"BlueScoreBG"
+		"pin_corner_to_sibling"	"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+	"BlueScoreBGBottom"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BlueScoreBGTopRight"
+		"xpos"			"0"
+		"ypos"			"0" //144
+		"zpos"			"0"
+		"wide"			"270"
+		"tall"			"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"BlueSolid"
+		
+		"pin_to_sibling"		"BlueScoreBG"
+		"pin_corner_to_sibling"	"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMRIGHT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+	"RedScoreBGTopLeft"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"RedScoreBGTopLeft"
+		"xpos"			"0"
+		"ypos"			"0" //144
+		"zpos"			"0"
+		"wide"			"10"
+		"tall"			"25"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"RedSolid"
+		
+		"pin_to_sibling"		"RedScoreBG"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+
+		if_mvm
+		{
+			"visible"	"0"
+		}
+	}
+	"RedScoreBGBottom"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"RedScoreBGTopRight"
+		"xpos"			"0"
+		"ypos"			"0" //144
+		"zpos"			"0"
+		"wide"			"270"
+		"tall"			"10"
+		"visible"		"1"
+		"enabled"		"1"
+		"bgcolor_override"	"RedSolid"
+		
+		"pin_to_sibling"		"RedScoreBG"
+		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 		if_mvm
 		{

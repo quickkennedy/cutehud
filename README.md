@@ -16,6 +16,8 @@ cl_show_market_data_on_items 2
 
 gamebanana behind on:
 - new colors!
+- scoreboard rounded corners
 
 huds.tf behind on:
 - new colors!
+- scoreboard rounded corners
