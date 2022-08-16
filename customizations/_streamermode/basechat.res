@@ -12,6 +12,6 @@
 
 	"HudChatStreamerMode"
 	{
-		"visible"				"1" // enable the text that says "streamer mode disables chat uwu"
+		"visible"				"0" // enable the text that says "streamer mode disables chat uwu"
 	}
 }
