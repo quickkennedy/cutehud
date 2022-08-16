@@ -11,6 +11,11 @@
         {
             "ypos"		"9999"
         }
+		
+		"AvatarImage"
+		{
+			"xpos"				"9999"
+		}
     }
 
     "itempanel"
