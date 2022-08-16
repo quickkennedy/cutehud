@@ -128,6 +128,36 @@
         "ypos"		"9999"
     }
 	
+	"Player1Badge"
+    {
+        "ypos"		"9999"
+    }
+	
+	"Player2Badge"
+    {
+        "ypos"		"9999"
+    }
+	
+	"Player3Badge"
+    {
+        "ypos"		"9999"
+    }
+	
+    "Player1Score"
+    {
+        "ypos"		"9999"
+    }
+	
+	"Player2Score"
+    {
+        "ypos"		"9999"
+    }
+	
+	"Player3Score"
+    {
+        "ypos"		"9999"
+    }
+	
 	"KillStreakLeaderLabel"
 	{
 		"ControlName"	"CExLabel"
