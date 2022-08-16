@@ -100,6 +100,7 @@
     "ServerLabelShadow"
     {
         "ypos"			"9999"
+		"wide"			"0"
 
         if_mvm
         {
@@ -109,12 +110,18 @@
 	
     "BluePlayerList"
     {
-        "wide"			"0"
+        "xpos"			"99999"
+		"ypos"			"99999"
+		"wide"			"0"
+		"tall"			"0"
     }
 
     "RedPlayerList"
     {
-        "wide"			"0"
+        "xpos"			"99999"
+		"ypos"			"99999"
+		"wide"			"0"
+		"tall"			"0"
     }
 	
 	"LocalPlayerStatsPanel"
