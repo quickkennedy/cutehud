@@ -18,8 +18,10 @@ gamebanana behind on:
 - fixed spectator icons
 - friends list toggleable in main menu
 - fixed old bug involving x0 on the number of capping players
+- matchmaking quit/disconnect buttons now prompt user
 
 huds.tf behind on:
 - fixed spectator icons
 - friends list toggleable in main menu
 - fixed old bug involving x0 on the number of capping players
+- matchmaking quit/disconnect buttons now prompt user
