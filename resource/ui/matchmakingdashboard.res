@@ -622,6 +622,40 @@
 			"tall"			"0"
 		}
 		
+		"FriendsButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"FriendsButton"
+			"xpos"			"rs1-93"
+			"ypos"			"0"
+			"zpos"			"100"
+			"wide"			"30"
+			"tall"			"f6"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"font"			"NormalHypnotizeIcons"
+			"textAlignment"	"center"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"Command"		"engine toggle cl_mainmenu_safemode"
+			"proportionaltoparent"	"1"
+			"labeltext"		"R"
+			"mouseinputenabled"	"1"
+			"keyboardinputenabled"	"0"
+			"actionsignallevel"	"3"
+			"paintbackground"	"0"
+			"textinsety"		"4"
+			"sound_depressed"	"UI/buttonclick.wav"
+			
+			"FgColor"						"TanLight"
+			"defaultFgColor_override" 		"TanLight"
+			"armedFgColor_override" 		"Lavender"
+			"depressedFgColor_override" 	"Lavender"
+		}
+		
 		"ReloadButton"
 		{
 			"ControlName"	"CExImageButton"

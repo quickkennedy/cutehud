@@ -26,6 +26,19 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		
+		"NormalHypnotizeIcons"
+		{
+			"1"
+			{
+				"name"			"Hypnotize Icons V6"
+				"tall"			"25"
+				"tall_lowres"	"20"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 
 		"MediumIcons"
 		{

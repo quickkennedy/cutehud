@@ -1,5 +1,4 @@
 "#base" "../../resource/preload.res"
-"#base" "../../customizations/enabled/friends list.res"
 "#base" "mainmenuoverride-base.res"
 
 "Resource/UI/MainMenuOverride.res"

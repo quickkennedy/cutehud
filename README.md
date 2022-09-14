@@ -15,11 +15,9 @@ cl_show_market_data_on_items 2
 ```
 
 gamebanana behind on:
-- scoreboard rounded corners
-- better streamermode
-- fixed chat font
+- fixed spectator icons
+- friends list toggleable in main menu
 
 huds.tf behind on:
-- scoreboard rounded corners
-- better streamermode
-- fixed chat font
+- fixed spectator icons
+- friends list toggleable in main menu
