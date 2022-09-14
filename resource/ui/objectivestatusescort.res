@@ -234,20 +234,20 @@
 			"fieldName"		"CapPlayerImage"
 			"xpos"			"9999"
 		}
-
+		
 		"CapNumPlayers"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
 			"font"			"ControlPointTimer"
-			"xpos"			"118" //"108"
+			"xpos"			"108"
 			"ypos"			"2"
 			"zpos"			"999"
 			"wide"			"15"
 			"tall"			"8"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 			"labelText"		"#ControlPointIconCappers"
 			"textAlignment"	"center"
