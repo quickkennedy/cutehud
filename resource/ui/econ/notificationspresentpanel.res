@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"CNotificationsPresentPanel"
 		"fieldName"		"NotificationsPresentPanel"
-		"xpos"			"c80"
+		"xpos"			"0"
 		"ypos"			"25"
 		"zpos"			"10000"
-		"wide"			"220"
+		"wide"			"f0"
 		"tall"			"26"
 		"visible"		"0"
 		"enabled"		"1"
@@ -32,6 +32,7 @@
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"
 		"font"			"Volkswagen10"
+		"fgcolor"		"White"
 		"proportionaltoparent"	"1"
 	}
 }
