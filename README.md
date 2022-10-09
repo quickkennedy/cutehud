@@ -10,7 +10,6 @@ tf_spectator_target_location 0
 hud_combattext_red 255
 hud_combattext_green 255
 hud_combattext_blue 255
-tf_hud_target_id_disable_floating_health 1 
 cl_show_market_data_on_items 2
 ```
 
