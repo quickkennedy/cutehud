@@ -18,8 +18,8 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"SpellIcon"
-		"xpos"				"5"
-		"ypos"				"0"
+		"xpos"				"43"
+		"ypos"				"20"
 		"zpos"				"7"
 		"wide"				"20"
 		"tall"				"20"
@@ -39,10 +39,10 @@
 		"textAlignment"		"center"
 		"xpos"				"0"
 		"ypos"				"25"
-		"wide"				"50"
+		"wide"				"0"
 		"tall"				"10"
 		"fgcolor"			"TanLight"
-		"visible"			"1"
+		"visible"			"0"
 	}
 
 	"SpellText"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"CountTextShadow"
-		"font"				"Volkswagen28"
+		"font"				"Volkswagen28Blur"
 		"labelText"			"%counttext%"
 		"textAlignment"		"center"
 		"xpos"				"-2"
