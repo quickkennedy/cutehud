@@ -211,7 +211,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Montserrat Bold"
+				"name"			"Montserrat Bold No Maths"
 				"tall"			"24"
 				"additive"		"0"
 				"antialias"		"1"
@@ -3038,15 +3038,20 @@ Scheme
 		}
 		"9"
 		{
+			"font" 	"resource/fonts/Montserrat Bold No Maths.otf"
+			"name" 	"Montserrat Bold No Maths"
+		}
+		"10"
+		{
 			"font" 	"resource/fonts/VAG Rounded BT.otf"
 			"name" 	"VAG Rounded BT"
 		}
-		"10"
+		"11"
 		{
 			"font" 	"resource/fonts/product sans.ttf"
 			"name" 	"Product Sans"
 		}
-		"11"
+		"12"
 		{
 			"font"	"resource/fonts/product sans chat.ttf"
 			"name" 	"Product Sans Chat"
