@@ -4,30 +4,15 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudStopWatchBG"
-		"xpos"			"2"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"100"
+		"wide"			"90"
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 100"
+		"bgcolor_override"	"TransparentBlack"
 		"PaintBackgroundType"	"2"
-	}
-	
-	"HudStopWatchMerge"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HudStopWatchMerge"
-		"xpos"			"0"
-		"ypos"			"2"
-		"zpos"			"0"
-		"wide"			"2"
-		"tall"			"11"
-		"visible"		"1"
-		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 100"
-		"PaintBackgroundType"	"0"
 	}
 
 	"StopWatchImageCaptureTime"
