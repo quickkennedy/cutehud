@@ -11,9 +11,9 @@
 		"wide"					"f0"
 		"tall"					"35"
 		"keyboardinputenabled"	"0"
-		"collapsed_height"		"0"
+		"collapsed_height"		"35"
 		"expanded_height"		"35"
-		"resize_time"			"0.2"
+		"resize_time"			"0"
 	}
 
 	"TopBar"
