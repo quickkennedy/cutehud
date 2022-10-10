@@ -170,6 +170,22 @@
 				"textAlignment"		"west"
 				"fgcolor"			"TanLight"
 			}
+			"playernameshadow"
+			{
+				"ControlName"		"CExLabel"
+				"fieldName"			"playernameshadow"
+				"font"				"HudFontSmallBlur"
+				"xpos"				"-1"
+				"ypos"				"-1"
+				"zpos"				"4"
+				"wide"				"80"
+				"tall"				"16"
+				"visible"			"1"
+				"labelText"			"%playername%"
+				"textAlignment"		"west"
+				"fgcolor"			"TransparentBlack"
+				"pin_to_sibling"	"playername"
+			}
 
 			"HealthIcon"
 			{
@@ -209,8 +225,8 @@
 				"zpos"				"5"
 				"wide"				"26"
 				"tall"				"18"
-				"font"				"HudFontSmallest"
-				"fgcolor"			"ColorMagenta"
+				"font"				"Volkswagen12"
+				"fgcolor"			"255 255 0 255"
 				"visible"			"1"
 				"textAlignment"		"center"
 				"labelText"			"%respawntime%"
@@ -221,9 +237,9 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"			"respawntimeShadow"
-				"font"				"HudFontSmallest"
+				"font"				"Volkswagen12Blur"
 				"xpos"				"-1"
-				"ypos"				"-2"
+				"ypos"				"-1"
 				"zpos"				"4"
 				"wide"				"26"
 				"tall"				"18"
@@ -258,7 +274,7 @@
 			{
 				"ControlName"		"CExLabel"
 				"fieldName"			"chargeamount"
-				"font"				"HudFontSmallest"
+				"font"				"Volkswagen12"
 				"xpos"				"132"
 				"ypos"				"2"
 				"zpos"				"201"
@@ -269,7 +285,25 @@
 				"visible"			"1"
 				"labelText"			"%chargeamount%"
 				"textAlignment"		"east"
-				"fgcolor"			"0 255 255 255"
+				"fgcolor"			"Ammo In Clip"
+			}
+			"chargeamountshadow"
+			{
+				"ControlName"		"CExLabel"
+				"fieldName"			"chargeamountshadow"
+				"font"				"Volkswagen12Blur"
+				"xpos"				"-1"
+				"ypos"				"-1"
+				"zpos"				"201"
+				"wide"				"25"
+				"tall"				"13"
+				"autoResize"		"0"
+				"pinCorner"			"0"
+				"visible"			"1"
+				"labelText"			"%chargeamount%"
+				"textAlignment"		"east"
+				"fgcolor"			"TransparentBlack"
+				"pin_to_sibling"	"chargeamount"
 			}
 		}
 	}
