@@ -207,6 +207,16 @@ Scheme
 				"blur"			"1"
 			}
 		}
+		"Montserrat18"
+		{
+			"1"
+			{
+				"name"			"Montserrat Bold"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"DamageFont"
 		{
 			"1"
