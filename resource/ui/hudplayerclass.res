@@ -1,4 +1,5 @@
 #base	"../../customizations/enabled/evehud aiming guide.res"
+#base	"../../customizations/enabled/candyhud playermodel.res"
 
 "Resource/UI/HudPlayerClass.res"
 {
