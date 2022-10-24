@@ -51,6 +51,7 @@
 		"fieldName"			"PipesPresentPanel"
 		"xpos"				"0"
 		"ypos"				"c25"
+		"ypos_minmode"		"c25"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
@@ -99,6 +100,12 @@
 			"fgcolor"			"TransparentBlack"
 			"pin_to_sibling"	"NumPipesLabel"
 		}
+		"NumPipesLabelDropshadow2"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"NumPipesLabelDropshadow2"
+			"xpos"				"99999"
+		}
 
 		"PipeIcon"
 		{
@@ -113,5 +120,12 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"			"NoPipesPresentPanel"
 		"xpos"				"9999"
+		
+		"NumPipesLabelDropshadow2"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"			"NumPipesLabelDropshadow2"
+			"xpos"				"99999"
+		}
 	}
 }

@@ -124,6 +124,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		
+		"Stickys"
+		{
+			"1"
+			{
+				"name"			"ToonHUD Icons"
+				"tall"			"60"
+				"weight"		"400"
+				"additive"		"0"
+				"antialias" 	"1"
+			}
+		}
 
 	}
 
@@ -138,6 +150,11 @@ Scheme
 		{
 			"font" 	"resource/fonts/hypnotize icons.ttf"
 			"name" 	"Hypnotize Icons V6"
+		}
+		"123"
+		{
+			"font" 	"resource/fonts/ToonHUD Icons.ttf"
+			"name" 	"ToonHUD Icons"
 		}
 	}
 }
