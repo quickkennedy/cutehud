@@ -1429,6 +1429,39 @@
 		"mouseinputenabled"		"0"
 		"alpha"					"100"
 	}
+	
+	// for update on 12/06/2022
+	
+	"CurrencyAnchor"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"CurrencyAnchor"
+		"xpos"				"s-0.25"
+		"ypos"				"r45+9"
+		"zpos"				"-1"
+		"wide"				"f0"
+		"tall"				"50"
+		"visible" 			"1"
+		"enabled" 			"1"
+		"bgcolor_override"	"Blank"
+		"paintbackgroundtype"	"2"
+	}
+	
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"s-0.5" //"cs-0.5"
+		"ypos"				"-15" //"r45+9"
+		"wide"				"100"
+		"tall"				"20"
+		"visible" 			"1"
+		"enabled" 			"1"
+		
+		"pin_to_sibling" "CurrencyAnchor"
+		"pin_to_sibling_corner" "PIN_TOPRIGHT"
+	}
+	
 
 	"HUDAutoAim"			{ }
 	"HudHDRDemo"			{ }
