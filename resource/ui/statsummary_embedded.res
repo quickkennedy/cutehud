@@ -69,7 +69,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"BarChartLabelA"
-				"font"				"Volkswagen12"
+				"font"				"Volkswagen10"
 				"labelText"			"#StatSummary_StatTitle_MostPoints"
 				"textAlignment"		"east"
 				"xpos"				"c-282"
@@ -86,7 +86,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"BarChartLabelB"
-				"font"				"Volkswagen12"
+				"font"				"Volkswagen10"
 				"labelText"			"#StatSummary_StatTitle_TotalPlaytime"
 				"textAlignment"		"west"
 				"xpos"				"c-127"
@@ -103,7 +103,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"			"OverallRecordLabel"
-				"font"				"Volkswagen12"
+				"font"				"Volkswagen10"
 				"labelText"			"#StatSummary_Label_AsAnyClass"
 				"textAlignment"		"west"
 				"xpos"				"c130"
@@ -274,7 +274,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar1B"
@@ -291,14 +291,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel1A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel1A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -315,7 +315,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel1B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel1B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -332,7 +332,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel1"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class1%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -401,7 +401,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar2B"
@@ -418,14 +418,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel2A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel2A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -442,7 +442,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel2B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel2B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -459,7 +459,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel2"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class2%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -528,7 +528,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar3B"
@@ -545,14 +545,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel3A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel3A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel3A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -569,7 +569,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel3B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel3B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -586,7 +586,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel3"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class3%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -655,7 +655,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar4B"
@@ -672,14 +672,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel4A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel4A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel4A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -696,7 +696,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel4B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel4B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -713,7 +713,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel4"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class4%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -782,7 +782,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar5B"
@@ -799,14 +799,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel5A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel5A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel5A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -823,7 +823,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel5B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel5B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -840,7 +840,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel5"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class5%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -909,7 +909,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar6B"
@@ -926,14 +926,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel6A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel6A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel6A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -950,7 +950,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel6B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel6B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -967,7 +967,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel6"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class6%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1036,7 +1036,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar7B"
@@ -1053,14 +1053,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel7A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel7A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel7A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1077,7 +1077,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel7B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel7B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1094,7 +1094,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel7"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class7%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1163,7 +1163,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar8B"
@@ -1180,14 +1180,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel8A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel8A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel8A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1204,7 +1204,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel8B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel8B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1221,7 +1221,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel8"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class8%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1290,7 +1290,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBar9B"
@@ -1307,14 +1307,14 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"fillcolor"		"Transparent"
+			"fillcolor"		"Lavender" //"Transparent"
 			"PaintBackgroundType"	"0"
 		}
 		"ClassBarLabel9A"
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel9A"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel9A%"
 			"textAlignment"	"west"
 			"xpos"			"c-282"
@@ -1331,7 +1331,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassBarLabel9B"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%classbarlabel9B%"
 			"textAlignment"	"west"
 			"xpos"			"c-127"
@@ -1348,7 +1348,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"ClassLabel9"
-			"font"			"Volkswagen12"
+			"font"			"Volkswagen10"
 			"labelText"		"%class9%"
 			"textAlignment"	"center"
 			"xpos"			"0"
@@ -1433,7 +1433,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord1Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord1label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1450,7 +1450,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord1Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord1value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1467,7 +1467,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord2Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord2label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1484,7 +1484,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord2Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord2value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1501,7 +1501,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord3Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord3label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1518,7 +1518,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord3Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord3value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1535,7 +1535,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord4Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord4label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1552,7 +1552,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord4Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord4value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1569,7 +1569,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord5Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord5label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1586,7 +1586,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord5Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord5value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1603,7 +1603,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord6Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord6label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1620,7 +1620,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord6Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord6value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1637,7 +1637,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord7Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord7label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1654,7 +1654,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord7Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord7value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1671,7 +1671,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord8Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord8label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1688,7 +1688,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord8Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord8value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1705,7 +1705,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord9Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord9label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1722,7 +1722,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord9Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord9value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1739,7 +1739,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord10Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord10label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1756,7 +1756,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord10Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord10value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1773,7 +1773,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord11Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord11label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1790,7 +1790,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord11Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord11value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1807,7 +1807,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord12Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord12label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1824,7 +1824,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord12Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord12value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1841,7 +1841,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord13Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord13label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1858,7 +1858,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord13Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord13value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1875,7 +1875,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord14Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord14label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1892,7 +1892,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord14Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord14value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1909,7 +1909,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord15Label"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord15label%"
 			"textAlignment"	"west"
 			"xpos"			"c128"
@@ -1926,7 +1926,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"OverallRecord15Value"
-			"font"			"HudFontSmallest"
+			"font"			"Volkswagen10" //"HudFontSmallest"
 			"labelText"		"%classrecord15value%"
 			"textAlignment"	"west"
 			"xpos"			"c210"
@@ -1959,7 +1959,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"TipText"
-		"font"			"HudFontSmallest"
+		"font"			"Volkswagen10" //"HudFontSmallest"
 		"labelText"		"%tiptext%"
 		"textAlignment"	"west"
 		"xpos"			"c-285"

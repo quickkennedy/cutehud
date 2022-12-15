@@ -75,33 +75,31 @@
 
 	"Sheet"
 	{
-		//"xpos"				"99999"
 		"ControlName"		"EditablePanel"
 		"fieldName"			"Sheet"
-		"tabxindent"		"80"
-		"tabxdelta"			"10"
+		"tabxindent"		"5"
+		"tabxdelta"			"0"
 		"tabwidth"			"240"
 		"tabheight"			"20"
 		"transition_time" 	"0"
-		//"yoffset"			"14"
-
+		"yoffset"			"14"
+		
+		"HeaderLine"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"HeaderLine"
+			"xpos"			"99999"
+		}
+		
 		"tabskv"
 		{
-			"visible"					"0"
-			"enabled"					"0"
-			"xpos"						"99999"
-			"wide"						"0"
-			"tall"						"0"
-			"textinsetx"				"99999" //"25"
-			"textinsety"				"99999" //"5"
+			"textinsetx"				"25"
+			"textinsety"				"5"
 			"textAlignment"				"north"
-			"font"						"" //HudFontSmall
+			"font"						"HudFontSmall"
 			"selectedcolor"				"Lavender"
 			"unselectedcolor"			"White"
-			//"defaultBgColor_override"	"DarkGrey"
-			"paintbackground"			"1"
-			//"activeborder_override"		"LavenderBorderTabs"
-			//"normalborder_override"		"LavenderBorderTabsInactive"
+			"defaultBgColor_override"	"Transparent"
 			"armedBgColor_override"		"Transparent"
 			"selectedBgColor_override"	"Transparent"
 		}

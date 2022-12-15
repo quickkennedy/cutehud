@@ -15,6 +15,8 @@ cl_show_market_data_on_items 2
 
 gamebanana behind on:
 - fixed mvm currency
+- stats panel
 
 huds.tf behind on:
 - fixed mvm currency
+- stats panel
