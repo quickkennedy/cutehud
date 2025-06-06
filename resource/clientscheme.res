@@ -3,5 +3,8 @@
 #base "../customizations/colors.res"
 #base "scheme/clientscheme_fonts.res"
 #base "scheme/clientscheme_icons.res"
-#base "scheme/clientscheme_xhairs.res"
-#base "scheme/clientscheme_xhairs_outline.res"
+
+#base "scheme/crosshair/scheme_blur.res"
+#base "scheme/crosshair/scheme_dropshadow.res"
+#base "scheme/crosshair/scheme_main.res"
+#base "scheme/crosshair/scheme_outline.res"

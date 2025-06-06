@@ -92,22 +92,7 @@ event HudMedicChargedStop
 	Animate	ChargeMeter					FgColor		"Uber Bar Color"	Linear 0.0 0.0001
 	Animate	ChargeLabel 				FgColor		"Ammo In Clip"		Linear 0.0 0.0001
 }
-//==================================================================================
 
-event DamagedPlayer
-{
-	StopEvent HitMarker 				0.0
-	RunEvent HitMarker 					0.01
-}
-
-event HitMarker
-{
-	Animate		CustomCrosshair			FgColor		"CrosshairDamage"	Linear 0.0	0.0
-	Animate		CustomCrosshair			FgColor		"Crosshair"		Linear 0.15	0.0
-
-	Animate 	Hitmarker    	 		Alpha     	"255"			Linear 	0.0 	0.0
-    	Animate 	Hitmarker    			Alpha     	"0"			Linear 	0.0 	0.35
-}
 //==================================================================================
 
 event FlagOutlineHide
