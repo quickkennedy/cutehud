@@ -13,8 +13,4 @@ hud_combattext_blue 255
 cl_show_market_data_on_items 2
 ```
 
-gamebanana behind on:
-- nothing lmao
-
-huds.tf behind on:
-- RIP HUDS.TF 420AD-2023AD :steamsad:
+also has an [official crosshair pack](https://github.com/quickkennedy/cutecrosshairs/)
