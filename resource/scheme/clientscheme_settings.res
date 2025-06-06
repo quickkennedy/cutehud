@@ -44,7 +44,7 @@ Scheme
 		Button.SelectedTextColor				"Lavender"
 		Button.SelectedBgColor					"Nomal_Hover"
 		Button.DepressedTextColor				"TanLight"
-		Button.DepressedBgColor					"Normal"
+		Button.DepressedBgColor					"Blank"
 
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"
