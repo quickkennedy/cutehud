@@ -27,7 +27,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 
-		"font"		"Size:18 | Outline:OFF"
+		"font"		"Size:10 | Outline:OFF"
 
 		//=========================================================================
 		// CROSSHAIR POSITION
@@ -37,8 +37,8 @@
 		// Adjust the values in order to perfectly center the crosshair
 		//=========================================================================
 
-		"xpos"		"cs-0.4999"
-		"ypos"		"cs-0.4990"
+		"xpos"		"cs-0.5"
+		"ypos"		"cs-0.5"
 
 		//=========================================================================
 		// CROSSHAIR COLOR
@@ -68,7 +68,7 @@
 	{
 		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshairBlurShadow" "enabled" "1" "xpos" "0" "ypos" "0" "zpos" "-1" "wide" "f0" "tall" "f0" "textAlignment" "center" "pin_to_sibling" "CustomCrosshair"
 		"labelText"	"?"
-		"font"		"Size:18 | Blur:ON"
+		"font"		"Size:10 | Blur:ON"
 		"fgcolor"	"0 0 0 255"
 	}
 
@@ -107,7 +107,7 @@
 		// The Outline can be toggled between ON and OFF
 		//=========================================================================
 
-		"font"		"Size:18 | Outline:OFF"
+		"font"		"Size:10 | Outline:OFF"
 
 		//=========================================================================
 		// HITMARKER POSITION
@@ -117,8 +117,8 @@
 		// Adjust the values in order to perfectly center the crosshair
 		//=========================================================================
 
-		"xpos"		"cs-0.4999"
-		"ypos"		"cs-0.4990"
+		"xpos"		"cs-0.5"
+		"ypos"		"cs-0.5"
 
 		//=========================================================================
 		// HITMARKER COLOR
