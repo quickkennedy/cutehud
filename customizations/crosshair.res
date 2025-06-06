@@ -80,7 +80,7 @@
 	// Make sure to use the same "LabelText" as the main crosshair!
 	//=======================================================================================================
 
-	CustomCrosshair
+	Hitmarker
 	{
 		//=========================================================================
 		// HITMARKER VISIBILITY
@@ -88,7 +88,7 @@
 		// "visible" "1" = Enabled  "visible" "0" = Disabled
 		//=========================================================================
 
-		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center" "alpha" "0"
+																																																																"controlName" "CExLabel" "fieldName" "Hitmarker" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
 
 		//=========================================================================
 		// HITMARKER TYPE
