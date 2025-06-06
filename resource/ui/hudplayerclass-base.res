@@ -1,6 +1,7 @@
 #base	"../../customizations/enabled/evehud aiming guide.res"
 #base	"../../customizations/enabled/candyhud playermodel.res"
 #base	"../../customizations/enabled/2d playermodel.res"
+#base 	"../../customizations/crosshair.res"
 
 "Resource/UI/HudPlayerClass.res"
 {
@@ -24,7 +25,7 @@
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"0"
+		"wide"			"80"
 		"tall"			"o1"
 		"visible"		"0"
 		"enabled"		"1"
@@ -38,7 +39,7 @@
 		"xpos"			"0"
 		"ypos"			"rs1"
 		"zpos"			"2"
-		"wide"			"0"
+		"wide"			"80"
 		"tall"			"o1"
 		"visible"		"0"
 		"enabled"		"1"
