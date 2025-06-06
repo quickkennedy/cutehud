@@ -22,7 +22,7 @@ Scheme
 		Econ.Button.FgColor						"TanDark"
 		Econ.Button.ArmedBgColor				"TanDark"
 		Econ.Button.ArmedFgColor				"TanLight"
-		Econ.Button.DepressedBgColor			"TanDarker"
+		Econ.Button.DepressedBgColor			"Blank"
 		Econ.Button.DepressedFgColor			"TanDark"
 		Econ.Button.PresetDefaultColorFg		"Lavender"
 		Econ.Button.PresetArmedColorFg			"Lavender"
@@ -44,7 +44,7 @@ Scheme
 		Button.SelectedTextColor				"Lavender"
 		Button.SelectedBgColor					"Nomal_Hover"
 		Button.DepressedTextColor				"TanLight"
-		Button.DepressedBgColor					"Nomal"
+		Button.DepressedBgColor					"Normal"
 
 		CheckButton.TextColor					"Yellow"
 		CheckButton.SelectedTextColor			"Yellow"
