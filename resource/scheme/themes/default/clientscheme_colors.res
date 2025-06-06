@@ -37,10 +37,6 @@ Scheme
 		"TransparentBlack"			"0 0 0 140"
 		
 		//---------------------------------------------
-		// Crosshair Colors
-		"Crosshair"					"242 242 242 255"
-		"CrosshairDamage"			"255 0 0 255"
-		//---------------------------------------------
 		// Ubercharge
 		"Uber Bar Color"			"235 226 202 255"
 		"Solid Color Uber"			"255 50 25 255"

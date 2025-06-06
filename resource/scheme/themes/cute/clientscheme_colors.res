@@ -35,11 +35,7 @@ Scheme
 		"Damage Numbers"			"207 191 255 255"
 		"ItemPanelBG"				"50 50 50 255"
 		"TransparentBlack"			"0 0 0 140"
-		
-		//---------------------------------------------
-		// Crosshair Colors
-		"Crosshair"					"242 242 242 255"
-		"CrosshairDamage"			"255 0 0 255"
+
 		//---------------------------------------------
 		// Ubercharge
 		"Uber Bar Color"			"235 226 202 255"
