@@ -76,52 +76,14 @@
 	//=======================================================================================================
 	// HITMARKER
 	//-------------------------------------------------------------------------------------------------------
-	// Before you enabling the crosshair's blur shadow uncomment the blur scheme inside crosshair_scheme.res
-	// Make sure to use the same "LabelText" as the main crosshair!
+	// you can change hitmarker settings here, BUT IT IS NOT ENABLED UNTIL YOU GO INTO THE ANIMATIONS FILE
+	// NEXT TO THIS FILE IS crosshair_animation.txt ENABLE IT THERE
 	//=======================================================================================================
 
-	Hitmarker
+	"HitMarker"
 	{
-
-																																																																"controlName" "CExLabel" "fieldName" "Hitmarker" "wide" "f0" "tall" "f0" "zpos" "0" "textAlignment" "center"
-
-		//=========================================================================
-		// HITMARKER TYPE
-		//-------------------------------------------------------------------------
-		// The "labelText" can be changed to display different types of crosshairs
-		// each alphabet letter / symbol represents a different crosshair
-		// Checkout the different options in the TF2Crosshairs.png
-		//=========================================================================
-
-		"labelText"	"z"
-
-		//=========================================================================
-		// HITMARKER SIZE & PROPERTIES
-		//-------------------------------------------------------------------------
-		// The crosshair size can be any number between 10 and 30
-		// The Outline can be toggled between ON and OFF
-		//=========================================================================
-
+		"labelText"	"z"																																																																					"ControlName" "CExLabel" "fieldName" "HitMarker" "enabled" "1" "visible" "1" "xpos" "0" "ypos" "0"  "zpos" "0" "wide" "f0" "tall" "f0" "textAlignment" "center" "Alpha"	"0" "pin_to_sibling" "CustomCrosshair"
 		"font"		"Size:10 | Outline:OFF"
-
-		//=========================================================================
-		// HITMARKER POSITION
-		//-------------------------------------------------------------------------
-		// "xpos" represents the horizontal crosshair position
-		// "ypos" represents the vertical crosshair position
-		// Adjust the values in order to perfectly center the crosshair
-		//=========================================================================
-
-		"xpos"		"cs-0.5"
-		"ypos"		"cs-0.5"
-
-		//=========================================================================
-		// HITMARKER COLOR
-		//-------------------------------------------------------------------------
-		// The color is a R. (red) G. (green) B. (blu) A. (alpha) code
-		// Adjust each value to get the desired color
-		//=========================================================================
-
-		"fgcolor"	"255 255 255 255"
+		"fgcolor"	"207 191 255 255"
 	}
 }
