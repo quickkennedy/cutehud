@@ -8,7 +8,7 @@
 		// "visible" "1" = Enabled  "visible" "0" = Disabled
 		//=========================================================================
 
-		"visible"	"1"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
+		"visible"	"0"																																																																			"controlName" "CExLabel" "fieldName" "CustomCrosshair" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
 
 		//=========================================================================
 		// CROSSHAIR TYPE
@@ -82,13 +82,8 @@
 
 	Hitmarker
 	{
-		//=========================================================================
-		// HITMARKER VISIBILITY
-		//=========================================================================
-		// "visible" "1" = Enabled  "visible" "0" = Disabled
-		//=========================================================================
 
-																																																																"controlName" "CExLabel" "fieldName" "Hitmarker" "wide" "f0" "tall" "f0" "enabled" "1" "zpos" "0" "textAlignment" "center"
+																																																																"controlName" "CExLabel" "fieldName" "Hitmarker" "wide" "f0" "tall" "f0" "zpos" "0" "textAlignment" "center"
 
 		//=========================================================================
 		// HITMARKER TYPE
