@@ -3,43 +3,6 @@
 
 "Resource/HudLayout.res"
 {
-	//--------------------------------------------------------------
-	// HUD CROSSHAIR
-	//--------------------------------------------------------------
-	// Set visible and enabled to 1 to use.
-	// Change xpos and ypos values if not perfectly centered.
-	// Change labelText to the corresponding crosshair in TF2Crosshairs.png.
-	//--------------------------------------------------------------
-	"CustomCrosshair"
-	{
-		"enabled"			"1"
-		"controlName"		"CExLabel"
-		"fieldName"			"CustomCrosshair"
-		"zpos"				"0"
-		"xpos"				"cs-0.5"
-		"ypos"				"cs-0.5"
-		"wide"				"f0"
-		"tall"				"f0"
-		"textAlignment"		"center"
-		"fgcolor"			"Crosshair"
-	}
-	
-	"Hitmarker"
-	{
-		"enabled"			"1"
-		"controlName"		"CExLabel"
-		"fieldName"			"Hitmarker"
-		"zpos"				"0"
-		"xpos"				"cs-0.5"
-		"ypos"				"cs-0.5"
-		"wide"				"f0"
-		"tall"				"f0"
-		"textAlignment"		"center"
-		"fgcolor"			"CrosshairDamage"
-		"alpha"				"0"
-	}
-	//--------------------------------------------------------------
-
 	"HudPlayerStatus"
 	{
 		"fieldName"			"HudPlayerStatus"
